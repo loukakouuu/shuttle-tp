@@ -1,0 +1,199 @@
+
+Ccom.simplecity.amp_library.model.Query#toString()Ljava/lang/String;G
+=app\src\main\java\com\simplecity\amp_library\model\Query.java? ?("1*¸
+1@ @(^
+\
+@ A(
+%0java.lang.String"__concat*
+@ @(
+
+Query{*
+A A(
+
+\nuri=i
+g
+A A(
+%1"__id*O
+
+__unknown_file (3*1(
+&com.simplecity.amp_library.model.Query"
+uril
+j
+@ A(
+%2"__calculate*
+A A(
++*$
+@ A(
+
+%0java.lang.String*
+A A(
+
+%1e
+c
+@ B(
+%3"__calculate*
+A A( 
++*
+@ A(
+
+%2*
+B B(
+\nPROJECTION=Ö
+Ç
+B2 B(<
+%4java.lang.String[]"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Query"
+
+projection—
+Œ
+B" B(=
+%5java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*6
+
+__unknown_file (
+
+%4java.lang.String[]l
+j
+@ B(=
+%6"__calculate*
+B  B(!
++*
+@ B(
+
+%3*$
+B" B(=
+
+%5java.lang.Stringe
+c
+@ C(
+%7"__calculate*
+B> B(?
++*
+@ B(=
+
+%6*
+C C(
+\nselection='Å
+
+C" C(+
+%8java.lang.String"__id*U
+
+__unknown_file (9*7(
+&com.simplecity.amp_library.model.Query"
+	selectionl
+j
+@ C(+
+%9"__calculate*
+C  C(!
++*
+@ C(
+
+%7*$
+C" C(+
+
+%8java.lang.String[
+Y
+@ C(2
+%10"__calculate*
+C, C(-
++*
+@ C(+
+
+%9*
+C. C(2
+\'a
+_
+@ D(
+%11"__calculate*
+C3 C(4
++*
+@ C(2
+
+%10*
+D D(	
+\nargs=
+}
+D, D(0
+%12java.lang.String[]"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+args”
+–
+D D(1
+%13java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*7
+
+__unknown_file (
+
+%12java.lang.String[]o
+m
+@ D(1
+%14"__calculate*
+D D(
++*
+@ D(
+
+%11*%
+D D(1
+
+%13java.lang.Stringb
+`
+@ E(
+%15"__calculate*
+D2 D(3
++*
+@ D(1
+
+%14*
+E E(
+
+\nsort='}
+{
+E E(!
+%16java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+sorto
+m
+@ E(!
+%17"__calculate*
+E E(
++*
+@ E(
+
+%15*%
+E E(!
+
+%16java.lang.String\
+Z
+@ E((
+%18"__calculate*
+E" E(#
++*
+@ E(!
+
+%17*
+E$ E((
+\'[
+Y
+@ F(
+%19"__calculate*
+E) E(*
++*
+@ E((
+
+%18*
+F F(
+}"
+@ F(
+
+%19B*(
+&com.simplecity.amp_library.model.QueryH

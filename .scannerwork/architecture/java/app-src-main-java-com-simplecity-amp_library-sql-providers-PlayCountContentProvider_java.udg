@@ -1,0 +1,736 @@
+
+1.0loukakouJavaFrontend"1779719402915*java2.BÝ
+]
+Xapp/src/main/java/com/simplecity/amp_library/sql/providers/PlayCountContentProvider.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.sql.providers7
+F
+Acom.simplecity.amp_library.sql.providers.PlayCountContentProvider9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(16:1)-(188:2)14
+
+simple-name15
+
+PlayCountContentProvider16
+-
+'Recovered#typeBindingLContentProvider;018
+
+unknown19
+
+extends20
+
+
+uses21
+K
+Ecom.simplecity.amp_library.sql.providers.PlayCountContentProvider.TAG23
+
+field24
+
+private25
+
+(18:5)-(18:65)26
+	
+TAG27
+P
+Jcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.database29
+
+(20:5)-(20:37)30
+
+database31
+
+PlayCountTable33
+
+is type34
+R
+Lcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.PLAY_COUNT36
+
+(23:5)-(23:46)37
+
+
+PLAY_COUNT38
+U
+Ocom.simplecity.amp_library.sql.providers.PlayCountContentProvider.PLAY_COUNT_ID40
+
+(25:5)-(25:49)41
+
+PLAY_COUNT_ID42
+Q
+Kcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.AUTHORITY44
+
+(27:5)-(27:104)45
+
+	AUTHORITY46
+Q
+Kcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.BASE_PATH48
+
+(29:5)-(29:58)49
+
+	BASE_PATH50
+S
+Mcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.sURIMatcher52
+
+(31:5)-(31:87)53
+
+sURIMatcher54
+
+
+UriMatcher56
+
+
+references57
+S
+Mcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#onCreate()Z59
+
+method60
+
+(38:5)-(42:6)61
+
+onCreate62
+§
+ com.simplecity.amp_library.sql.providers.PlayCountContentProvider#query(LUri;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)LCursor;64
+
+(44:5)-(76:6)65
+
+query66
+
+Cursor68
+
+returns69
+!
+Recovered#typeBindingLUri;071
+
+	has param72
+0
+*Recovered#typeBindingLSQLiteQueryBuilder;074
+j
+dcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#checkColumns([Ljava/lang/String;)V76
+
+calls77
+,
+&Recovered#typeBindingLSQLiteDatabase;079
+$
+Recovered#typeBindingLCursor;081
+h
+bcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#getType(LUri;)Ljava/lang/String;83
+
+(78:5)-(81:6)84
+
+getType85
+
+NonNull87
+
+annotated by88
+%
+Recovered#typeBindingLNonNull;090
+i
+ccom.simplecity.amp_library.sql.providers.PlayCountContentProvider#insert(LUri;LContentValues;)LUri;92
+
+(83:5)-(99:6)93
+
+insert94
+	
+Uri96
++
+%Recovered#typeBindingLContentValues;098
+|
+ucom.simplecity.amp_library.sql.providers.PlayCountContentProvider#delete(LUri;Ljava/lang/String;[Ljava/lang/String;)I100
+
+(101:5)-(129:6)101
+
+delete102
+Œ
+„com.simplecity.amp_library.sql.providers.PlayCountContentProvider#update(LUri;LContentValues;Ljava/lang/String;[Ljava/lang/String;)I104
+
+(131:5)-(168:6)105
+
+update106
+
+(170:5)-(187:6)107
+
+checkColumns108J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j™
+P
+99J
+9910060 *
+1f f(28:5B&
+
+
+11
+12
+
+13
+101
+
+15
+102
+
+17
+171819
+
+55
+555619
+
+32
+323319
+
+67
+676819
+
+95
+959619
+G
+8B
+8910 *
+1 (&:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+91G
+919260 *
+1T T(28:5B$
+
+
+11
+12
+
+
+13
+93
+
+
+15
+94
+
+70
+707119
+M
+63G
+636460 *
+1- -(28:5B$
+
+
+11
+12
+
+
+13
+65
+
+
+15
+66
+
+78
+787919
+
+86
+868719
+
+80
+808119
+M
+47G
+474824 *
+1! (*28:5B$
+
+
+11
+25
+
+
+13
+49
+
+
+15
+50
+
+73
+737419
+M
+43G
+434424 *
+1! (*28:5B$
+
+
+11
+25
+
+
+13
+45
+
+
+15
+46
+M
+58G
+585960 *
+1' '(28:5B$
+
+
+11
+12
+
+
+13
+61
+
+
+15
+62
+T
+103M
+10310460 *
+1„ „(28:5B&
+
+
+11
+12
+
+13
+105
+
+15
+106
+M
+35G
+353624 *
+1 ((28:5B$
+
+
+11
+25
+
+
+13
+37
+
+
+15
+38
+M
+51G
+515224 *
+1% (028:5B$
+
+
+11
+25
+
+
+13
+53
+
+
+15
+54
+M
+39G
+394024 *
+1 (+28:5B$
+
+
+11
+25
+
+
+13
+41
+
+
+15
+42
+Q
+75K
+757660 *
+1ª ª(28:5B&
+
+
+11
+25
+
+13
+107
+
+15
+108
+M
+28G
+282924 *
+1 ($28:5B$
+
+
+11
+25
+
+
+13
+30
+
+
+15
+31
+M
+82G
+828360 *
+1O O(28:5B$
+
+
+11
+12
+
+
+13
+84
+
+
+15
+85
+
+89
+899019
+
+97
+979819
+M
+22G
+222324 *
+1! ($28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27rÜ
+
+81720*
+1/ (>
+
+81721*
+1/ (>
+
+283234*
+1 (
+
+283221*
+1 (
+
+283221*
+1 ($
+
+515534*
+1 ($
+
+515521*
+1 ($
+
+515521*
+1% (0
+
+85157*
+1"	 "(
+
+85521*
+1"	 "(
+
+85157*
+1"	 "(
+
+84357*
+1" "(%
+
+84757*
+1"' "(0
+
+83557*
+1"2 "(<
+
+85157*
+1#	 #(
+
+85521*
+1#	 #(
+
+85157*
+1#	 #(
+
+84357*
+1# #(%
+
+84757*
+1#' #(0
+
+83957*
+1#9 #(F
+
+583221*
+1(	 ((
+
+582857*
+1(	 ((
+
+636769*
+1- -(
+
+637072*
+1- -(
+
+636721*
+1- -(
+
+637034*
+1- -( 
+
+637021*
+1- -(
+
+637334*
+11 1((
+
+637321*
+11	 1(
+
+63857*
+14	 4(
+
+637577*
+14	 4(
+
+635157*
+19 9("
+
+635521*
+19 9("
+
+635157*
+19 9("
+
+633557*
+1; ;(
+
+633957*
+1= =(
+
+637834*
+1E E(
+
+637821*
+1E	 E(
+
+632857*
+1E E(%
+
+633221*
+1E E(%
+
+632857*
+1E E(%
+
+638034*
+1F F(
+
+638021*
+1F	 F(
+
+827072*
+1O$ O('
+
+827034*
+1O( O(+
+
+828688*
+1O O(#
+
+828921*
+1O O(#
+
+827021*
+1O$ O('
+
+919569*
+1T T(
+
+917072*
+1T T(
+
+919772*
+1T  T(-
+
+919521*
+1T T(
+
+917034*
+1T T(
+
+917021*
+1T T(
+
+919734*
+1T. T(4
+
+919721*
+1T  T(-
+
+915157*
+1U U("
+
+915521*
+1U U("
+
+915157*
+1U U("
+
+917834*
+1V V(
+
+917821*
+1V	 V(
+
+912857*
+1V  V((
+
+913221*
+1V  V((
+
+912857*
+1V  V((
+
+913557*
+1Y Y(
+
+914757*
+1b b(#
+
+997072*
+1f  f(#
+
+997034*
+1f$ f('
+
+998688*
+1f f(
+
+998921*
+1f f(
+
+997021*
+1f  f(#
+
+995157*
+1g g("
+
+995521*
+1g g("
+
+995157*
+1g g("
+
+997834*
+1h h(
+
+997821*
+1h	 h(
+
+992857*
+1h  h((
+
+993221*
+1h  h((
+
+992857*
+1h  h((
+
+993557*
+1k k(
+
+993957*
+1n n(
+
+1037072*
+1„ „(
+
+1039772*
+1„  „(-
+
+1037034*
+1„ „(
+
+1037021*
+1„ „(
+
+1039734*
+1„. „(4
+
+1039721*
+1„  „(-
+
+1035157*
+1† †("
+
+1035521*
+1† †("
+
+1035157*
+1† †("
+
+1037834*
+1‡ ‡(
+
+1037821*
+1‡	 ‡(
+
+1032857*
+1‡  ‡((
+
+1033221*
+1‡  ‡((
+
+1032857*
+1‡  ‡((
+
+1033557*
+1Š Š(
+
+1033957*
+1 (

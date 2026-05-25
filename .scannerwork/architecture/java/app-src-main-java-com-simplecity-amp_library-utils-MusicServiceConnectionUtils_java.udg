@@ -1,0 +1,706 @@
+
+1.0loukakouJavaFrontend"1779719398764*java2.Bä
+X
+Sapp/src/main/java/com/simplecity/amp_library/utils/MusicServiceConnectionUtils.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+A
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(14:1)-(88:2)14
+
+simple-name15
+!
+MusicServiceConnectionUtils16
+F
+@com.simplecity.amp_library.utils.MusicServiceConnectionUtils.TAG18
+
+field19
+
+private20
+
+(16:5)-(16:65)21
+	
+TAG22
+P
+Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils.serviceBinder24
+
+(18:5)-(18:52)25
+
+serviceBinder26
+5
+/com.simplecity.amp_library.playback.LocalBinder28
+
+unknown29
+
+is type30
+
+
+uses31
+P
+Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils.connectionMap33
+
+(20:5)-(20:98)34
+
+connectionMap35
+%
+Recovered#typeBindingLContext;037
+P
+Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder39
+
+
+references40
+L
+Fcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#<init>()V42
+
+method43
+
+(22:5)-(24:6)44
+
+calls45
+ù
+ñcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#bindToService(LLifecycle;LContext;LAnalyticsManager;LServiceConnection;LUnsafeConsumer;)V47
+
+(26:5)-(37:6)48
+
+bindToService49
+'
+!Recovered#typeBindingLLifecycle;051
+
+	has param52
+.
+(Recovered#typeBindingLAnalyticsManager;054
+/
+)Recovered#typeBindingLServiceConnection;056
+,
+&Recovered#typeBindingLUnsafeConsumer;058
+O
+Icom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken60
+*
+$Recovered#typeBindingLMusicService;062
+£
+úcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)V64
+
+(39:5)-(52:6)65
+
+unbindFromService66
+
+Context68
+W
+Qcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken.context70
+
+(54:5)-(78:6)71
+
+ServiceBinder72
+
+
+implements73
+Y
+Scom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder.callback75
+
+(56:9)-(56:50)76
+
+callback77
+
+ServiceConnection79
+m
+gcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#<init>(LServiceConnection;)V81
+
+	protected82
+
+(58:9)-(60:10)83
+~
+xcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#onServiceConnected(LComponentName;LIBinder;)V85
+
+(62:9)-(69:10)86
+
+onServiceConnected87
++
+%Recovered#typeBindingLComponentName;089
+%
+Recovered#typeBindingLIBinder;091
+x
+rcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#onServiceDisconnected(LComponentName;)V93
+
+(71:9)-(77:10)94
+
+onServiceDisconnected95
+
+(80:5)-(87:6)96
+
+ServiceToken97
+
+(82:9)-(82:32)98
+
+context99
+c
+\com.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken#<init>(LContext;)V101
+
+(84:9)-(86:10)102J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÅ
+M
+23G
+232419 *
+1 (,28:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+
+36
+363729
+G
+8B
+8910 *
+1 ():5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+78
+787929
+
+55
+555629
+
+88
+888929
+M
+46G
+464743 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+48
+
+
+15
+49
+N
+69H
+697019 *
+1R R(259:5B$
+
+
+11
+12
+
+
+13
+98
+
+
+15
+99
+N
+80H
+808143 *
+1:	 :(238:5B$
+
+
+11
+82
+
+
+13
+83
+
+
+15
+72
+N
+92H
+929343 *
+1H H(*238:5B$
+
+
+11
+12
+
+
+13
+94
+
+
+15
+95
+M
+38G
+383910 *
+16 6(,28:5B$
+
+
+11
+12
+
+
+13
+71
+
+
+15
+72
+M
+32G
+323319 *
+1> (K28:5B$
+
+
+11
+20
+
+
+13
+34
+
+
+15
+35
+M
+59G
+596010 *
+1P P(+28:5B$
+
+
+11
+12
+
+
+13
+96
+
+
+15
+97
+
+57
+575829
+
+67
+676829
+M
+41G
+414243 *
+1 ((28:5B$
+
+
+11
+20
+
+
+13
+44
+
+
+15
+16
+N
+84H
+848543 *
+1? ?('238:5B$
+
+
+11
+12
+
+
+13
+86
+
+
+15
+87
+
+50
+505129
+
+61
+616229
+
+53
+535429
+M
+17G
+171819 *
+1! ($28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+R
+100K
+10010143 *
+1T	 T(259:5B%
+
+
+11
+82
+
+13
+102
+
+
+15
+97
+M
+63G
+636443 *
+1' '()28:5B$
+
+
+11
+12
+
+
+13
+65
+
+
+15
+66
+
+90
+909129
+
+27
+272829
+N
+74H
+747519 *
+18) 8(1238:5B$
+
+
+11
+20
+
+
+13
+76
+
+
+15
+77rì
+
+232730*
+1 (
+
+232731*
+1 (
+
+232731*
+1 (,
+
+323631*
+1& (-
+
+323831*
+1/ (<
+
+323840*
+1/ (<
+
+41845*
+1 ((
+
+465052*
+1& (/
+
+463652*
+1; (B
+
+465352*
+1L (\
+
+465552*
+1o (Ä
+
+465752*
+1ã (ß
+
+465030*
+10 (9
+
+465031*
+1& (/
+
+463630*
+1C (J
+
+463631*
+1; (B
+
+465330*
+1] (m
+
+465331*
+1L (\
+
+465530*
+1Å (â
+
+465531*
+1o (Ä
+
+465730*
+1® (µ
+
+465731*
+1ã (ô
+
+465931*
+1ö (¶
+
+465940*
+1ö (¶
+
+466131*
+1k (w
+
+635952*
+1'* '(6
+
+635930*
+1'7 '(<
+
+635931*
+1'* '(6
+
+635940*
+1'* '(6
+
+633630*
+1+ +(
+
+633631*
+1+ +(
+
+636731*
+1+' +(.
+
+636940*
+1+' +(.
+
+633830*
+1, ,(#
+
+633831*
+1, ,(
+
+633840*
+1, ,(
+
+633240*
+1,& ,(3
+
+633240*
+1,& ,(3
+
+633240*
+11 1(
+
+633240*
+11 1(
+
+632731*
+12 2(
+
+632340*
+12 2(
+
+385573*
+168 6(I
+
+385531*
+168 6(I
+
+747830*
+18 8((
+
+747831*
+18 8((
+
+747831*
+18) 8(1
+
+805552*
+1: :(.
+
+803845*
+1:	 :(
+
+805530*
+1:/ :(7
+
+805531*
+1: :(.
+
+803831*
+1; ;(
+
+803840*
+1; ;(
+
+807831*
+1; ;(
+
+807440*
+1; ;(
+
+848852*
+1?. ?(;
+
+849052*
+1?M ?(T
+
+848830*
+1?< ?(E
+
+848831*
+1?. ?(;
+
+849030*
+1?U ?(\
+
+849031*
+1?M ?(T
+
+842731*
+1@ @(
+
+842340*
+1@ @(
+
+842731*
+1@ @()
+
+847831*
+1B B(
+
+847440*
+1B B(
+
+847440*
+1C C(
+
+847831*
+1C C(
+
+847440*
+1C C(
+
+928852*
+1H1 H(>
+
+928830*
+1H? H(H
+
+928831*
+1H1 H(>
+
+927831*
+1I I(
+
+927440*
+1I I(
+
+927440*
+1J J(
+
+927831*
+1J J(
+
+927440*
+1J J(
+
+922731*
+1L L(
+
+922340*
+1L L(
+
+696730*
+1R R(
+
+696731*
+1R R(
+
+696731*
+1R R(
+
+1003652*
+1T T(#
+
+1005945*
+1T	 T(
+
+1003630*
+1T$ T(+
+
+1003631*
+1T T(#
+
+1005931*
+1U U(
+
+1005940*
+1U U(
+
+1006731*
+1U U(
+
+1006940*
+1U U(

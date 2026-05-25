@@ -1,0 +1,47 @@
+
+5com.simplecity.amp_library.utils.AnimUtils#lerp(DDD)DK
+Aapp\src\main\java\com\simplecity\amp_library\utils\AnimUtils.java ("1*Å
+1 (p
+n
+ (
+%0double"__calculate*
+ (
+-*
+ (
+
+bdouble*
+ (
+
+adoubleq
+o
+ (
+%1double"__calculate*
+ (
+**
+ (
+
+%0double*
+ (
+
+vdoubleq
+o
+ (
+%2double"__calculate*
+ (
++*
+ (
+
+adouble*
+ (
+
+%1double"
+ (
+
+%2double:
+ ('
+adouble:
+( (1
+bdouble:
+2 (:
+vdoubleB.",
+*com.simplecity.amp_library.utils.AnimUtilsHX

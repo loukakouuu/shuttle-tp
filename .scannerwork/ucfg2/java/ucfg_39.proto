@@ -1,0 +1,140 @@
+
+8com.simplecity.amp_library.model.AlbumArtist#hashCode()IM
+Capp\src\main\java\com\simplecity\amp_library\model\AlbumArtist.javax x("7*V
+2zE z(FB
+@
+zE z(F
+%9"__id*(
+
+__unknown_file (
+
+
+%11int*
+1*Æ
+3z1 z(7s
+q
+z1 z(7
+%12"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albums=
+;
+z1 z(B
+%9"__id*#
+
+__unknown_file (
+
+%10*
+1*˜
+4y y(8J
+H
+y y(8
+resultint"__id*'
+
+__unknown_file (
+	
+%2intf
+d
+z z(	
+%6int"__calculate*
+z z(
+**
+z z(2*
+z z(
+
+resultintr
+p
+z  z(&
+%7"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albumsY
+W
+z  z(.
+%8"	__compare*
+z' z()
+!=*
+z  z(&
+
+%7*
+z* z(.
+""*
+2
+3*Z
+5y6 y(7F
+D
+y6 y(7	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+4*Ù
+6y$ y((ƒ
+€
+y$ y((
+%5java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namewu
+y$ y(3	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+y$ y(3	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+4*‘
+7y y(ƒ
+€
+y y(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namet
+r
+y y(!
+%1boolean"	__compare*
+y y(
+!=*$
+y y(
+
+%0java.lang.String*
+y y(!
+""*
+5
+6*Ô
+1z z(G`
+^
+z z(G
+%13"__calculate*
+z z(
++*
+z z(
+	
+%6int*
+z z(G
+
+%9F
+D
+z z(G
+resultint"__id*#
+
+__unknown_file (
+
+%13"
+{ {(
+
+resultintB0.
+,com.simplecity.amp_library.model.AlbumArtistHX

@@ -1,0 +1,347 @@
+
+1.0loukakouJavaFrontend"1779719396185*java2.B˘
+
+b
+]app/src/main/java/com/simplecity/amp_library/ui/views/recyclerview/GridDividerDecoration.java2
+	
+type3
+	
+MAIN4
+
+package6
+5
+0com.simplecity.amp_library.ui.views.recyclerview7
+K
+Fcom.simplecity.amp_library.ui.views.recyclerview.GridDividerDecoration9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(12:1)-(67:2)14
+
+simple-name15
+
+GridDividerDecoration16
+*
+$Recovered#typeBindingLRecyclerView;018
+
+unknown19
+
+extends20
+
+
+uses21
+T
+Ncom.simplecity.amp_library.ui.views.recyclerview.GridDividerDecoration.spacing23
+
+field24
+
+private25
+
+(14:5)-(14:25)26
+
+spacing27
+X
+Rcom.simplecity.amp_library.ui.views.recyclerview.GridDividerDecoration.includeEdge29
+
+(15:5)-(15:33)30
+
+includeEdge31
+c
+]com.simplecity.amp_library.ui.views.recyclerview.GridDividerDecoration#<init>(LResources;IZ)V33
+
+method34
+
+(17:5)-(20:6)35
+'
+!Recovered#typeBindingLResources;037
+
+	has param38
+
+calls39
+
+is type40
+
+
+references41
+ç
+Ücom.simplecity.amp_library.ui.views.recyclerview.GridDividerDecoration#getItemOffsets(LRect;LView;LRecyclerView;LRecyclerView/State;)V43
+
+(22:5)-(66:6)44
+
+getItemOffsets45
+"
+Recovered#typeBindingLRect;047
+"
+Recovered#typeBindingLView;049
+/
+)Recovered#typeBindingLGridLayoutManager;051
+.
+(Recovered#typeBindingLViewModelAdapter;053
+'
+!Recovered#typeBindingLViewModel;055J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jë
+M
+32G
+323334 *
+1 (!28:5B$
+
+
+11
+12
+
+
+13
+35
+
+
+15
+16
+M
+22G
+222324 *
+1 (28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+M
+42G
+424334 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+M
+28G
+282924 *
+1 ( 28:5B$
+
+
+11
+25
+
+
+13
+30
+
+
+15
+31
+
+36
+363719
+
+48
+484919
+G
+8B
+8910 *
+1 (#:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+50
+505119
+
+46
+464719
+
+52
+525319
+
+17
+171819
+
+54
+545519r£
+
+
+81720*
+1, (G
+
+81721*
+1, (8
+
+81721*
+19 (G
+
+323638*
+1" (+
+
+32839*
+1 (!
+
+323640*
+1, (/
+
+323621*
+1" (+
+
+32821*
+1	 (
+
+32841*
+1	 (
+
+322241*
+1 (
+
+32821*
+1	 (
+
+32841*
+1	 (
+
+322841*
+1 (
+
+424638*
+1  ($
+
+424838*
+1. (2
+
+421738*
+19 (E
+
+421738*
+1N (`
+
+424640*
+1% (,
+
+424621*
+1  ($
+
+424840*
+13 (7
+
+424821*
+1. (2
+
+421740*
+1F (L
+
+421721*
+19 (E
+
+421740*
+1a (f
+
+421721*
+1N (Z
+
+421721*
+1[ (`
+
+425021*
+14 (E
+
+425021*
+1 (,
+
+425021*
+1# #(,
+
+425021*
+1$ $(-
+
+421740*
+1& &(%
+
+421721*
+1&	 &(
+
+421721*
+1& &(
+
+425221*
+1'  '(0
+
+425440*
+1( (( 
+
+425421*
+1( ((
+
+425221*
+1(% ((5
+
+422841*
+1, ,( 
+
+422241*
+1-& -(-
+
+422841*
+13 3(
+
+422241*
+14 4(#
+
+422241*
+142 4(9
+
+422241*
+15/ 5(6
+
+422241*
+18 8(&
+
+422241*
+1: :(%
+
+422241*
+1<( <(/
+
+422241*
+1= =($
+
+422241*
+1=9 =(@
+
+422241*
+1? ?(&

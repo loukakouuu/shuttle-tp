@@ -1,0 +1,103 @@
+
+1.0loukakouJavaFrontend"1779719409656*java2.Bñ
+X
+Sapp/src/main/java/com/simplecity/amp_library/ui/modelviews/SelectableViewModel.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.ui.modelviews7
+A
+<com.simplecity.amp_library.ui.modelviews.SelectableViewModel9
+
+	interface10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(8:2)14
+
+simple-name15
+
+SelectableViewModel16
+R
+Lcom.simplecity.amp_library.ui.modelviews.SelectableViewModel#setSelected(Z)V18
+
+method19
+
+(5:5)-(5:40)20
+
+setSelected21
+P
+Jcom.simplecity.amp_library.ui.modelviews.SelectableViewModel#isSelected()Z23
+
+(7:5)-(7:26)24
+
+
+isSelected25J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jç
+M
+17G
+171819 *
+1
+ (28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21
+M
+22G
+222319 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+24
+
+
+15
+25
+G
+8B
+8910 *
+1 (%:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16

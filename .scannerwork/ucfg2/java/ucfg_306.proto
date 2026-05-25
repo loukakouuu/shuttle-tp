@@ -1,0 +1,393 @@
+
+Ccom.simplecity.amp_library.model.Album#toString()Ljava/lang/String;I
+=app\src\main\java\com\simplecity\amp_library\model\Album.java¬ ¬("1*õ
+1
+­ ­(a
+_
+
+­ ®(
+%0java.lang.String"__concat*
+
+­ ­(
+
+Album{*
+
+® ®(
+id=p
+n
+
+® ®(
+
+%1long"__id*N
+
+__unknown_file (2*0(
+&com.simplecity.amp_library.model.Album"
+idz
+x
+
+­ ®(
+%2"__calculate*
+
+® ®(
++*&
+
+­ ®(
+
+%0java.lang.String*
+
+® ®(
+
+
+%1longh
+f
+
+­ ¯(
+%3"__calculate*
+
+® ®(
++*
+
+­ ®(
+
+%2*
+
+¯ ¯(
+
+, name='~
+|
+
+¯ ¯(!
+%4java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Album"
+namet
+r
+
+­ ¯(!
+%5"__calculate*
+
+¯ ¯(
++*
+
+­ ¯(
+
+%3*&
+
+¯ ¯(!
+
+%4java.lang.Stringb
+`
+
+­ ¯((
+%6"__calculate*
+
+¯" ¯(#
++*
+
+­ ¯(!
+
+%5*
+
+¯$ ¯((
+\'j
+h
+
+­ °(
+%7"__calculate*
+
+¯) ¯(*
++*
+
+­ ¯((
+
+%6*
+
+° °(
+
+, artists=o
+m
+
+° °(&
+%8"__id*S
+
+__unknown_file (7*5(
+&com.simplecity.amp_library.model.Album"	
+artistsb
+`
+
+­ °(&
+%9"__calculate*
+
+° °(
++*
+
+­ °(
+
+%7*
+
+° °(&
+
+%8t
+r
+
+­ ±(%
+%10"__calculate*
+
+°' °((
++*
+
+­ °(&
+
+%9*%
+
+± ±(%
+, albumArtistName='‹
+ˆ
+
+±( ±(7
+%11java.lang.String"__id*[
+
+__unknown_file (?*=(
+&com.simplecity.amp_library.model.Album"
+albumArtistNamew
+u
+
+­ ±(7
+%12"__calculate*
+
+±& ±('
++*
+
+­ ±(%
+
+%10*'
+
+±( ±(7
+
+%11java.lang.Stringd
+b
+
+­ ±(>
+%13"__calculate*
+
+±8 ±(9
++*
+
+­ ±(7
+
+%12*
+
+±: ±(>
+\'i
+g
+
+­ ²(
+%14"__calculate*
+
+±? ±(@
++*
+
+­ ±(>
+
+%13*
+
+² ²(	
+, year=r
+p
+
+² ²( 
+
+%15int"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Album"
+yearj
+h
+
+­ ²( 
+%16"__calculate*
+
+² ²(
++*
+
+­ ²(
+
+%14*
+
+² ²( 
+
+
+%15intm
+k
+
+­ ³(
+%17"__calculate*
+
+²! ²("
++*
+
+­ ²( 
+
+%16*
+
+³ ³(
+, numSongs=v
+t
+
+³  ³((
+
+%18int"__id*T
+
+__unknown_file (8*6(
+&com.simplecity.amp_library.model.Album"
+
+numSongsj
+h
+
+­ ³((
+%19"__calculate*
+
+³ ³(
++*
+
+­ ³(
+
+%17*
+
+³  ³((
+
+
+%18into
+m
+
+­ ´(
+%20"__calculate*
+
+³) ³(*
++*
+
+­ ³((
+
+%19*
+
+´ ´(
+, lastPlayed=y
+w
+
+´" ´(,
+%21long"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Album"
+
+lastPlayedk
+i
+
+­ ´(,
+%22"__calculate*
+
+´  ´(!
++*
+
+­ ´(
+
+%20*
+
+´" ´(,
+
+%21longn
+l
+
+­ µ(
+%23"__calculate*
+
+´- ´(.
++*
+
+­ ´(,
+
+%22*
+
+µ µ(
+, dateAdded=x
+v
+
+µ! µ(*
+%24long"__id*U
+
+__unknown_file (9*7(
+&com.simplecity.amp_library.model.Album"
+	dateAddedk
+i
+
+­ µ(*
+%25"__calculate*
+
+µ µ( 
++*
+
+­ µ(
+
+%23*
+
+µ! µ(*
+
+%24longj
+h
+
+­ ¶(
+%26"__calculate*
+
+µ+ µ(,
++*
+
+­ µ(*
+
+%25*
+
+¶ ¶(
+
+, paths=~
+|
+
+¶ ¶("
+%27java.util.List"__id*Q
+
+__unknown_file (5*3(
+&com.simplecity.amp_library.model.Album"
+pathsu
+s
+
+­ ¶("
+%28"__calculate*
+
+¶ ¶(
++*
+
+­ ¶(
+
+%26*%
+
+¶ ¶("
+
+%27java.util.Listc
+a
+
+­ ·(
+%29"__calculate*
+
+¶# ¶($
++*
+
+­ ¶("
+
+%28*
+
+· ·(
+}"
+
+­ ·(
+
+%29B*(
+&com.simplecity.amp_library.model.AlbumH

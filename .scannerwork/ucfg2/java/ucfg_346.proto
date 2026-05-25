@@ -1,0 +1,777 @@
+
+Pandroid.support.design.widget.CustomCollapsingTextHelper#calculateBaseOffsets()V[
+Oapp\src\main\java\android\support\design\widget\CustomCollapsingTextHelper.javaÁ Á(%"7*Æ
+2
+á á(,ã
+à
+
+á á(,
+%54"__id*m
+
+__unknown_file (Q*O:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedBoundsâ
+Ü
+
+á á(3N:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedDrawY"__id*"
+
+__unknown_file (
+""*
+1*∆
+3
+Å Å('Ö
+Ç
+
+Å Å('
+%43"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintÖ
+Ç
+
+Å4 Å(=
+%44"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintc
+a
+
+Å Å(F
+%45"__calculate*
+
+Å2 Å(3
+-*
+
+Å Å(1
+""*
+
+Å4 Å(F
+""M
+K
+
+Å Å(G
+	subHeightfloat"__id*#
+
+__unknown_file (
+
+%45v
+t
+
+Ç Ç(,
+%46float"__calculate*
+
+Ç) Ç(*
+/*"
+
+Ç Ç((
+
+	subHeightfloat*
+
+Ç+ Ç(,2T
+R
+
+Ç Ç(.
+	subOffsetfloat"__id**
+
+__unknown_file (
+
+%46floatã
+à
+
+Ñ Ñ(,
+%47"__id*m
+
+__unknown_file (Q*O:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedBoundsÖ
+Ç
+
+Ñ6 Ñ(?
+%48"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintc
+a
+
+Ñ Ñ(H
+%49"__calculate*
+
+Ñ4 Ñ(5
++*
+
+Ñ Ñ(3
+""*
+
+Ñ6 Ñ(H
+""ä
+á
+
+Ñ Ñ(HN:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedDrawY"__id*#
+
+__unknown_file (
+
+%49ë
+é
+
+Ö Ö(*
+%50float"__id*l
+
+__unknown_file (P*N:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedDrawYÄ
+~
+
+Ö Ö(6
+%51float"__calculate*
+
+Ö+ Ö(,
++*
+
+Ö Ö(*
+
+%50float*"
+
+Ö- Ö(6
+
+	subOffsetfloatÖ
+Ç
+
+Ö9 Ö(B
+%52"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintk
+i
+
+Ö Ö(K
+%53"__calculate*
+
+Ö7 Ö(8
+-*
+
+Ö Ö(6
+
+%51float*
+
+Ö9 Ö(K
+""â
+Ü
+
+Ö Ö(KM:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedSubY"__id*#
+
+__unknown_file (
+
+%53*
+1*Ó	
+4
+˚ ˚(*å
+â
+
+˚ ˚(*
+%37"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedBoundsä
+á
+
+˚ ˚(/O:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedDrawX"__id*"
+
+__unknown_file (
+""î
+ë
+
+˝ ˝(0
+%38float"__id*o
+
+__unknown_file (S*Q:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedTextSize˜
+Ù
+
+˝ ˝(1
+%39void"Sandroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelper**
+
+__unknown_file (
+
+%38floatì
+ê
+
+˛ ˛(.
+%40float"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedSubSizeˆ
+Û
+
+˛ ˛(/
+%41void"Randroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelper**
+
+__unknown_file (
+
+%40floatò
+ï
+
+Ä Ä(#
+%42java.lang.CharSequence"__id*b
+
+__unknown_file (F*D:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mSub*
+2
+3*Æ
+
+5
+˜ ˜($á
+Ñ
+
+˜ ˜($
+%29"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintá
+Ñ
+
+˜1 ˜(<
+%30"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintc
+a
+
+˜ ˜(E
+%31"__calculate*
+
+˜/ ˜(0
+-*
+
+˜ ˜(.
+""*
+
+˜1 ˜(E
+""N
+L
+
+˜ ˜(E
+
+textHeightfloat"__id*#
+
+__unknown_file (
+
+%31w
+u
+
+¯  ¯(.
+%32float"__calculate*
+
+¯+ ¯(,
+/*#
+
+¯  ¯(*
+
+
+textHeightfloat*
+
+¯- ¯(.2á
+Ñ
+
+¯2 ¯(=
+%33"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintk
+i
+
+¯ ¯(G
+%34"__calculate*
+
+¯0 ¯(1
+-*
+
+¯ ¯(/
+
+%32float*
+
+¯2 ¯(G
+""N
+L
+
+¯ ¯(H
+
+textOffsetfloat"__id*#
+
+__unknown_file (
+
+%34å
+â
+
+˘ ˘(.
+%35"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedBoundsr
+p
+
+˘ ˘(E
+%36"__calculate*
+
+˘9 ˘(:
++*
+
+˘ ˘(8
+""*#
+
+˘; ˘(E
+
+
+textOffsetfloatã
+à
+
+˘ ˘(EO:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedDrawY"__id*#
+
+__unknown_file (
+
+%36*
+4*Ÿ
+6
+ ('Ñ
+Å
+
+ ('
+%9"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintÖ
+Ç
+
+4 (=
+%10"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintc
+a
+
+ (F
+%11"__calculate*
+
+2 (3
+-*
+
+ (1
+""*
+
+4 (F
+""M
+K
+
+ (G
+	subHeightfloat"__id*#
+
+__unknown_file (
+
+%11v
+t
+
+Ò Ò(,
+%12float"__calculate*
+
+Ò) Ò(*
+/*"
+
+Ò Ò((
+
+	subHeightfloat*
+
+Ò+ Ò(,2Ö
+Ç
+
+Ò0 Ò(9
+%13"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintk
+i
+
+Ò Ò(C
+%14"__calculate*
+
+Ò. Ò(/
+-*
+
+Ò Ò(-
+
+%12float*
+
+Ò0 Ò(C
+""å
+â
+
+Ú Ú(-
+%15"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedBoundsà
+Ö
+
+Ú: Ú(P
+%16float"__calculate*
+
+ÚE Ú(F
++*#
+
+Ú: Ú(D
+
+
+textHeightfloat*"
+
+ÚG Ú(P
+
+	subHeightfloatk
+i
+
+Ú Ú(Q
+%17"__calculate*
+
+Ú7 Ú(8
+-*
+
+Ú Ú(6
+""*
+
+Ú9 Ú(Q
+
+%16floatb
+`
+
+Ú Ú(V
+%18"__calculate*
+
+ÚS Ú(T
+/*
+
+Ú Ú(R
+
+%17*
+
+ÚU Ú(V2J
+H
+
+Ú Ú(X
+offsetfloat"__id*#
+
+__unknown_file (
+
+%18å
+â
+
+Ù Ù(.
+%19"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedBoundsn
+l
+
+Ù Ù(;
+%20"__calculate*
+
+Ù3 Ù(4
++*
+
+Ù Ù(2
+""*
+
+Ù5 Ù(;
+
+offsetfloatá
+Ñ
+
+Ù> Ù(I
+%21"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintd
+b
+
+Ù Ù(R
+%22"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+%20*
+
+Ù> Ù(R
+""ã
+à
+
+Ù Ù(RO:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedDrawY"__id*#
+
+__unknown_file (
+
+%22å
+â
+
+ı ı(-
+%23"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedBoundss
+q
+
+ı5 ı(?
+%24float"__calculate*
+
+ı< ı(=
+**
+
+ı5 ı(;
+
+offsetfloat*
+
+ı> ı(?2k
+i
+
+ı ı(@
+%25"__calculate*
+
+ı2 ı(3
++*
+
+ı ı(1
+""*
+
+ı4 ı(@
+
+%24floats
+q
+
+ı ı(M
+%26"__calculate*
+
+ıA ı(B
++*
+
+ı ı(@
+
+%25*#
+
+ıC ı(M
+
+
+textHeightfloatÖ
+Ç
+
+ıP ı(Y
+%27"__id*g
+
+__unknown_file (K*I:
+8android.support.design.widget.CustomCollapsingTextHelper"
+	mSubPaintd
+b
+
+ı ı(b
+%28"__calculate*
+
+ıN ı(O
+-*
+
+ı ı(M
+
+%26*
+
+ıP ı(b
+""ä
+á
+
+ı ı(bN:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedSubY"__id*#
+
+__unknown_file (
+
+%28*
+4*Ç
+7
+Ë& Ë(6í
+è
+
+Ë& Ë(6
+%0float"__id*n
+
+__unknown_file (R*P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCurrentTextSizeY
+W
+
+Ë Ë(7
+currentTextSizefloat"__id*)
+
+__unknown_file (
+
+%0floatî
+ë
+
+Î Î(1
+%1float"__id*p
+
+__unknown_file (T*R:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedTextSizeı
+Ú
+
+Î Î(2
+
+%2void"Sandroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelper*)
+
+__unknown_file (
+
+%1floatì
+ê
+
+Ï Ï(/
+%3float"__id*o
+
+__unknown_file (S*Q:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedSubSizeÙ
+Ò
+
+Ï Ï(0
+
+%4void"Randroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelper*)
+
+__unknown_file (
+
+%3floatÜ
+É
+
+Ó Ó(&
+%5"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintÜ
+É
+
+Ó3 Ó(>
+%6"__id*i
+
+__unknown_file (M*K:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mTitlePaintb
+`
+
+Ó Ó(G
+%7"__calculate*
+
+Ó1 Ó(2
+-*
+
+Ó Ó(0
+""*
+
+Ó3 Ó(G
+""M
+K
+
+Ó Ó(H
+
+textHeightfloat"__id*"
+
+__unknown_file (
+
+%7ó
+î
+
+Ô Ô(#
+%8java.lang.CharSequence"__id*b
+
+__unknown_file (F*D:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mSub*
+5
+6*(
+0 "!
+
+è è(
+implicit return*¯
+1
+â â((ã
+à
+
+â â((
+%55"__id*m
+
+__unknown_file (Q*O:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedBoundsâ
+Ü
+
+â â(-N:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedDrawX"__id*"
+
+__unknown_file (
+""¿
+Ω
+
+å å(
+%56void"Handroid.support.design.widget.CustomCollapsingTextHelper#clearTexture()V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelperÑ
+Å
+
+é é(0
+%57void"Tandroid.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)V*X
+
+__unknown_file (<:
+8android.support.design.widget.CustomCollapsingTextHelper*6
+
+__unknown_file (
+
+currentTextSizefloat*
+0B<:
+8android.support.design.widget.CustomCollapsingTextHelper

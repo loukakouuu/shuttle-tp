@@ -1,0 +1,788 @@
+
+1.0loukakouJavaFrontend"1779719402086*java2.Bï
+I
+Dapp/src/main/java/com/simplecity/amp_library/utils/ShuttleUtils.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+2
+-com.simplecity.amp_library.utils.ShuttleUtils9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(46:1)-(216:2)14
+
+simple-name15
+
+ShuttleUtils16
+7
+1com.simplecity.amp_library.utils.ShuttleUtils.TAG18
+
+field19
+
+private20
+
+(50:5)-(50:54)21
+	
+TAG22
+e
+_com.simplecity.amp_library.utils.ShuttleUtils#getShuttleStoreIntent(Ljava/lang/String;)LIntent;24
+
+method25
+
+(52:5)-(61:6)26
+
+getShuttleStoreIntent27
+
+Intent29
+
+unknown30
+
+returns31
+
+NonNull33
+
+annotated by34
+%
+Recovered#typeBindingLNonNull;036
+
+
+uses37
+
+
+references38
+D
+>com.simplecity.amp_library.utils.ShuttleUtils#isAmazonBuild()Z40
+
+calls41
+c
+]com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;43
+
+(63:5)-(72:6)44
+
+getShuttleWebIntent45
+r
+lcom.simplecity.amp_library.utils.ShuttleUtils#openShuttleLink(LActivity;Ljava/lang/String;LPackageManager;)V47
+
+(74:5)-(80:6)48
+
+openShuttleLink49
+&
+ Recovered#typeBindingLActivity;051
+
+	has param52
+,
+&Recovered#typeBindingLPackageManager;054
+
+is type55
+$
+Recovered#typeBindingLIntent;057
+
+(82:5)-(84:6)58
+
+isAmazonBuild59
+I
+Ccom.simplecity.amp_library.utils.ShuttleUtils#isOnline(LContext;Z)Z61
+
+(92:5)-(116:6)62
+
+isOnline63
+%
+Recovered#typeBindingLContext;065
+/
+)Recovered#typeBindingLSharedPreferences;067
+1
++Recovered#typeBindingLConnectivityManager;069
+)
+#Recovered#typeBindingLNetworkInfo;071
+Å
+{com.simplecity.amp_library.utils.ShuttleUtils#isUpgraded(Lcom/simplecity/amp_library/ShuttleApplication;LSettingsManager;)Z73
+
+(118:5)-(135:6)74
+
+
+isUpgraded75
+3
+-com.simplecity.amp_library.ShuttleApplication77
+-
+'Recovered#typeBindingLSettingsManager;079
+D
+>com.simplecity.amp_library.ShuttleApplication#getIsUpgraded()Z81
+E
+?com.simplecity.amp_library.utils.ShuttleUtils#hasMarshmallow()Z83
+
+(140:5)-(142:6)84
+
+hasMarshmallow85
+@
+:com.simplecity.amp_library.utils.ShuttleUtils#hasNougat()Z87
+
+(147:5)-(149:6)88
+
+	hasNougat89
+>
+8com.simplecity.amp_library.utils.ShuttleUtils#hasOreo()Z91
+
+(154:5)-(156:6)92
+
+hasOreo93
+K
+Ecom.simplecity.amp_library.utils.ShuttleUtils#isLandscape(LContext;)Z95
+
+(158:5)-(161:6)96
+
+isLandscape97
+H
+Bcom.simplecity.amp_library.utils.ShuttleUtils#isTablet(LContext;)Z99
+
+(163:5)-(165:6)100
+
+isTablet101
+Å
+zcom.simplecity.amp_library.utils.ShuttleUtils#getSongsForFileObjects(LRepository/SongsRepository;Ljava/util/List;)LSingle;103
+
+(167:5)-(180:6)104
+
+getSongsForFileObjects105
+
+Single107
+)
+"Recovered#typeBindingLRepository;0109
+#
+Recovered#typeBindingLSong;0111
+-
+&Recovered#typeBindingLBaseFileObject;0113
+%
+Recovered#typeBindingLSingle;0115
+Y
+Rcom.simplecity.amp_library.utils.ShuttleUtils#incrementPlayCount(LContext;LSong;)V117
+
+(182:5)-(200:6)118
+
+incrementPlayCount119
+,
+%Recovered#typeBindingLContentValues;0121
+[
+Tcom.simplecity.amp_library.utils.ShuttleUtils#getIpAddr(LContext;)Ljava/lang/String;123
+
+(202:5)-(211:6)124
+
+	getIpAddr125
+
+SuppressLint127
++
+$Recovered#typeBindingLSuppressLint;0129
+*
+#Recovered#typeBindingLWifiManager;0131
+N
+Gcom.simplecity.amp_library.utils.ShuttleUtils#canDrawBehindStatusBar()Z133
+
+(213:5)-(215:6)134
+
+canDrawBehindStatusBar135J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j¥
+
+64
+646530
+
+80
+808130
+O
+82I
+828325 *
+1å å()28:5B$
+
+
+11
+12
+
+
+13
+84
+
+
+15
+85
+M
+23G
+232425 *
+15 5(/28:5B$
+
+
+11
+12
+
+
+13
+26
+
+
+15
+27
+
+70
+707130
+
+110
+11011130
+
+50
+505130
+
+68
+686930
+T
+122M
+12212325 *
+1   (#28:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+T
+102M
+10210325 *
+1ß& ß(<28:5B&
+
+
+11
+12
+
+13
+104
+
+15
+105
+
+32
+323330
+M
+60G
+606125 *
+1\ \(#28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+
+108
+10810930
+
+66
+666730
+G
+8B
+8910 *
+1. .( :5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+T
+116M
+11611725 *
+1∂ ∂(*28:5B&
+
+
+11
+12
+
+13
+118
+
+15
+119
+
+130
+13013130
+
+114
+11411530
+Q
+98K
+989925 *
+1£ £(#28:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+
+78
+787930
+O
+94I
+949525 *
+1û û(&28:5B$
+
+
+11
+12
+
+
+13
+96
+
+
+15
+97
+T
+132M
+13213325 *
+1’ ’(128:5B&
+
+
+11
+12
+
+13
+134
+
+15
+135
+
+56
+565730
+
+28
+282930
+M
+72G
+727325 *
+1v v(%28:5B$
+
+
+11
+12
+
+
+13
+74
+
+
+15
+75
+
+112
+11211330
+
+76
+767730
+O
+86I
+868725 *
+1ì ì($28:5B$
+
+
+11
+12
+
+
+13
+88
+
+
+15
+89
+M
+17G
+171819 *
+12! 2($28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+
+53
+535430
+M
+39G
+394025 *
+1R R((28:5B$
+
+
+11
+12
+
+
+13
+58
+
+
+15
+59
+
+106
+10610730
+
+128
+12812930
+O
+90I
+909125 *
+1ö ö("28:5B$
+
+
+11
+12
+
+
+13
+92
+
+
+15
+93
+
+126
+12612730
+M
+42G
+424325 *
+1@ @(-28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+M
+46G
+464725 *
+1J J('28:5B$
+
+
+11
+12
+
+
+13
+48
+
+
+15
+49
+
+35
+353630
+
+120
+12012130r‹
+
+232831*
+15 5(
+
+233234*
+14 4(
+
+233537*
+14 4(
+
+232837*
+15 5(
+
+233234*
+150 5(8
+
+233537*
+151 5(8
+
+23838*
+17 7(
+
+233941*
+17 7(
+
+422831*
+1@ @(
+
+423234*
+1? ?(
+
+423537*
+1? ?(
+
+422837*
+1@ @(
+
+423234*
+1@. @(6
+
+423537*
+1@/ @(6
+
+42838*
+1B B(
+
+423941*
+1B B(
+
+465052*
+1J1 J(9
+
+465352*
+1Ja J(o
+
+465055*
+1J: J(B
+
+463234*
+1J( J(0
+
+463537*
+1J) J(0
+
+465037*
+1J1 J(9
+
+463234*
+1JD J(L
+
+463537*
+1JE J(L
+
+465355*
+1Jp J(~
+
+465337*
+1Ja J(o
+
+465655*
+1K K(
+
+465637*
+1K	 K(
+
+462831*
+1K K(.
+
+46838*
+1K K(.
+
+462341*
+1K K(.
+
+462831*
+1M M()
+
+46838*
+1M M()
+
+464241*
+1M M()
+
+606452*
+1\$ \(+
+
+606455*
+1\, \(3
+
+606437*
+1\$ \(+
+
+606655*
+1^ ^( 
+
+606637*
+1^	 ^(
+
+606855*
+1h# h(%
+
+606837*
+1h h("
+
+606837*
+1h) h(<
+
+607055*
+1l l(&
+
+607037*
+1l l(
+
+607055*
+1r r("
+
+607037*
+1r r(
+
+727652*
+1v& v(8
+
+727852*
+1vF v(U
+
+727655*
+1v9 v(D
+
+727637*
+1v& v(8
+
+727855*
+1vV v(e
+
+727837*
+1vF v(U
+
+727638*
+1x x(&
+
+728041*
+1x x(&
+
+946452*
+1û' û(.
+
+946455*
+1û/ û(6
+
+946437*
+1û' û(.
+
+986452*
+1£$ £(+
+
+986455*
+1£, £(3
+
+986437*
+1£$ £(+
+
+10210631*
+1ß ß(%
+
+10210852*
+1ß= ß(W
+
+10210637*
+1ß ß(
+
+10211037*
+1ß ß(#
+
+10210855*
+1ßX ß(g
+
+10210837*
+1ß= ß(G
+
+10210837*
+1ßH ß(W
+
+10211237*
+1ßn ß(|
+
+10211437*
+1© ©(
+
+10211037*
+1© ©(
+
+1166452*
+1∂+ ∂(2
+
+11611052*
+1∂< ∂(@
+
+1166455*
+1∂3 ∂(:
+
+1166437*
+1∂+ ∂(2
+
+11611055*
+1∂A ∂(E
+
+11611037*
+1∂< ∂(@
+
+11612055*
+1º º(
+
+11612037*
+1º	 º(
+
+1161738*
+1∆ ∆(
+
+1226452*
+1 $  (+
+
+1226455*
+1 ,  (3
+
+1226437*
+1 $  (+
+
+12212634*
+1À	 À()
+
+12212837*
+1À
+ À(
+
+12213037*
+1Ã Ã(

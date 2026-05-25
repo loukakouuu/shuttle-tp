@@ -1,0 +1,3402 @@
+
+1.0loukakouJavaFrontend"1779719399543*java2.Bñû
+L
+Gapp/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+5
+0com.simplecity.amp_library.utils.SettingsManager9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(15:1)-(479:2)14
+
+simple-name15
+
+SettingsManager16
+1
++Recovered#typeBindingLBaseSettingsManager;018
+
+unknown19
+
+extends20
+
+	Singleton22
+
+annotated by23
+'
+!Recovered#typeBindingLSingleton;025
+
+
+uses26
+:
+4com.simplecity.amp_library.utils.SettingsManager.TAG28
+
+field29
+
+private30
+
+(18:5)-(18:57)31
+	
+TAG32
+S
+Mcom.simplecity.amp_library.utils.SettingsManager#<init>(LSharedPreferences;)V34
+
+method35
+
+(20:5)-(23:6)36
+/
+)Recovered#typeBindingLSharedPreferences;038
+
+	has param39
+
+Inject41
+$
+Recovered#typeBindingLInject;043
+
+calls44
+
+is type45
+
+NotNull47
+%
+Recovered#typeBindingLNotNull;049
+I
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_CHANGELOG51
+
+(26:5)-(26:64)52
+
+KEY_PREF_CHANGELOG53
+C
+=com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_FAQ55
+
+(27:5)-(27:52)56
+
+KEY_PREF_FAQ57
+D
+>com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_HELP59
+
+(28:5)-(28:54)60
+
+KEY_PREF_HELP61
+D
+>com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_RATE63
+
+(29:5)-(29:54)64
+
+KEY_PREF_RATE65
+Q
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_RESTORE_PURCHASES67
+
+(30:5)-(30:80)68
+ 
+KEY_PREF_RESTORE_PURCHASES69
+K
+Ecom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_TAB_CHOOSER71
+
+(33:5)-(33:68)72
+
+KEY_PREF_TAB_CHOOSER73
+L
+Fcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DEFAULT_PAGE75
+
+(34:5)-(34:70)76
+
+KEY_PREF_DEFAULT_PAGE77
+Q
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_DISPLAY_REMAINING_TIME79
+
+(35:5)-(35:85)80
+ 
+KEY_DISPLAY_REMAINING_TIME81
+J
+Dcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_THEME_BASE83
+
+(38:5)-(38:66)84
+
+KEY_PREF_THEME_BASE85
+M
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PRIMARY_COLOR87
+
+(39:5)-(39:78)88
+
+KEY_PREF_PRIMARY_COLOR89
+L
+Fcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_ACCENT_COLOR91
+
+(40:5)-(40:76)92
+
+KEY_PREF_ACCENT_COLOR93
+G
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_NAV_BAR95
+
+(41:5)-(41:60)96
+
+KEY_PREF_NAV_BAR97
+G
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PALETTE99
+
+(42:5)-(42:70)100
+
+KEY_PREF_PALETTE101
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PALETTE_NOW_PLAYING_ONLY103
+
+(43:5)-(43:99)104
+(
+!KEY_PREF_PALETTE_NOW_PLAYING_ONLY105
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DOWNLOAD_ARTWORK107
+
+(46:5)-(46:78)108
+ 
+KEY_PREF_DOWNLOAD_ARTWORK109
+O
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DELETE_ARTWORK111
+
+(47:5)-(47:74)112
+
+KEY_PREF_DELETE_ARTWORK113
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DOWNLOAD_SCROBBLER115
+
+(50:5)-(50:96)116
+"
+KEY_PREF_DOWNLOAD_SCROBBLER117
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_BLACKLIST119
+
+(53:5)-(53:69)120
+
+KEY_PREF_BLACKLIST121
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_WHITELIST123
+
+(54:5)-(54:69)124
+
+KEY_PREF_WHITELIST125
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_REMEMBER_SHUFFLE127
+
+(57:5)-(57:78)128
+ 
+KEY_PREF_REMEMBER_SHUFFLE129
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_UPGRADE131
+
+(60:5)-(60:60)132
+
+KEY_PREF_UPGRADE133
+K
+Dcom.simplecity.amp_library.utils.SettingsManager.hasSeenRateSnackbar135
+
+(63:5)-(63:48)136
+
+hasSeenRateSnackbar137
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_SHOW_LOCKSCREEN_ARTWORK139
+
+(66:5)-(66:93)140
+"
+KEY_SHOW_LOCKSCREEN_ARTWORK141
+P
+Icom.simplecity.amp_library.utils.SettingsManager#showLockscreenArtwork()Z143
+
+(68:5)-(70:6)144
+
+showLockscreenArtwork145
+
+
+references146
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_KEEP_SCREEN_ON148
+
+(72:5)-(72:71)149
+
+KEY_KEEP_SCREEN_ON150
+G
+@com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()Z152
+
+(74:5)-(76:6)153
+
+keepScreenOn154
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#displayRemainingTime()Z156
+
+(78:5)-(80:6)157
+
+displayRemainingTime158
+N
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_DISPLAY_TYPE160
+
+(82:5)-(82:83)161
+
+KEY_ALBUM_DISPLAY_TYPE162
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setAlbumDisplayType(I)V164
+
+(84:5)-(86:6)165
+
+setAlbumDisplayType166
+W
+Pcom.simplecity.amp_library.utils.SettingsManager#getAlbumDisplayType(LContext;)I168
+
+(88:5)-(91:6)169
+
+getAlbumDisplayType170
+&
+Recovered#typeBindingLContext;0172
+
+ViewType174
+'
+ Recovered#typeBindingLViewType;0176
+O
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_DISPLAY_TYPE178
+
+(93:5)-(93:85)179
+
+KEY_ARTIST_DISPLAY_TYPE180
+P
+Icom.simplecity.amp_library.utils.SettingsManager#setArtistDisplayType(I)V182
+
+(95:5)-(97:6)183
+
+setArtistDisplayType184
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#getArtistDisplayType()I186
+
+(99:5)-(102:6)187
+
+getArtistDisplayType188
+O
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT190
+
+(104:5)-(104:81)191
+
+KEY_ARTIST_COLUMN_COUNT192
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_LAND194
+
+(105:5)-(105:91)195
+#
+KEY_ARTIST_COLUMN_COUNT_LAND196
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_TABLET198
+
+(106:5)-(106:95)199
+%
+KEY_ARTIST_COLUMN_COUNT_TABLET200
+[
+Tcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_TABLET_LAND202
+
+(107:5)-(107:105)203
+*
+#KEY_ARTIST_COLUMN_COUNT_TABLET_LAND204
+l
+ecom.simplecity.amp_library.utils.SettingsManager#getArtistColumnCountKey(LContext;)Ljava/lang/String;206
+
+(109:5)-(119:6)207
+
+getArtistColumnCountKey208
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#setArtistColumnCount(LContext;I)V210
+
+(121:5)-(123:6)211
+
+setArtistColumnCount212
+X
+Qcom.simplecity.amp_library.utils.SettingsManager#getArtistColumnCount(LContext;)I214
+
+(125:5)-(133:6)215
+
+getArtistColumnCount216
+N
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT218
+
+(135:5)-(135:79)219
+
+KEY_ALBUM_COLUMN_COUNT220
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_LAND222
+
+(136:5)-(136:89)223
+"
+KEY_ALBUM_COLUMN_COUNT_LAND224
+U
+Ncom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_TABLET226
+
+(137:5)-(137:93)227
+$
+KEY_ALBUM_COLUMN_COUNT_TABLET228
+Z
+Scom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_TABLET_LAND230
+
+(138:5)-(138:103)231
+)
+"KEY_ALBUM_COLUMN_COUNT_TABLET_LAND232
+k
+dcom.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCountKey(LContext;)Ljava/lang/String;234
+
+(140:5)-(150:6)235
+
+getAlbumColumnCountKey236
+X
+Qcom.simplecity.amp_library.utils.SettingsManager#setAlbumColumnCount(LContext;I)V238
+
+(152:5)-(154:6)239
+
+setAlbumColumnCount240
+W
+Pcom.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCount(LContext;)I242
+
+(156:5)-(163:6)243
+
+getAlbumColumnCount244
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#getEqualizerEnabled()Z246
+
+(165:5)-(167:6)247
+
+getEqualizerEnabled248
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.DOCUMENT_TREE_URI250
+
+(169:5)-(169:73)251
+
+DOCUMENT_TREE_URI252
+_
+Xcom.simplecity.amp_library.utils.SettingsManager#setDocumentTreeUri(Ljava/lang/String;)V254
+
+(171:5)-(173:6)255
+
+setDocumentTreeUri256
+^
+Wcom.simplecity.amp_library.utils.SettingsManager#getDocumentTreeUri()Ljava/lang/String;258
+
+(175:5)-(178:6)259
+
+getDocumentTreeUri260
+
+Nullable262
+'
+ Recovered#typeBindingLNullable;0264
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_INITIAL_DIR266
+
+(180:5)-(180:95)267
+%
+KEY_FOLDER_BROWSER_INITIAL_DIR268
+g
+`com.simplecity.amp_library.utils.SettingsManager#setFolderBrowserInitialDir(Ljava/lang/String;)V270
+
+(182:5)-(184:6)271
+!
+setFolderBrowserInitialDir272
+f
+_com.simplecity.amp_library.utils.SettingsManager#getFolderBrowserInitialDir()Ljava/lang/String;274
+
+(186:5)-(188:6)275
+!
+getFolderBrowserInitialDir276
+[
+Tcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FILES_SORT_ORDER278
+
+(190:5)-(190:105)279
+*
+#KEY_FOLDER_BROWSER_FILES_SORT_ORDER280
+k
+dcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesSortOrder(Ljava/lang/String;)V282
+
+(192:5)-(194:6)283
+%
+setFolderBrowserFilesSortOrder284
+j
+ccom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesSortOrder()Ljava/lang/String;286
+
+(196:5)-(198:6)287
+%
+getFolderBrowserFilesSortOrder288
+Z
+Scom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FILES_ASCENDING290
+
+(200:5)-(200:103)291
+)
+"KEY_FOLDER_BROWSER_FILES_ASCENDING292
+Z
+Scom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesAscending(Z)V294
+
+(202:5)-(204:6)295
+%
+setFolderBrowserFilesAscending296
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesAscending()Z298
+
+(206:5)-(208:6)299
+%
+getFolderBrowserFilesAscending300
+]
+Vcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FOLDERS_SORT_ORDER302
+
+(210:5)-(210:109)303
+,
+%KEY_FOLDER_BROWSER_FOLDERS_SORT_ORDER304
+m
+fcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFoldersSortOrder(Ljava/lang/String;)V306
+
+(212:5)-(214:6)307
+'
+ setFolderBrowserFoldersSortOrder308
+l
+ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;310
+
+(216:5)-(218:6)311
+'
+ getFolderBrowserFoldersSortOrder312
+\
+Ucom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FOLDERS_ASCENDING314
+
+(220:5)-(220:107)315
++
+$KEY_FOLDER_BROWSER_FOLDERS_ASCENDING316
+\
+Ucom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFoldersAscending(Z)V318
+
+(222:5)-(224:6)319
+'
+ setFolderBrowserFoldersAscending320
+[
+Tcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersAscending()Z322
+
+(226:5)-(228:6)323
+'
+ getFolderBrowserFoldersAscending324
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_SHOW_FILENAMES326
+
+(230:5)-(230:102)327
+(
+!KEY_FOLDER_BROWSER_SHOW_FILENAMES328
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserShowFileNames(Z)V330
+
+(232:5)-(234:6)331
+$
+setFolderBrowserShowFileNames332
+X
+Qcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserShowFileNames()Z334
+
+(236:5)-(238:6)335
+$
+getFolderBrowserShowFileNames336
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_LAUNCH_COUNT338
+
+(240:5)-(240:67)339
+
+KEY_LAUNCH_COUNT340
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#incrementLaunchCount()V342
+
+(242:5)-(244:6)343
+
+incrementLaunchCount344
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getLaunchCount()I346
+
+(246:5)-(248:6)347
+
+getLaunchCount348
+L
+Ecom.simplecity.amp_library.utils.SettingsManager.KEY_NAG_MESSAGE_READ350
+
+(250:5)-(250:75)351
+
+KEY_NAG_MESSAGE_READ352
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#setNagMessageRead()V354
+
+(252:5)-(254:6)355
+
+setNagMessageRead356
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()Z358
+
+(256:5)-(258:6)359
+
+getNagMessageRead360
+E
+>com.simplecity.amp_library.utils.SettingsManager.KEY_HAS_RATED362
+
+(260:5)-(260:61)363
+
+KEY_HAS_RATED364
+F
+?com.simplecity.amp_library.utils.SettingsManager#setHasRated()V366
+
+(262:5)-(264:6)367
+
+setHasRated368
+F
+?com.simplecity.amp_library.utils.SettingsManager#getHasRated()Z370
+
+(266:5)-(268:6)371
+
+getHasRated372
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_BLUETOOTH_PAUSE_DISCONNECT374
+
+(270:5)-(270:94)375
+%
+KEY_BLUETOOTH_PAUSE_DISCONNECT376
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_BLUETOOTH_RESUME_CONNECT378
+
+(271:5)-(271:89)379
+#
+KEY_BLUETOOTH_RESUME_CONNECT380
+V
+Ocom.simplecity.amp_library.utils.SettingsManager#getBluetoothPauseDisconnect()Z382
+
+(273:5)-(275:6)383
+"
+getBluetoothPauseDisconnect384
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#getBluetoothResumeConnect()Z386
+
+(277:5)-(279:6)387
+ 
+getBluetoothResumeConnect388
+H
+Acom.simplecity.amp_library.utils.SettingsManager#getUsePalette()Z390
+
+(283:5)-(285:6)391
+
+getUsePalette392
+V
+Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z394
+
+(287:5)-(289:6)395
+"
+getUsePaletteNowPlayingOnly396
+H
+Acom.simplecity.amp_library.utils.SettingsManager#getTintNavBar()Z398
+
+(291:5)-(293:6)399
+
+getTintNavBar400
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#storePrimaryColor(I)V402
+
+(295:5)-(297:6)403
+
+storePrimaryColor404
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()I406
+
+(299:5)-(301:6)407
+
+getPrimaryColor408
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#storeAccentColor(I)V410
+
+(303:5)-(305:6)411
+
+storeAccentColor412
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()I414
+
+(307:5)-(309:6)415
+
+getAccentColor416
+R
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_DOWNLOAD_AUTOMATICALLY418
+
+(313:5)-(313:91)419
+!
+KEY_DOWNLOAD_AUTOMATICALLY420
+R
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_USE_GMAIL_PLACEHOLDERS422
+
+(314:5)-(314:82)423
+!
+KEY_USE_GMAIL_PLACEHOLDERS424
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.KEY_QUEUE_ARTWORK426
+
+(315:5)-(315:74)427
+
+KEY_QUEUE_ARTWORK428
+N
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_QUEUE_SWIPE_LOCKED430
+
+(316:5)-(316:76)431
+
+KEY_QUEUE_SWIPE_LOCKED432
+M
+Fcom.simplecity.amp_library.utils.SettingsManager.KEY_SONG_LIST_ARTWORK434
+
+(317:5)-(317:82)435
+
+KEY_SONG_LIST_ARTWORK436
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_CROP_ARTWORK438
+
+(318:5)-(318:72)439
+
+KEY_CROP_ARTWORK440
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_MEDIASTORE_ART442
+
+(319:5)-(319:93)443
+ 
+KEY_IGNORE_MEDIASTORE_ART444
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_EMBEDDED_ARTWORK446
+
+(320:5)-(320:93)447
+"
+KEY_IGNORE_EMBEDDED_ARTWORK448
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_FOLDER_ARTWORK450
+
+(321:5)-(321:89)451
+ 
+KEY_IGNORE_FOLDER_ARTWORK452
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_PREFER_EMBEDDED_ARTWORK454
+
+(322:5)-(322:85)455
+"
+KEY_PREFER_EMBEDDED_ARTWORK456
+Z
+Scom.simplecity.amp_library.utils.SettingsManager#canDownloadArtworkAutomatically()Z458
+
+(324:5)-(326:6)459
+&
+canDownloadArtworkAutomatically460
+P
+Icom.simplecity.amp_library.utils.SettingsManager#preferEmbeddedArtwork()Z462
+
+(328:5)-(330:6)463
+
+preferEmbeddedArtwork464
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Z466
+
+(332:5)-(334:6)467
+
+useGmailPlaceholders468
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#showArtworkInQueue()Z470
+
+(336:5)-(338:6)471
+
+showArtworkInQueue472
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()Z474
+
+(340:5)-(342:6)475
+
+queueSwipeLocked476
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setQueueSwipeLocked(Z)V478
+
+(344:5)-(346:6)479
+
+setQueueSwipeLocked480
+F
+?com.simplecity.amp_library.utils.SettingsManager#cropArtwork()Z482
+
+(348:5)-(350:6)483
+
+cropArtwork484
+R
+Kcom.simplecity.amp_library.utils.SettingsManager#ignoreMediaStoreArtwork()Z486
+
+(352:5)-(354:6)487
+
+ignoreMediaStoreArtwork488
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#ignoreFolderArtwork()Z490
+
+(356:5)-(358:6)491
+
+ignoreFolderArtwork492
+P
+Icom.simplecity.amp_library.utils.SettingsManager#ignoreEmbeddedArtwork()Z494
+
+(360:5)-(362:6)495
+
+ignoreEmbeddedArtwork496
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_PLAYLIST_IGNORE_DUPLICATES498
+
+(364:5)-(364:91)499
+%
+KEY_PLAYLIST_IGNORE_DUPLICATES500
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#ignoreDuplicates()Z502
+
+(366:5)-(368:6)503
+
+ignoreDuplicates504
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setIgnoreDuplicates(Z)V506
+
+(370:5)-(372:6)507
+
+setIgnoreDuplicates508
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_FUZZY510
+
+(376:5)-(376:67)511
+
+KEY_SEARCH_FUZZY512
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#setSearchFuzzy(Z)V514
+
+(378:5)-(380:6)515
+
+setSearchFuzzy516
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getSearchFuzzy()Z518
+
+(382:5)-(384:6)519
+
+getSearchFuzzy520
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_ARTISTS522
+
+(386:5)-(386:71)523
+
+KEY_SEARCH_ARTISTS524
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#setSearchArtists(Z)V526
+
+(388:5)-(390:6)527
+
+setSearchArtists528
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#getSearchArtists()Z530
+
+(392:5)-(394:6)531
+
+getSearchArtists532
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_ALBUMS534
+
+(396:5)-(396:69)535
+
+KEY_SEARCH_ALBUMS536
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#setSearchAlbums(Z)V538
+
+(398:5)-(400:6)539
+
+setSearchAlbums540
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#getSearchAlbums()Z542
+
+(402:5)-(404:6)543
+
+getSearchAlbums544
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_VERSION_CODE546
+
+(408:5)-(408:67)547
+
+KEY_VERSION_CODE548
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#setVersionCode()V550
+
+(410:5)-(412:6)551
+
+setVersionCode552
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#getStoredVersionCode()I554
+
+(414:5)-(416:6)555
+
+getStoredVersionCode556
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_CHANGELOG_SHOW_ON_LAUNCH558
+
+(418:5)-(418:81)559
+#
+KEY_CHANGELOG_SHOW_ON_LAUNCH560
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#setShowChangelogOnLaunch(Z)V562
+
+(420:5)-(422:6)563
+
+setShowChangelogOnLaunch564
+S
+Lcom.simplecity.amp_library.utils.SettingsManager#getShowChangelogOnLaunch()Z566
+
+(424:5)-(426:6)567
+
+getShowChangelogOnLaunch568
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()Z570
+
+(430:5)-(432:6)571
+
+getRememberShuffle572
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#setRememberShuffle(Z)V574
+
+(434:5)-(436:6)575
+
+setRememberShuffle576
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_DEFAULT_PAGE578
+
+(440:5)-(440:67)579
+
+KEY_DEFAULT_PAGE580
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#getDefaultPageType()I582
+
+(442:5)-(445:6)583
+
+getDefaultPageType584
+
+CategoryItem.Type586
++
+$Recovered#typeBindingLCategoryItem;0588
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#setDefaultPageType(I)V590
+
+(447:5)-(449:6)591
+
+setDefaultPageType592
+D
+=com.simplecity.amp_library.utils.SettingsManager.KEY_UPGRADED594
+
+(452:5)-(452:66)595
+
+KEY_UPGRADED596
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#getIsLegacyUpgraded()Z598
+
+(454:5)-(456:6)599
+
+getIsLegacyUpgraded600
+E
+>com.simplecity.amp_library.utils.SettingsManager.KEY_NUM_WEEKS602
+
+(460:5)-(460:60)603
+
+KEY_NUM_WEEKS604
+F
+?com.simplecity.amp_library.utils.SettingsManager#getNumWeeks()I606
+
+(462:5)-(464:6)607
+
+getNumWeeks608
+G
+@com.simplecity.amp_library.utils.SettingsManager#setNumWeeks(I)V610
+
+(466:5)-(468:6)611
+
+setNumWeeks612
+P
+Icom.simplecity.amp_library.utils.SettingsManager#showArtworkInSongList()Z614
+
+(472:5)-(474:6)615
+
+showArtworkInSongList616
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#setShowArtworkInSongList(Z)V618
+
+(476:5)-(478:6)619
+
+setShowArtworkInSongList620J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÀ`
+T
+421M
+42142229 *
+1∫! ∫(;28:5B&
+
+
+11
+30
+
+13
+423
+
+15
+424
+T
+589M
+58959035 *
+1ø ø(#28:5B&
+
+
+11
+12
+
+13
+591
+
+15
+592
+M
+74G
+747529 *
+1" "(/28:5B$
+
+
+11
+12
+
+
+13
+76
+
+
+15
+77
+T
+393M
+39339435 *
+1ü ü(/28:5B&
+
+
+11
+12
+
+13
+395
+
+15
+396
+T
+417M
+41741829 *
+1π! π(;28:5B&
+
+
+11
+30
+
+13
+419
+
+15
+420
+M
+62G
+626329 *
+1 ('28:5B$
+
+
+11
+12
+
+
+13
+64
+
+
+15
+65
+R
+167K
+16716835 *
+1Y Y(#28:5B&
+
+
+11
+12
+
+13
+169
+
+15
+170
+T
+353M
+35335435 *
+1¸ ¸("28:5B&
+
+
+11
+12
+
+13
+355
+
+15
+356
+T
+481M
+48148235 *
+1‹ ‹(28:5B&
+
+
+11
+12
+
+13
+483
+
+15
+484
+O
+98I
+989929 *
+1* *(*28:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+M
+90G
+909129 *
+1( ((/28:5B$
+
+
+11
+12
+
+
+13
+92
+
+
+15
+93
+T
+465M
+46546635 *
+1Ã Ã((28:5B&
+
+
+11
+12
+
+13
+467
+
+15
+468
+R
+134K
+13413529 *
+1? ?('28:5B&
+
+
+11
+12
+
+13
+136
+
+15
+137
+T
+613M
+61361435 *
+1ÿ ÿ()28:5B&
+
+
+11
+12
+
+13
+615
+
+15
+616
+
+37
+373819
+T
+433M
+43343429 *
+1Ω! Ω(628:5B&
+
+
+11
+30
+
+13
+435
+
+15
+436
+
+175
+17517619
+T
+493M
+49349435 *
+1Ë Ë()28:5B&
+
+
+11
+12
+
+13
+495
+
+15
+496
+T
+505M
+50550635 *
+1Ú Ú($28:5B&
+
+
+11
+12
+
+13
+507
+
+15
+508
+T
+545M
+54554629 *
+1ò! ò(128:5B&
+
+
+11
+30
+
+13
+547
+
+15
+548
+
+42
+424319
+T
+265M
+26526629 *
+1¥! ¥(?28:5B&
+
+
+11
+30
+
+13
+267
+
+15
+268
+T
+565M
+56556635 *
+1® ®(,28:5B&
+
+
+11
+12
+
+13
+567
+
+15
+568
+T
+405M
+40540635 *
+1´ ´(28:5B&
+
+
+11
+12
+
+13
+407
+
+15
+408
+T
+425M
+42542629 *
+1ª! ª(228:5B&
+
+
+11
+30
+
+13
+427
+
+15
+428
+T
+525M
+52552635 *
+1Ñ Ñ(!28:5B&
+
+
+11
+12
+
+13
+527
+
+15
+528
+T
+313M
+31331429 *
+1‹! ‹(E28:5B&
+
+
+11
+30
+
+13
+315
+
+15
+316
+T
+409M
+40941035 *
+1Ø Ø(!28:5B&
+
+
+11
+12
+
+13
+411
+
+15
+412
+
+587
+58758819
+T
+373M
+37337429 *
+1é! é(?28:5B&
+
+
+11
+30
+
+13
+375
+
+15
+376
+T
+501M
+50150235 *
+1Ó Ó($28:5B&
+
+
+11
+12
+
+13
+503
+
+15
+504
+R
+201K
+20120229 *
+1k! k(D28:5B&
+
+
+11
+30
+
+13
+203
+
+15
+204
+T
+573M
+57357435 *
+1≤ ≤(#28:5B&
+
+
+11
+12
+
+13
+575
+
+15
+576
+R
+118K
+11811929 *
+15 5(,28:5B&
+
+
+11
+12
+
+13
+120
+
+15
+121
+R
+102K
+10210329 *
+1+ +(;28:5B&
+
+
+11
+12
+
+13
+104
+
+15
+105
+R
+159K
+15916029 *
+1R! R(728:5B&
+
+
+11
+30
+
+13
+161
+
+15
+162
+
+171
+17117219
+R
+185K
+18518635 *
+1d d($28:5B&
+
+
+11
+12
+
+13
+187
+
+15
+188
+T
+497M
+49749829 *
+1Ï! Ï(?28:5B&
+
+
+11
+30
+
+13
+499
+
+15
+500
+T
+441M
+44144229 *
+1ø  ø(928:5B&
+
+
+11
+12
+
+13
+443
+
+15
+444
+M
+27G
+272829 *
+1! ($28:5B$
+
+
+11
+30
+
+
+13
+31
+
+
+15
+32
+T
+357M
+35735835 *
+1Ä Ä(%28:5B&
+
+
+11
+12
+
+13
+359
+
+15
+360
+T
+321M
+32132235 *
+1‚ ‚(428:5B&
+
+
+11
+12
+
+13
+323
+
+15
+324
+T
+345M
+34534635 *
+1ˆ ˆ(28:5B&
+
+
+11
+12
+
+13
+347
+
+15
+348
+T
+369M
+36937035 *
+1ä ä(28:5B&
+
+
+11
+12
+
+13
+371
+
+15
+372
+M
+86G
+868729 *
+1' '(028:5B$
+
+
+11
+12
+
+
+13
+88
+
+
+15
+89
+T
+537M
+53753835 *
+1é é( 28:5B&
+
+
+11
+12
+
+13
+539
+
+15
+540
+T
+609M
+60961035 *
+1“ “(28:5B&
+
+
+11
+12
+
+13
+611
+
+15
+612
+T
+285M
+28528635 *
+1ƒ ƒ(128:5B&
+
+
+11
+12
+
+13
+287
+
+15
+288
+T
+553M
+55355435 *
+1û û($28:5B&
+
+
+11
+12
+
+13
+555
+
+15
+556
+T
+257M
+25725835 *
+1∞ ∞(%28:5B&
+
+
+11
+12
+
+13
+259
+
+15
+260
+R
+163K
+16316435 *
+1T T($28:5B&
+
+
+11
+12
+
+13
+165
+
+15
+166
+T
+397M
+39739835 *
+1£ £(!28:5B&
+
+
+11
+12
+
+13
+399
+
+15
+400
+R
+126K
+12612729 *
+19 9(328:5B&
+
+
+11
+12
+
+13
+128
+
+15
+129
+T
+269M
+26927035 *
+1∂ ∂(+28:5B&
+
+
+11
+12
+
+13
+271
+
+15
+272
+T
+489M
+48949035 *
+1‰ ‰('28:5B&
+
+
+11
+12
+
+13
+491
+
+15
+492
+T
+341M
+34134235 *
+1Ú Ú(%28:5B&
+
+
+11
+12
+
+13
+343
+
+15
+344
+T
+529M
+52953035 *
+1à à($28:5B&
+
+
+11
+12
+
+13
+531
+
+15
+532
+
+40
+404119
+T
+241M
+24124235 *
+1ú ú(#28:5B&
+
+
+11
+12
+
+13
+243
+
+15
+244
+T
+485M
+48548635 *
+1‡ ‡(+28:5B&
+
+
+11
+12
+
+13
+487
+
+15
+488
+T
+549M
+54955035 *
+1ö ö(28:5B&
+
+
+11
+12
+
+13
+551
+
+15
+552
+M
+66G
+666729 *
+1 (428:5B$
+
+
+11
+12
+
+
+13
+68
+
+
+15
+69
+T
+521M
+52152229 *
+1Ç! Ç(328:5B&
+
+
+11
+30
+
+13
+523
+
+15
+524
+T
+289M
+28929029 *
+1»! »(C28:5B&
+
+
+11
+30
+
+13
+291
+
+15
+292
+T
+297M
+29729835 *
+1Œ Œ(228:5B&
+
+
+11
+12
+
+13
+299
+
+15
+300
+T
+361M
+36136229 *
+1Ñ! Ñ(.28:5B&
+
+
+11
+30
+
+13
+363
+
+15
+364
+R
+110K
+11011129 *
+1/ /(128:5B&
+
+
+11
+12
+
+13
+112
+
+15
+113
+R
+130K
+13013129 *
+1< <(*28:5B&
+
+
+11
+12
+
+13
+132
+
+15
+133
+T
+469M
+46947035 *
+1– –(&28:5B&
+
+
+11
+12
+
+13
+471
+
+15
+472
+T
+437M
+43743829 *
+1æ! æ(128:5B&
+
+
+11
+30
+
+13
+439
+
+15
+440
+T
+281M
+28128235 *
+1¿ ¿(/28:5B&
+
+
+11
+12
+
+13
+283
+
+15
+284
+R
+155K
+15515635 *
+1N N((28:5B&
+
+
+11
+12
+
+13
+157
+
+15
+158
+T
+349M
+34935029 *
+1˙! ˙(528:5B&
+
+
+11
+30
+
+13
+351
+
+15
+352
+T
+593M
+59359429 *
+1ƒ! ƒ(-28:5B&
+
+
+11
+30
+
+13
+595
+
+15
+596
+M
+58G
+585929 *
+1 ('28:5B$
+
+
+11
+12
+
+
+13
+60
+
+
+15
+61
+R
+138K
+13813929 *
+1B  B(;28:5B&
+
+
+11
+12
+
+13
+140
+
+15
+141
+M
+50G
+505129 *
+1 (,28:5B$
+
+
+11
+12
+
+
+13
+52
+
+
+15
+53
+T
+253M
+25325435 *
+1´ ´(#28:5B&
+
+
+11
+12
+
+13
+255
+
+15
+256
+M
+33G
+333435 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+36
+
+
+15
+16
+T
+413M
+41341435 *
+1≥ ≥(28:5B&
+
+
+11
+12
+
+13
+415
+
+15
+416
+T
+337M
+33733829 *
+1! (128:5B&
+
+
+11
+30
+
+13
+339
+
+15
+340
+T
+389M
+38939035 *
+1õ õ(!28:5B&
+
+
+11
+12
+
+13
+391
+
+15
+392
+R
+106K
+10610729 *
+1. .(328:5B&
+
+
+11
+12
+
+13
+108
+
+15
+109
+T
+249M
+24925029 *
+1©! ©(228:5B&
+
+
+11
+30
+
+13
+251
+
+15
+252
+T
+605M
+60560635 *
+1Œ Œ(28:5B&
+
+
+11
+12
+
+13
+607
+
+15
+608
+T
+477M
+47747835 *
+1ÿ ÿ($28:5B&
+
+
+11
+12
+
+13
+479
+
+15
+480
+M
+78G
+787929 *
+1# #(428:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+T
+401M
+40140235 *
+1ß ß("28:5B&
+
+
+11
+12
+
+13
+403
+
+15
+404
+M
+82G
+828329 *
+1& &(-28:5B$
+
+
+11
+12
+
+
+13
+84
+
+
+15
+85
+
+48
+484919
+R
+213K
+21321435 *
+1} }($28:5B&
+
+
+11
+12
+
+13
+215
+
+15
+216
+T
+309M
+30931035 *
+1ÿ ÿ(328:5B&
+
+
+11
+12
+
+13
+311
+
+15
+312
+T
+517M
+51751835 *
+1˛ ˛("28:5B&
+
+
+11
+12
+
+13
+519
+
+15
+520
+R
+189K
+18919029 *
+1h! h(828:5B&
+
+
+11
+30
+
+13
+191
+
+15
+192
+T
+513M
+51351435 *
+1˙ ˙(28:5B&
+
+
+11
+12
+
+13
+515
+
+15
+516
+T
+233M
+23323435 *
+1å å(*28:5B&
+
+
+11
+30
+
+13
+235
+
+15
+236
+T
+317M
+31731835 *
+1ﬁ ﬁ(128:5B&
+
+
+11
+12
+
+13
+319
+
+15
+320
+R
+177K
+17717829 *
+1]! ](828:5B&
+
+
+11
+30
+
+13
+179
+
+15
+180
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+T
+533M
+53353429 *
+1å! å(228:5B&
+
+
+11
+30
+
+13
+535
+
+15
+536
+M
+70G
+707129 *
+1! !(.28:5B$
+
+
+11
+12
+
+
+13
+72
+
+
+15
+73
+T
+381M
+38138235 *
+1ë ë(/28:5B&
+
+
+11
+12
+
+13
+383
+
+15
+384
+T
+473M
+47347435 *
+1‘ ‘($28:5B&
+
+
+11
+12
+
+13
+475
+
+15
+476
+
+21
+212219
+T
+225M
+22522629 *
+1â! â(>28:5B&
+
+
+11
+30
+
+13
+227
+
+15
+228
+R
+151K
+15115235 *
+1J J( 28:5B&
+
+
+11
+12
+
+13
+153
+
+15
+154
+T
+445M
+44544629 *
+1¿  ¿(;28:5B&
+
+
+11
+12
+
+13
+447
+
+15
+448
+T
+557M
+55755829 *
+1¢! ¢(=28:5B&
+
+
+11
+30
+
+13
+559
+
+15
+560
+M
+94G
+949529 *
+1) )(*28:5B$
+
+
+11
+12
+
+
+13
+96
+
+
+15
+97
+
+173
+17317419
+
+261
+26126219
+T
+561M
+56156235 *
+1§ §()28:5B&
+
+
+11
+12
+
+13
+563
+
+15
+564
+T
+597M
+59759835 *
+1∆ ∆('28:5B&
+
+
+11
+12
+
+13
+599
+
+15
+600
+R
+205K
+20520635 *
+1m m(+28:5B&
+
+
+11
+30
+
+13
+207
+
+15
+208
+T
+509M
+50951029 *
+1¯! ¯(128:5B&
+
+
+11
+30
+
+13
+511
+
+15
+512
+T
+377M
+37737829 *
+1è! è(=28:5B&
+
+
+11
+30
+
+13
+379
+
+15
+380
+T
+245M
+24524635 *
+1• •('28:5B&
+
+
+11
+12
+
+13
+247
+
+15
+248
+T
+305M
+30530635 *
+1‘ ‘(128:5B&
+
+
+11
+12
+
+13
+307
+
+15
+308
+T
+601M
+60160229 *
+1Ã! Ã(.28:5B&
+
+
+11
+30
+
+13
+603
+
+15
+604
+
+46
+464719
+T
+301M
+30130229 *
+1“! “(F28:5B&
+
+
+11
+30
+
+13
+303
+
+15
+304
+T
+329M
+32933035 *
+1Ë Ë(.28:5B&
+
+
+11
+12
+
+13
+331
+
+15
+332
+R
+197K
+19719829 *
+1j! j(?28:5B&
+
+
+11
+30
+
+13
+199
+
+15
+200
+
+585
+58558619
+R
+147K
+14714829 *
+1H! H(328:5B&
+
+
+11
+30
+
+13
+149
+
+15
+150
+
+263
+26326419
+T
+449M
+44945029 *
+1¡  ¡(928:5B&
+
+
+11
+12
+
+13
+451
+
+15
+452
+T
+325M
+32532629 *
+1Ê! Ê(B28:5B&
+
+
+11
+30
+
+13
+327
+
+15
+328
+
+17
+171819
+R
+122K
+12212329 *
+16 6(,28:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+T
+457M
+45745835 *
+1ƒ ƒ(328:5B&
+
+
+11
+12
+
+13
+459
+
+15
+460
+T
+617M
+61761835 *
+1‹ ‹()28:5B&
+
+
+11
+12
+
+13
+619
+
+15
+620
+T
+333M
+33333435 *
+1Ï Ï(128:5B&
+
+
+11
+12
+
+13
+335
+
+15
+336
+T
+365M
+36536635 *
+1Ü Ü(28:5B&
+
+
+11
+12
+
+13
+367
+
+15
+368
+T
+293M
+29329435 *
+1   (/28:5B&
+
+
+11
+12
+
+13
+295
+
+15
+296
+T
+577M
+57757829 *
+1∏! ∏(128:5B&
+
+
+11
+30
+
+13
+579
+
+15
+580
+T
+277M
+27727829 *
+1æ! æ(D28:5B&
+
+
+11
+30
+
+13
+279
+
+15
+280
+T
+569M
+56957035 *
+1Æ Æ(&28:5B&
+
+
+11
+12
+
+13
+571
+
+15
+572
+R
+209K
+20921035 *
+1y y(%28:5B&
+
+
+11
+12
+
+13
+211
+
+15
+212
+R
+142K
+14214335 *
+1D D()28:5B&
+
+
+11
+12
+
+13
+144
+
+15
+145
+M
+54G
+545529 *
+1 (&28:5B$
+
+
+11
+12
+
+
+13
+56
+
+
+15
+57
+T
+429M
+42943029 *
+1º! º(728:5B&
+
+
+11
+30
+
+13
+431
+
+15
+432
+T
+221M
+22122229 *
+1à! à(<28:5B&
+
+
+11
+30
+
+13
+223
+
+15
+224
+T
+385M
+38538635 *
+1ï ï(-28:5B&
+
+
+11
+12
+
+13
+387
+
+15
+388
+T
+461M
+46146235 *
+1» »()28:5B&
+
+
+11
+12
+
+13
+463
+
+15
+464
+R
+114K
+11411529 *
+12 2(528:5B&
+
+
+11
+12
+
+13
+116
+
+15
+117
+T
+217M
+21721829 *
+1á! á(728:5B&
+
+
+11
+30
+
+13
+219
+
+15
+220
+T
+229M
+22923029 *
+1ä! ä(C28:5B&
+
+
+11
+30
+
+13
+231
+
+15
+232
+T
+237M
+23723835 *
+1ò ò($28:5B&
+
+
+11
+12
+
+13
+239
+
+15
+240
+T
+541M
+54154235 *
+1í í(#28:5B&
+
+
+11
+12
+
+13
+543
+
+15
+544
+T
+453M
+45345429 *
+1¬  ¬(;28:5B&
+
+
+11
+12
+
+13
+455
+
+15
+456
+R
+181K
+18118235 *
+1_ _(%28:5B&
+
+
+11
+12
+
+13
+183
+
+15
+184
+
+24
+242519
+R
+193K
+19319429 *
+1i! i(=28:5B&
+
+
+11
+30
+
+13
+195
+
+15
+196
+T
+581M
+58158235 *
+1ª ª("28:5B&
+
+
+11
+12
+
+13
+583
+
+15
+584
+T
+273M
+27327435 *
+1∫ ∫(-28:5B&
+
+
+11
+12
+
+13
+275
+
+15
+276rÑ 
+
+81720*
+1& (9
+
+82123*
+1 (
+
+82426*
+1 (
+
+81726*
+1& (9
+
+333739*
+1% (6
+
+334023*
+1 (
+
+334226*
+1 (
+
+33844*
+1 (
+
+333745*
+17 (H
+
+334623*
+1 ($
+
+334826*
+1 ($
+
+333726*
+1% (6
+
+142138146*
+1E E(3
+
+151147146*
+1K K(*
+
+15578146*
+1O O(2
+
+163159146*
+1U U(&
+
+16717139*
+1Y$ Y(+
+
+16717323*
+1X X(
+
+16717526*
+1X X(
+
+16717145*
+1Y, Y(3
+
+16717126*
+1Y$ Y(+
+
+167159146*
+1Z Z(-
+
+181177146*
+1` `('
+
+18517323*
+1c c(
+
+18517526*
+1c c(
+
+185177146*
+1e e(.
+
+20517139*
+1m, m(3
+
+20517145*
+1m4 m(;
+
+20517126*
+1m, m(3
+
+205189146*
+1n n(-
+
+205201146*
+1q4 q(W
+
+205193146*
+1qZ q(v
+
+205197146*
+1s7 s(U
+
+20917139*
+1y& y(-
+
+20917145*
+1y. y(5
+
+20917126*
+1y& y(-
+
+2098146*
+1z z('
+
+20920544*
+1z z('
+
+21317139*
+1}% }(,
+
+21317145*
+1}- }(4
+
+21317126*
+1}% }(,
+
+2138146*
+1~! ~(5
+
+21318544*
+1~! ~(5
+
+2138146*
+1Ñ Ñ(.
+
+21320544*
+1Ñ Ñ(.
+
+23317139*
+1å+ å(2
+
+23317145*
+1å3 å(:
+
+23317126*
+1å+ å(2
+
+233217146*
+1ç ç(,
+
+233229146*
+1ê4 ê(V
+
+233221146*
+1êY ê(t
+
+233225146*
+1í7 í(T
+
+23717139*
+1ò% ò(,
+
+23717145*
+1ò- ò(4
+
+23717126*
+1ò% ò(,
+
+2378146*
+1ô ô(&
+
+23723344*
+1ô ô(&
+
+24117139*
+1ú$ ú(+
+
+24117145*
+1ú, ú(3
+
+24117126*
+1ú$ ú(+
+
+2418146*
+1ù  ù(3
+
+24116744*
+1ù  ù(3
+
+2418146*
+1¢ ¢(-
+
+24123344*
+1¢ ¢(-
+
+253249146*
+1¨ ¨($
+
+25726123*
+1Ø Ø(
+
+25726326*
+1Ø Ø(
+
+257249146*
+1± ±(+
+
+269265146*
+1∑ ∑(1
+
+273265146*
+1ª ª(8
+
+281277146*
+1¡ ¡(6
+
+285277146*
+1≈ ≈(=
+
+293289146*
+1À À(3
+
+297289146*
+1œ œ(:
+
+305301146*
+1’ ’(8
+
+309301146*
+1Ÿ Ÿ(?
+
+317313146*
+1ﬂ ﬂ(5
+
+321313146*
+1„ „(<
+
+329325146*
+1È È(2
+
+333325146*
+1Ì Ì(9
+
+341337146*
+1Û Û( 
+
+3418146*
+1Û" Û(0
+
+34134544*
+1Û" Û(0
+
+345337146*
+1˜ ˜('
+
+353349146*
+1˝ ˝(%
+
+357349146*
+1Å Å(,
+
+365361146*
+1á á(
+
+369361146*
+1ã ã(%
+
+381373146*
+1í í(6
+
+385377146*
+1ñ ñ(4
+
+38998146*
+1ú ú((
+
+393102146*
+1† †(9
+
+39794146*
+1§ §((
+
+40186146*
+1® ®(&
+
+40586146*
+1¨ ¨(-
+
+40990146*
+1∞ ∞(%
+
+41390146*
+1¥ ¥(,
+
+457417146*
+1≈ ≈(2
+
+461453146*
+1… …(3
+
+465421146*
+1Õ Õ(2
+
+469425146*
+1— —()
+
+473429146*
+1’ ’(.
+
+477429146*
+1Ÿ Ÿ('
+
+481437146*
+1› ›((
+
+485441146*
+1· ·(1
+
+489449146*
+1Â Â(1
+
+493445146*
+1È È(3
+
+501497146*
+1Ô Ô(6
+
+505497146*
+1Û Û(/
+
+513509146*
+1˚ ˚(!
+
+517509146*
+1ˇ ˇ((
+
+525521146*
+1Ö Ö(#
+
+529521146*
+1â â(*
+
+537533146*
+1è è("
+
+541533146*
+1ì ì()
+
+549545146*
+1õ õ( 
+
+553545146*
+1ü ü('
+
+561557146*
+1• •(-
+
+565557146*
+1© ©(4
+
+569126146*
+1Ø Ø(1
+
+573126146*
+1≥ ≥(*
+
+58158523*
+1∫ ∫(
+
+58158726*
+1∫ ∫(
+
+58158726*
+1∫ ∫(
+
+581577146*
+1º º('
+
+58958523*
+1ø$ ø(6
+
+58958726*
+1ø% ø(1
+
+58958726*
+1ø2 ø(6
+
+589577146*
+1¿ ¿( 
+
+597593146*
+1« «($
+
+605601146*
+1œ œ($
+
+609601146*
+1” ”(
+
+613433146*
+1Ÿ Ÿ(-
+
+617433146*
+1› ›(&

@@ -1,0 +1,71 @@
+
+Fcom.simplecity.amp_library.ui.views.CircleImageView#%field_initializerT
+Japp\src\main\java\com\simplecity\amp_library\ui\views\CircleImageView.java ("1*Û
+1
+__unknown_file (€
+~
+# #(4H5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mDrawableRect"__id*"
+
+__unknown_file (
+""~
+|
+$ $(2F5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mBorderRect"__id*"
+
+__unknown_file (
+""€
+~
+& &(6H5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mShaderMatrix"__id*"
+
+__unknown_file (
+""
+}
+' '(3G5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mBitmapPaint"__id*"
+
+__unknown_file (
+""
+}
+( ((3G5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mBorderPaint"__id*"
+
+__unknown_file (
+""A
+?
+* *(3	
+%0int"__id*"
+
+__unknown_file (
+""…
+‚
+* *(4G5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mBorderColor"__id*'
+
+__unknown_file (
+	
+%0intA
+?
++ +(3	
+%1int"__id*"
+
+__unknown_file (
+""…
+‚
++ +(4G5
+3com.simplecity.amp_library.ui.views.CircleImageView"
+mBorderWidth"__id*'
+
+__unknown_file (
+	
+%1int"
+ ¥(
+implicit returnB75
+3com.simplecity.amp_library.ui.views.CircleImageView

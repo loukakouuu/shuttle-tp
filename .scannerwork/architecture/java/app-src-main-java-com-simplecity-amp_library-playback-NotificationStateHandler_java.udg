@@ -1,0 +1,259 @@
+
+1.0loukakouJavaFrontend"1779719399858*java2.B¸	
+X
+Sapp/src/main/java/com/simplecity/amp_library/playback/NotificationStateHandler.java2
+	
+type3
+	
+MAIN4
+
+package6
+(
+#com.simplecity.amp_library.playback7
+A
+<com.simplecity.amp_library.playback.NotificationStateHandler9
+
+class10
+
+access11
+
+	protected12
+
+
+full-range13
+
+(11:1)-(40:2)14
+
+simple-name15
+
+NotificationStateHandler16
+%
+Recovered#typeBindingLHandler;018
+
+unknown19
+
+extends20
+
+
+uses21
+R
+Lcom.simplecity.amp_library.playback.NotificationStateHandler.STOP_FOREGROUND23
+
+field24
+
+(13:5)-(13:42)25
+
+STOP_FOREGROUND26
+S
+Mcom.simplecity.amp_library.playback.NotificationStateHandler.START_FOREGROUND28
+
+(14:5)-(14:43)29
+
+START_FOREGROUND30
+K
+Ecom.simplecity.amp_library.playback.NotificationStateHandler.mService32
+
+private33
+
+(16:5)-(16:56)34
+
+mService35
+*
+$Recovered#typeBindingLMusicService;037
+Z
+Tcom.simplecity.amp_library.playback.NotificationStateHandler#<init>(LMusicService;)V39
+
+method40
+
+(18:5)-(20:6)41
+
+	has param42
+
+calls43
+
+is type44
+
+
+references45
+\
+Vcom.simplecity.amp_library.playback.NotificationStateHandler#handleMessage(LMessage;)V47
+
+public48
+
+(22:5)-(39:6)49
+
+handleMessage50
+%
+Recovered#typeBindingLMessage;052J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jê
+M
+27G
+272824 *
+1 (&28:5B$
+
+
+11
+12
+
+
+13
+29
+
+
+15
+30
+M
+38G
+383940 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+41
+
+
+15
+16
+M
+46G
+464740 *
+1 (28:5B$
+
+
+11
+48
+
+
+13
+49
+
+
+15
+50
+
+51
+515219
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+22G
+222324 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+M
+31G
+313224 *
+1/ (728:5B$
+
+
+11
+33
+
+
+13
+34
+
+
+15
+35
+
+17
+171819
+
+36
+363719r˝
+
+81720*
+1( (/
+
+81721*
+1( (/
+
+313621*
+1! (-
+
+383642*
+1 (*
+
+38843*
+1 (
+
+383644*
+1+ (7
+
+383621*
+1 (*
+
+383145*
+1	 (
+
+465142*
+1 (&
+
+465144*
+1' (*
+
+465121*
+1 (&
+
+463644*
+1 (#
+
+463621*
+1 (
+
+463145*
+1& (.
+
+463145*
+1& (.
+
+462745*
+1 ("
+
+46821*
+1    (8
+
+462245*
+1 9  (H
+
+462245*
+1" "(!

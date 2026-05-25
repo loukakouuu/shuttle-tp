@@ -1,0 +1,1135 @@
+
+1.0loukakouJavaFrontend"1779719409263*java2.B•+
+]
+Xapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay.java2
+	
+type3
+	
+MAIN4
+
+package6
+1
+,com.simplecity.amp_library.ui.screens.drawer7
+F
+Acom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(13:1)-(102:2)14
+
+simple-name15
+
+NavigationEventRelay16
+
+	Singleton18
+
+unknown19
+
+annotated by20
+'
+!Recovered#typeBindingLSingleton;022
+
+
+uses23
+\
+Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.librarySelectedEvent25
+
+field26
+
+	protected27
+
+(16:5)-(16:110)28
+
+librarySelectedEvent29
+W
+Qcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent31
+
+is type32
+
+
+references33
+
+calls34
+\
+Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type36
+m
+gcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.LIBRARY_SELECTED38
+_
+Ycom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.sleepTimerSelectedEvent40
+
+(17:5)-(17:117)41
+
+sleepTimerSelectedEvent42
+q
+kcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.SLEEP_TIMER_SELECTED44
+^
+Xcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.equalizerSelectedEvent46
+
+(18:5)-(18:114)47
+
+equalizerSelectedEvent48
+o
+icom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.EQUALIZER_SELECTED50
+]
+Wcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.settingsSelectedEvent52
+
+(19:5)-(19:112)53
+
+settingsSelectedEvent54
+n
+hcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.SETTINGS_SELECTED56
+\
+Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.supportSelectedEvent58
+
+(20:5)-(20:110)59
+
+supportSelectedEvent60
+m
+gcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.SUPPORT_SELECTED62
+Ú
+Ócom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay#getFoldersSelectedEvent(LShuttleApplication;LSettingsManager;)Lcom/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay$NavigationEvent;64
+
+method65
+
+(22:5)-(29:6)66
+
+getFoldersSelectedEvent67
+
+returns68
+0
+*Recovered#typeBindingLShuttleApplication;070
+
+	has param71
+-
+'Recovered#typeBindingLSettingsManager;073
+m
+gcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.FOLDERS_SELECTED75
+I
+Ccom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$177
+
+(23:75)-(28:10)78
+Y
+Scom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1#isActionable()Z80
+
+(24:13)-(27:14)81
+
+isActionable82
+M
+Gcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay.relay84
+
+private85
+
+(31:5)-(31:73)86
+
+relay87
+
+PublishRelay89
+Q
+Kcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay#<init>()V91
+
+(33:5)-(36:6)92
+
+Inject94
+$
+Recovered#typeBindingLInject;096
+¨
+¡com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay#sendEvent(Lcom/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay$NavigationEvent;)V98
+
+(38:5)-(40:6)99
+
+	sendEvent100
+
+NonNull102
+&
+Recovered#typeBindingLNonNull;0104
+`
+Ycom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay#getEvents()LObservable;106
+
+(42:5)-(45:6)107
+
+	getEvents108
+
+
+Observable110
+
+(47:5)-(101:6)111
+
+NavigationEvent112
+
+
+annotation113
+
+(49:9)-(60:10)114
+
+Type115
+
+(50:13)-(50:38)116
+
+LIBRARY_SELECTED117
+
+(51:13)-(51:38)118
+
+FOLDERS_SELECTED119
+
+(52:13)-(52:42)120
+
+SLEEP_TIMER_SELECTED121
+
+(53:13)-(53:40)122
+
+EQUALIZER_SELECTED123
+
+(54:13)-(54:39)124
+
+SETTINGS_SELECTED125
+
+(55:13)-(55:38)126
+
+SUPPORT_SELECTED127
+o
+hcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.PLAYLIST_SELECTED129
+
+(56:13)-(56:39)130
+
+PLAYLIST_SELECTED131
+j
+ccom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_ARTIST133
+
+(57:13)-(57:34)134
+
+GO_TO_ARTIST135
+i
+bcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_ALBUM137
+
+(58:13)-(58:33)138
+
+GO_TO_ALBUM139
+i
+bcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_GENRE141
+
+(59:13)-(59:33)142
+
+GO_TO_GENRE143
+]
+Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent.type145
+
+(62:9)-(63:25)146
+]
+Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent.data148
+
+(65:9)-(66:28)149
+
+data150
+
+Nullable152
+'
+ Recovered#typeBindingLNullable;0154
+e
+^com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent.isActionable156
+
+(68:9)-(68:45)157
+v
+ocom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#<init>(ILjava/lang/Object;Z)V159
+
+(76:9)-(80:10)160
+u
+ncom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#<init>(ILjava/lang/Object;)V162
+
+(86:9)-(89:10)163
+c
+\com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#<init>(I)V165
+
+(94:9)-(96:10)166
+h
+acom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#isActionable()Z168
+
+(98:9)-(100:10)169J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j«
+P
+43J
+434426 *
+14 4(%235:5B&
+
+
+11
+12
+
+13
+120
+
+15
+121
+B
+76<
+767710 *
+1K (
+263:5B
+
+
+11
+27
+
+
+13
+78
+G
+8B
+8910 *
+1 (":5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+P
+74J
+747526 *
+13 3(!235:5B&
+
+
+11
+12
+
+13
+118
+
+15
+119
+S
+132L
+13213326 *
+19 9(235:5B&
+
+
+11
+12
+
+13
+134
+
+15
+135
+M
+45G
+454626 *
+1 (228:5B$
+
+
+11
+27
+
+
+13
+47
+
+
+15
+48
+S
+128L
+12812926 *
+18 8("235:5B&
+
+
+11
+12
+
+13
+130
+
+15
+131
+M
+51G
+515226 *
+1 (128:5B$
+
+
+11
+27
+
+
+13
+53
+
+
+15
+54
+M
+83G
+838426 *
+1+ (028:5B$
+
+
+11
+85
+
+
+13
+86
+
+
+15
+87
+P
+55J
+555626 *
+16 6("235:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+P
+49J
+495026 *
+15 5(#235:5B&
+
+
+11
+12
+
+13
+122
+
+15
+123
+O
+30I
+303110 *
+1/ /((28:5B&
+
+
+11
+12
+
+13
+111
+
+15
+112
+P
+61J
+616226 *
+17 7(!235:5B&
+
+
+11
+12
+
+13
+126
+
+15
+127
+N
+97H
+979865 *
+1& &(28:5B%
+
+
+11
+12
+
+
+13
+99
+
+15
+100
+M
+39G
+394026 *
+1 (328:5B$
+
+
+11
+27
+
+
+13
+41
+
+
+15
+42
+
+153
+15315419
+
+101
+10110219
+
+88
+888919
+M
+90G
+909165 *
+1" "( 28:5B$
+
+
+11
+12
+
+
+13
+92
+
+
+15
+16
+S
+140L
+14014126 *
+1; ;(235:5B&
+
+
+11
+12
+
+13
+142
+
+15
+143
+S
+164L
+16416565 *
+1^	 ^(230:5B&
+
+
+11
+27
+
+13
+166
+
+15
+112
+M
+24G
+242526 *
+1 (028:5B$
+
+
+11
+27
+
+
+13
+28
+
+
+15
+29
+
+72
+727319
+
+93
+939419
+S
+147L
+14714826 *
+1B B(230:5B&
+
+
+11
+12
+
+13
+149
+
+15
+150
+S
+158L
+15815965 *
+1L L(230:5B&
+
+
+11
+12
+
+13
+160
+
+15
+112
+S
+161L
+16116265 *
+1V V(230:5B&
+
+
+11
+12
+
+13
+163
+
+15
+112
+
+95
+959619
+Q
+144J
+14414526 *
+1? ?(230:5B$
+
+
+11
+12
+
+13
+146
+	
+15
+3
+R
+105K
+10510665 *
+1*( *(128:5B&
+
+
+11
+12
+
+13
+107
+
+15
+108
+Q
+35K
+3536113 *
+11 1(230:5B&
+
+
+11
+12
+
+13
+114
+
+15
+115
+R
+155K
+15515626 *
+1D D(%230:5B%
+
+
+11
+85
+
+13
+157
+
+
+15
+82
+
+109
+10911019
+S
+136L
+13613726 *
+1: :(235:5B&
+
+
+11
+12
+
+13
+138
+
+15
+139
+
+17
+171819
+P
+37J
+373826 *
+12 2(!235:5B&
+
+
+11
+12
+
+13
+116
+
+15
+117
+M
+63G
+636465 *
+1 (328:5B$
+
+
+11
+27
+
+
+13
+66
+
+
+15
+67
+N
+79H
+798065 *
+1 ((276:5B$
+
+
+11
+12
+
+
+13
+81
+
+
+15
+82
+
+21
+212219
+R
+167K
+16716865 *
+1b b($230:5B%
+
+
+11
+12
+
+13
+169
+
+
+15
+82
+
+69
+697019
+M
+57G
+575826 *
+1 (028:5B$
+
+
+11
+27
+
+
+13
+59
+
+
+15
+60
+
+103
+10310419
+
+151
+15115219rö
+
+81720*
+1 (
+
+82123*
+1 (
+
+243032*
+1 (
+
+243023*
+1 (
+
+243033*
+1 (
+
+243023*
+1 (0
+
+243034*
+17 (F
+
+243023*
+1G (V
+
+243033*
+1G (V
+
+243523*
+1W ([
+
+243533*
+1W ([
+
+243733*
+1\ (l
+
+393032*
+1 (
+
+393023*
+1 (
+
+393033*
+1 (
+
+393023*
+1 (3
+
+393034*
+1: (I
+
+393023*
+1J (Y
+
+393033*
+1J (Y
+
+393523*
+1Z (^
+
+393533*
+1Z (^
+
+394333*
+1_ (s
+
+453032*
+1 (
+
+453023*
+1 (
+
+453033*
+1 (
+
+453023*
+1 (2
+
+453034*
+19 (H
+
+453023*
+1I (X
+
+453033*
+1I (X
+
+453523*
+1Y (]
+
+453533*
+1Y (]
+
+454933*
+1^ (p
+
+513032*
+1 (
+
+513023*
+1 (
+
+513033*
+1 (
+
+513023*
+1 (1
+
+513034*
+18 (G
+
+513023*
+1H (W
+
+513033*
+1H (W
+
+513523*
+1X (\
+
+513533*
+1X (\
+
+515533*
+1] (n
+
+573032*
+1 (
+
+573023*
+1 (
+
+573033*
+1 (
+
+573023*
+1 (0
+
+573034*
+17 (F
+
+573023*
+1G (V
+
+573033*
+1G (V
+
+573523*
+1W ([
+
+573533*
+1W ([
+
+576133*
+1\ (l
+
+633068*
+1 (
+
+636971*
+14 (F
+
+637271*
+1T (c
+
+633023*
+1 (
+
+633033*
+1 (
+
+636932*
+1G (R
+
+636923*
+14 (F
+
+637232*
+1d (s
+
+637223*
+1T (c
+
+633034*
+1 (#
+
+633023*
+1$ (3
+
+633033*
+1$ (3
+
+633523*
+14 (8
+
+633533*
+14 (8
+
+637433*
+19 (I
+
+838832*
+1 (*
+
+838823*
+1 (
+
+833023*
+1 ()
+
+833033*
+1 ()
+
+838823*
+1+ (0
+
+909320*
+1! !(
+
+909523*
+1! !(
+
+90834*
+1" "( 
+
+973071*
+1&$ &(3
+
+973032*
+1&4 &(9
+
+9710120*
+1& &(#
+
+9710323*
+1& &(#
+
+973023*
+1&$ &(3
+
+973033*
+1&$ &(3
+
+978333*
+1'	 '(
+
+978823*
+1'	 '(
+
+978333*
+1'	 '(
+
+10510968*
+1* *('
+
+10510923*
+1* *(
+
+1053023*
+1* *(&
+
+1053033*
+1* *(&
+
+1058823*
+1, ,(
+
+1058333*
+1, ,(
+
+1443520*
+1>	 >(
+
+1443523*
+1>
+ >(
+
+1443533*
+1>
+ >(
+
+14715120*
+1A	 A(
+
+14715323*
+1A
+ A(
+
+1583034*
+1L L(
+
+15815120*
+1L* L(3
+
+15815323*
+1L+ L(3
+
+1583023*
+1M M(
+
+1583033*
+1M M(
+
+15814433*
+1M M(
+
+1583023*
+1N N(
+
+1583033*
+1N N(
+
+15814733*
+1N N(
+
+1583023*
+1O O(
+
+1583033*
+1O O(
+
+15815533*
+1O O(
+
+1613034*
+1V V(
+
+16115120*
+1V* V(3
+
+16115323*
+1V+ V(3
+
+1613023*
+1W W(
+
+1613033*
+1W W(
+
+16114433*
+1W W(
+
+1613023*
+1X X(
+
+1613033*
+1X X(
+
+16114733*
+1X X(
+
+1643034*
+1^	 ^(
+
+1643023*
+1_ _(
+
+1643033*
+1_ _(
+
+16414433*
+1_ _(
+
+16715533*
+1c c( 

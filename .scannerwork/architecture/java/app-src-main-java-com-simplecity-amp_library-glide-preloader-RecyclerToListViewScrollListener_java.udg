@@ -1,0 +1,386 @@
+
+1.0loukakouJavaFrontend"1779719410318*java2.B‡
+g
+bapp/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java2
+	
+type3
+	
+MAIN4
+
+package6
+/
+*com.simplecity.amp_library.glide.preloader7
+P
+Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(14:1)-(61:2)14
+
+simple-name15
+&
+ RecyclerToListViewScrollListener16
+*
+$Recovered#typeBindingLRecyclerView;018
+
+unknown19
+
+extends20
+
+
+uses21
+f
+`com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener.UNKNOWN_SCROLL_STATE23
+
+field24
+
+(15:5)-(15:70)25
+
+UNKNOWN_SCROLL_STATE26
+`
+Zcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener.scrollListener28
+
+private29
+
+(16:5)-(16:63)30
+
+scrollListener31
+"
+AbsListView.OnScrollListener33
+
+is type34
+)
+#Recovered#typeBindingLAbsListView;036
+b
+\com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener.lastFirstVisible38
+
+(17:5)-(17:39)39
+
+lastFirstVisible40
+b
+\com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener.lastVisibleCount42
+
+(18:5)-(18:39)43
+
+lastVisibleCount44
+_
+Ycom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener.lastItemCount46
+
+(19:5)-(19:36)47
+
+lastItemCount48
+y
+scom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#<init>(LAbsListView/OnScrollListener;)V50
+
+method51
+
+(21:5)-(23:6)52
+
+	has param53
+
+calls54
+
+
+references55
+x
+rcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#onScrollStateChanged(LRecyclerView;I)V57
+
+(25:5)-(43:6)58
+
+onScrollStateChanged59
+o
+icom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#onScrolled(LRecyclerView;II)V61
+
+(45:5)-(60:6)62
+
+
+onScrolled63
+1
++Recovered#typeBindingLLinearLayoutManager;065J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j‘
+
+35
+353619
+
+32
+323319
+M
+27G
+272824 *
+10 (>28:5B$
+
+
+11
+29
+
+
+13
+30
+
+
+15
+31
+M
+22G
+222324 *
+1 (128:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+G
+8B
+8910 *
+1 (4:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+17
+171819
+M
+41G
+414224 *
+1 (!28:5B$
+
+
+11
+29
+
+
+13
+43
+
+
+15
+44
+
+64
+646519
+M
+56G
+565751 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+58
+
+
+15
+59
+M
+60G
+606151 *
+1. .(28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+M
+37G
+373824 *
+1 (!28:5B$
+
+
+11
+29
+
+
+13
+39
+
+
+15
+40
+M
+45G
+454624 *
+1 (28:5B$
+
+
+11
+29
+
+
+13
+47
+
+
+15
+48
+M
+49G
+495051 *
+1 (,28:5B$
+
+
+11
+12
+
+
+13
+52
+
+
+15
+16rü
+
+81720*
+1= (Z
+
+81721*
+1= (I
+
+81721*
+1J (Z
+
+273234*
+1 (/
+
+273521*
+1 (
+
+273221*
+1 (/
+
+273221*
+10 (>
+
+493553*
+1- (I
+
+49854*
+1 (,
+
+493534*
+1J (X
+
+493521*
+1- (8
+
+493521*
+19 (I
+
+49821*
+1	 (
+
+49855*
+1	 (
+
+493221*
+1 (
+
+492755*
+1 (
+
+561753*
+1& (2
+
+561734*
+13 (?
+
+561721*
+1& (2
+
+562255*
+1'! '(5
+
+562755*
+1*	 *(
+
+563221*
+1*	 *(
+
+562755*
+1*	 *(
+
+601753*
+1. .((
+
+601734*
+1.) .(5
+
+601721*
+1. .((
+
+606434*
+1/ /(*
+
+606421*
+1/	 /(
+
+606421*
+1/. /(A
+
+603755*
+15 5(-
+
+604155*
+15A 5(Q
+
+604555*
+16! 6(.
+
+602755*
+17 7(
+
+603221*
+17 7(
+
+602755*
+17 7(
+
+603755*
+18 8(
+
+604155*
+19 9(
+
+604555*
+1: :(

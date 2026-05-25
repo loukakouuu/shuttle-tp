@@ -1,0 +1,39 @@
+
+jcom.simplecity.amp_library.model.AlbumArtist$Builder#build()Lcom/simplecity/amp_library/model/AlbumArtist;M
+Capp\src\main\java\com\simplecity\amp_library\model\AlbumArtist.javaS S( "1*å
+1T# T('‹
+ˆ
+T# T(,
+%0java.lang.String"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.model.AlbumArtist$Builder"
+namez
+x
+T. T(9
+%1"__id*`
+
+__unknown_file (D*B6
+4com.simplecity.amp_library.model.AlbumArtist$Builder"
+albumsnl
+T T("2
+%2,com.simplecity.amp_library.model.AlbumArtist",com.simplecity.amp_library.model.AlbumArtist™
+–
+T T(:
+%3"Xcom.simplecity.amp_library.model.AlbumArtist#<init>(Ljava/lang/String;Ljava/util/List;)V*P
+
+__unknown_file (4
+2
+%2,com.simplecity.amp_library.model.AlbumArtist*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+
+%1"@
+T T(;4
+2
+%2,com.simplecity.amp_library.model.AlbumArtistB86
+4com.simplecity.amp_library.model.AlbumArtist$BuilderH

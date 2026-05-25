@@ -1,0 +1,1027 @@
+
+1.0loukakouJavaFrontend"1779719407880*java2.B¨!
+T
+Oapp/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+=
+8com.simplecity.amp_library.utils.InputMethodManagerLeaks9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(26:1)-(216:2)14
+
+simple-name15
+
+InputMethodManagerLeaks16
+O
+Icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner18
+
+	protected19
+
+(28:5)-(133:6)20
+
+ReferenceCleaner21
+*
+$Recovered#typeBindingLMessageQueue;023
+
+unknown24
+
+
+implements25
+"
+Recovered#typeBindingLView;027
+.
+(Recovered#typeBindingLViewTreeObserver;029
+
+
+uses30
+b
+\com.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.inputMethodManager32
+
+field33
+
+private34
+
+(32:9)-(32:61)35
+
+inputMethodManager36
+
+InputMethodManager38
+
+is type39
+W
+Qcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.mHField41
+
+(33:9)-(33:37)42
+
+mHField43
+`
+Zcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.mServedViewField45
+
+(34:9)-(34:46)46
+
+mServedViewField47
+g
+acom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.finishInputLockedMethod49
+
+(35:9)-(35:54)50
+
+finishInputLockedMethod51
+º
+³com.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#<init>(LInputMethodManager;Ljava/lang/reflect/Field;Ljava/lang/reflect/Field;Ljava/lang/reflect/Method;)V53
+
+method54
+
+(37:9)-(43:10)55
+0
+*Recovered#typeBindingLInputMethodManager;057
+
+	has param58
+
+calls59
+
+
+references60
+s
+mcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onGlobalFocusChanged(LView;LView;)V62
+
+(45:9)-(55:10)63
+
+onGlobalFocusChanged64
+o
+icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onViewAttachedToWindow(LView;)V66
+
+(57:9)-(59:10)67
+
+onViewAttachedToWindow68
+q
+kcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onViewDetachedFromWindow(LView;)V70
+
+(61:9)-(66:10)71
+
+onViewDetachedFromWindow72
+\
+Vcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#queueIdle()Z74
+
+(68:9)-(72:10)75
+
+	queueIdle76
+n
+hcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#clearInputMethodManagerLeak()V78
+
+(74:9)-(113:10)79
+!
+clearInputMethodManagerLeak80
+&
+ Recovered#typeBindingLActivity;082
+
+Activity84
+
+returns85
+t
+ncom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#extractActivity(LContext;)LActivity;87
+
+(115:9)-(132:10)88
+
+extractActivity89
+%
+Recovered#typeBindingLContext;091
+)
+#Recovered#typeBindingLApplication;093
+,
+&Recovered#typeBindingLContextWrapper;095
+a
+[com.simplecity.amp_library.utils.InputMethodManagerLeaks#fixFocusedViewLeak(LApplication;)V97
+
+(145:5)-(215:6)98
+
+fixFocusedViewLeak99
+
+SuppressLint101
+
+annotated by102
++
+$Recovered#typeBindingLSuppressLint;0104
+A
+:com.simplecity.amp_library.utils.InputMethodManagerLeaks$1106
+
+(174:101)-(214:10)107
+h
+acom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityCreated(LActivity;LBundle;)V109
+
+(175:13)-(178:14)110
+
+onActivityCreated111
+%
+Recovered#typeBindingLBundle;0113
+`
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityStarted(LActivity;)V115
+
+(180:13)-(188:14)116
+
+onActivityStarted117
+`
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityResumed(LActivity;)V119
+
+(190:13)-(193:14)120
+
+onActivityResumed121
+_
+Xcom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityPaused(LActivity;)V123
+
+(195:13)-(198:14)124
+
+onActivityPaused125
+`
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityStopped(LActivity;)V127
+
+(200:13)-(203:14)128
+
+onActivityStopped129
+r
+kcom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivitySaveInstanceState(LActivity;LBundle;)V131
+
+(205:13)-(208:14)132
+"
+onActivitySaveInstanceState133
+b
+[com.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityDestroyed(LActivity;)V135
+
+(210:13)-(213:14)136
+
+onActivityDestroyed137J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j˜
+
+90
+909124
+
+56
+565724
+
+83
+838424
+
+37
+373824
+
+92
+929324
+G
+8B
+8910 *
+1 (%:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+O
+96I
+969754 *
+1’ ’(*28:5B$
+
+
+11
+12
+
+
+13
+98
+
+
+15
+99
+
+81
+818224
+N
+31H
+313233 *
+1 *  (<217:5B$
+
+
+11
+34
+
+
+13
+35
+
+
+15
+36
+N
+65H
+656654 *
+1: :(+217:5B$
+
+
+11
+12
+
+
+13
+67
+
+
+15
+68
+
+94
+949524
+
+26
+262724
+N
+44H
+444533 *
+1" "(-217:5B$
+
+
+11
+34
+
+
+13
+46
+
+
+15
+47
+N
+77H
+777854 *
+1J J(1217:5B$
+
+
+11
+34
+
+
+13
+79
+
+
+15
+80
+V
+114O
+11411554 *
+1µ µ(*2105:5B&
+
+
+11
+12
+
+13
+116
+
+15
+117
+
+22
+222324
+N
+86H
+868754 *
+1s s()217:5B$
+
+
+11
+34
+
+
+13
+88
+
+
+15
+89
+V
+130O
+13013154 *
+1Î Î(42105:5B&
+
+
+11
+12
+
+13
+132
+
+15
+133
+N
+73H
+737454 *
+1E E(!217:5B$
+
+
+11
+12
+
+
+13
+75
+
+
+15
+76
+V
+118O
+11811954 *
+1¿ ¿(*2105:5B&
+
+
+11
+12
+
+13
+120
+
+15
+121
+H
+105A
+10510610 *
+1®e Ö(
+296:5B
+
+
+11
+19
+
+13
+107
+N
+40H
+404133 *
+1! !($217:5B$
+
+
+11
+34
+
+
+13
+42
+
+
+15
+43
+V
+122O
+12212354 *
+1Ä Ä()2105:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+M
+17G
+171810 *
+1 ("28:5B$
+
+
+11
+19
+
+
+13
+20
+
+
+15
+21
+V
+126O
+12612754 *
+1É É(*2105:5B&
+
+
+11
+12
+
+13
+128
+
+15
+129
+N
+52H
+525354 *
+1%	 %(217:5B$
+
+
+11
+19
+
+
+13
+55
+
+
+15
+21
+N
+48H
+484933 *
+1# #(5217:5B$
+
+
+11
+34
+
+
+13
+50
+
+
+15
+51
+
+112
+11211324
+V
+134O
+13413554 *
+1Ó Ó(,2105:5B&
+
+
+11
+12
+
+13
+136
+
+15
+137
+N
+69H
+697054 *
+1> >(-217:5B$
+
+
+11
+12
+
+
+13
+71
+
+
+15
+72
+
+103
+10310424
+
+28
+282924
+
+100
+10010124
+N
+61H
+616254 *
+1. .()217:5B$
+
+
+11
+12
+
+
+13
+63
+
+
+15
+64
+V
+108O
+10810954 *
+1° °(*2105:5B&
+
+
+11
+12
+
+13
+110
+
+15
+111rô
+
+172225*
+1 (0
+
+172625*
+12 (R
+
+172825*
+1 (9
+
+172230*
+1 ($
+
+172230*
+1% (0
+
+172630*
+12 (6
+
+172630*
+17 (R
+
+172830*
+1 (
+
+172830*
+1 (9
+
+313739*
+1   ()
+
+313730*
+1   ()
+
+313730*
+1 *  (<
+
+525658*
+1% %(,
+
+521759*
+1%	 %(
+
+525639*
+1%- %(?
+
+525630*
+1% %(,
+
+521730*
+1' '(
+
+521760*
+1' '(
+
+523730*
+1' '($
+
+523160*
+1' '($
+
+521730*
+1( ((
+
+521760*
+1( ((
+
+524060*
+1( ((
+
+521730*
+1) )(
+
+521760*
+1) )(
+
+524460*
+1) )("
+
+521730*
+1* *(
+
+521760*
+1* *(
+
+524860*
+1* *()
+
+612658*
+1.* .(.
+
+612658*
+1.9 .(=
+
+612639*
+1./ .(7
+
+612630*
+1.* .(.
+
+612639*
+1.> .(F
+
+612630*
+1.9 .(=
+
+611730*
+13< 3(@
+
+611760*
+13< 3(@
+
+611730*
+150 5(4
+
+611760*
+150 5(4
+
+611730*
+165 6(9
+
+611760*
+165 6(9
+
+652658*
+1:, :(0
+
+652639*
+1:1 :(2
+
+652630*
+1:, :(0
+
+692658*
+1>. >(2
+
+692639*
+1>3 >(4
+
+692630*
+1>. >(2
+
+691730*
+1?1 ?(5
+
+691760*
+1?1 ?(5
+
+691730*
+1@0 @(4
+
+691760*
+1@0 @(4
+
+691730*
+1A- A(1
+
+691760*
+1A- A(1
+
+731760*
+1F F((
+
+737759*
+1F F((
+
+774060*
+1L% L(,
+
+774060*
+1L% L(,
+
+773730*
+1L1 L(C
+
+773160*
+1L1 L(C
+
+772639*
+1P P($
+
+772630*
+1P P(
+
+772630*
+1P( P(,
+
+774460*
+1P. P(>
+
+774460*
+1P. P(>
+
+773730*
+1PC P(U
+
+773160*
+1PC P(U
+
+771730*
+1ZJ Z(N
+
+771760*
+1ZJ Z(N
+
+771730*
+1[G [(K
+
+771760*
+1[G [(K
+
+778139*
+1^& ^(.
+
+778130*
+1^ ^(%
+
+778385*
+1^1 ^(@
+
+771760*
+1^1 ^(@
+
+778659*
+1^1 ^(@
+
+774860*
+1a! a(8
+
+774860*
+1a! a(8
+
+773730*
+1a@ a(R
+
+773160*
+1a@ a(R
+
+772639*
+1c& c(/
+
+772630*
+1c! c(%
+
+774860*
+1f% f(<
+
+774860*
+1f% f(<
+
+773730*
+1fD f(V
+
+773160*
+1fD f(V
+
+868385*
+1s s(
+
+869058*
+1s* s(1
+
+868330*
+1s s(
+
+869039*
+1s2 s(9
+
+869030*
+1s* s(1
+
+869230*
+1u( u(3
+
+868130*
+1w/ w(7
+
+868130*
+1x x(%
+
+869430*
+1y/ y(=
+
+869039*
+1z z((
+
+869030*
+1z z(
+
+869430*
+1z- z(;
+
+969258*
+1’+ ’(6
+
+96100102*
+1‘ ‘( 
+
+9610330*
+1‘ ‘(
+
+969239*
+1’7 ’(B
+
+969230*
+1’+ ’(6
+
+965639*
+1™" ™(4
+
+965630*
+1™ ™(!
+
+965630*
+1š š($
+
+965630*
+1¡  ¡(2
+
+965630*
+1£ £()
+
+965630*
+1¥' ¥(9
+
+965630*
+1§ §(/
+
+962630*
+1§S §(W
+
+969230*
+1®< ®(G
+
+1088158*
+1°+ °(3
+
+10811258*
+1°> °(D
+
+1088139*
+1°4 °(<
+
+1088130*
+1°+ °(3
+
+10811239*
+1°E °(W
+
+10811230*
+1°> °(D
+
+1148158*
+1µ+ µ(3
+
+1148139*
+1µ4 µ(<
+
+1148130*
+1µ+ µ(3
+
+1141739*
+1¶" ¶()
+
+1141730*
+1¶ ¶(!
+
+1141760*
+1¶ ¶(!
+
+1141759*
+1· ·(-
+
+1142639*
+1¹ ¹(
+
+1142630*
+1¹ ¹(
+
+1142839*
+1º" º(2
+
+1142830*
+1º º(!
+
+1188158*
+1¿+ ¿(3
+
+1188139*
+1¿4 ¿(<
+
+1188130*
+1¿+ ¿(3
+
+1228158*
+1Ä* Ä(2
+
+1228139*
+1Ä3 Ä(;
+
+1228130*
+1Ä* Ä(2
+
+1268158*
+1É+ É(3
+
+1268139*
+1É4 É(<
+
+1268130*
+1É+ É(3
+
+1308158*
+1Î5 Î(=
+
+13011258*
+1ÎH Î(N
+
+1308139*
+1Î> Î(F
+
+1308130*
+1Î5 Î(=
+
+13011239*
+1ÎO Î(W
+
+13011230*
+1ÎH Î(N
+
+1348158*
+1Ó- Ó(5
+
+1348139*
+1Ó6 Ó(>
+
+1348130*
+1Ó- Ó(5

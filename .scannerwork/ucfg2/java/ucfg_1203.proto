@@ -1,0 +1,219 @@
+
+3com.simplecity.amp_library.model.Artist#hashCode()IH
+>app\src\main\java\com\simplecity\amp_library\model\Artist.java ("4*Z
+2!A !(BF
+D
+!A !(B	
+%7int"__id*'
+
+__unknown_file (
+	
+%9int*
+1*Ô
+3!/ !(3~
+|
+!/ !(3
+%10java.lang.String"__id*Q
+
+__unknown_file (5*3)
+'com.simplecity.amp_library.model.Artist"
+namexv
+!/ !(>	
+%8int"java.lang.String#hashCode()I*5
+
+__unknown_file (
+
+%10java.lang.String2
+hashCode()F
+D
+!/ !(>	
+%7int"__id*'
+
+__unknown_file (
+	
+%8int*
+1*÷
+4   (o
+m
+   (
+
+%0long"__id*O
+
+__unknown_file (3*1)
+'com.simplecity.amp_library.model.Artist"
+ido
+m
+ "  ($
+
+%1long"__id*O
+
+__unknown_file (3*1)
+'com.simplecity.amp_library.model.Artist"
+idf
+d
+ "  (+
+
+%2long"__calculate*
+ %  ((
+>>>*
+ "  ($
+
+
+%1long*
+ )  (+2 l
+j
+   (,
+
+%3long"__calculate*
+   ( 
+^*
+   (
+
+
+%0long*
+ !  (,
+
+
+%2longK
+I
+   (.
+resultint"__id*(
+
+__unknown_file (
+
+
+%3longf
+d
+! !(	
+%4int"__calculate*
+! !(
+**
+! !(2*
+! !(
+
+resultint}
+{
+!  !($
+%5java.lang.String"__id*Q
+
+__unknown_file (5*3)
+'com.simplecity.amp_library.model.Artist"
+namet
+r
+!  !(,
+%6boolean"	__compare*
+!% !('
+!=*$
+!  !($
+
+%5java.lang.String*
+!( !(,
+""*
+2
+3*š
+1! !(Cj
+h
+! !(C
+
+%11int"__calculate*
+! !(
++*
+! !(
+	
+%4int*
+! !(C
+	
+%7intK
+I
+! !(C
+resultint"__id*(
+
+__unknown_file (
+
+
+%11intg
+e
+" "(
+
+%12int"__calculate*
+" "(
+**
+" "(2*
+" "(
+
+resultintv
+t
+" "((
+
+%13int"__id*V
+
+__unknown_file (:*8)
+'com.simplecity.amp_library.model.Artist"
+	numAlbumsl
+j
+" "((
+
+%14int"__calculate*
+" "(
++*
+" "(
+
+
+%12int*
+" "((
+
+
+%13intK
+I
+" "((
+resultint"__id*(
+
+__unknown_file (
+
+
+%14intg
+e
+# #(
+
+%15int"__calculate*
+# #(
+**
+# #(2*
+# #(
+
+resultintu
+s
+# #('
+
+%16int"__id*U
+
+__unknown_file (9*7)
+'com.simplecity.amp_library.model.Artist"
+
+numSongsl
+j
+# #('
+
+%17int"__calculate*
+# #(
++*
+# #(
+
+
+%15int*
+# #('
+
+
+%16intK
+I
+# #('
+resultint"__id*(
+
+__unknown_file (
+
+
+%17int"
+$ $(
+
+resultintB+)
+'com.simplecity.amp_library.model.ArtistHX

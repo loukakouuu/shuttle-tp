@@ -1,0 +1,244 @@
+
+1com.simplecity.amp_library.model.Song#hashCode()IH
+<app\src\main\java\com\simplecity\amp_library\model\Song.javaÇ Ç("1*Û
+1
+È È(o
+m
+
+È È(
+
+%0long"__id*M
+
+__unknown_file (1*/'
+%com.simplecity.amp_library.model.Song"
+ido
+m
+
+È" È($
+
+%1long"__id*M
+
+__unknown_file (1*/'
+%com.simplecity.amp_library.model.Song"
+idn
+l
+
+È" È(+
+
+%2long"__calculate*
+
+È% È((
+>>>*
+
+È" È($
+
+
+%1long*
+
+È) È(+2 t
+r
+
+È È(,
+
+%3long"__calculate*
+
+È È( 
+^*
+
+È È(
+
+
+%0long*
+
+È! È(,
+
+
+%2longM
+K
+
+È È(.
+resultint"__id*(
+
+__unknown_file (
+
+
+%3longn
+l
+
+É É(	
+%4int"__calculate*
+
+É É(
+**
+
+É É(2*
+
+É É(
+
+resultintu
+s
+
+É& É(.
+
+%5long"__id*S
+
+__unknown_file (7*5'
+%com.simplecity.amp_library.model.Song"
+
+artistIdu
+s
+
+É2 É(:
+
+%6long"__id*S
+
+__unknown_file (7*5'
+%com.simplecity.amp_library.model.Song"
+
+artistIdn
+l
+
+É2 É(A
+
+%7long"__calculate*
+
+É; É(>
+>>>*
+
+É2 É(:
+
+
+%6long*
+
+É? É(A2 t
+r
+
+É& É(B
+
+%8long"__calculate*
+
+É/ É(0
+^*
+
+É& É(.
+
+
+%5long*
+
+É1 É(B
+
+
+%7longr
+p
+
+É É(C	
+%9int"__calculate*
+
+É É(
++*
+
+É É(
+	
+%4int*
+
+É É(C
+
+
+%8longL
+J
+
+É É(C
+resultint"__id*'
+
+__unknown_file (
+	
+%9into
+m
+
+Ê Ê(
+
+%10int"__calculate*
+
+Ê Ê(
+**
+
+Ê Ê(2*
+
+Ê Ê(
+
+resultintu
+s
+
+Ê& Ê(-
+%11long"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+albumIdu
+s
+
+Ê1 Ê(8
+%12long"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+albumIdp
+n
+
+Ê1 Ê(?
+%13long"__calculate*
+
+Ê9 Ê(<
+>>>*
+
+Ê1 Ê(8
+
+%12long*
+
+Ê= Ê(?2 w
+u
+
+Ê& Ê(@
+%14long"__calculate*
+
+Ê. Ê(/
+^*
+
+Ê& Ê(-
+
+%11long*
+
+Ê0 Ê(@
+
+%13longu
+s
+
+Ê Ê(A
+
+%15int"__calculate*
+
+Ê Ê(
++*
+
+Ê Ê(
+
+
+%10int*
+
+Ê Ê(A
+
+%14longM
+K
+
+Ê Ê(A
+resultint"__id*(
+
+__unknown_file (
+
+
+%15int"
+
+Ë Ë(
+
+resultintB)'
+%com.simplecity.amp_library.model.SongHX

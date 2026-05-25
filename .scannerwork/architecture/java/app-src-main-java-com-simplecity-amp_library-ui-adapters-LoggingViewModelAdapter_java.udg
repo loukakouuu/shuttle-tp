@@ -1,0 +1,403 @@
+
+1.0loukakouJavaFrontend"1779719399823*java2.B›
+Z
+Uapp/src/main/java/com/simplecity/amp_library/ui/adapters/LoggingViewModelAdapter.java2
+	
+type3
+	
+MAIN4
+
+package6
++
+&com.simplecity.amp_library.ui.adapters7
+C
+>com.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(12:1)-(69:2)14
+
+simple-name15
+
+LoggingViewModelAdapter16
+.
+(Recovered#typeBindingLViewModelAdapter;018
+
+unknown19
+
+extends20
+
+
+uses21
+H
+Bcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter.TAG23
+
+field24
+
+private25
+
+(14:5)-(14:58)26
+	
+TAG27
+H
+Bcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter.tag29
+
+	protected30
+
+(16:5)-(16:16)31
+	
+tag32
+`
+Zcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter#<init>(Ljava/lang/String;)V34
+
+method35
+
+(18:5)-(20:6)36
+
+calls37
+
+
+references38
+Š
+ƒcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter#setItems(Ljava/util/List;LCompletionListUpdateCallback;)LDisposable;40
+
+(22:5)-(68:6)41
+
+setItems42
+
+
+Disposable44
+
+returns45
+:
+4Recovered#typeBindingLCompletionListUpdateCallback;047
+
+	has param48
+
+Nullable50
+
+annotated by51
+&
+ Recovered#typeBindingLNullable;053
+'
+!Recovered#typeBindingLViewModel;055
+
+is type56
+
+ViewModelAdapter58
+F
+@com.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$160
+
+(28:73)-(67:10)61
+T
+Ncom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onComplete()V63
+
+(30:13)-(38:14)64
+
+
+onComplete65
+V
+Pcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onInserted(II)V67
+
+(40:13)-(45:14)68
+
+
+onInserted69
+U
+Ocom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onRemoved(II)V71
+
+(47:13)-(52:14)72
+
+	onRemoved73
+S
+Mcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onMoved(II)V75
+
+(54:13)-(59:14)76
+
+onMoved77
+g
+acom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onChanged(IILjava/lang/Object;)V79
+
+(61:13)-(66:14)80
+
+	onChanged81J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jå
+
+43
+434419
+N
+78H
+787935 *
+1> >("259:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+B
+59<
+596010 *
+1I C(
+239:5B
+
+
+11
+30
+
+
+13
+61
+N
+62H
+626335 *
+1 (#259:5B$
+
+
+11
+12
+
+
+13
+64
+
+
+15
+65
+M
+22G
+222324 *
+1! ($28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+M
+28G
+282924 *
+1 (28:5B$
+
+
+11
+30
+
+
+13
+31
+
+
+15
+32
+G
+8B
+8910 *
+1 (%:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+N
+66H
+666735 *
+1) )(#259:5B$
+
+
+11
+12
+
+
+13
+68
+
+
+15
+69
+M
+39G
+394035 *
+1$ (,28:5B$
+
+
+11
+12
+
+
+13
+41
+
+
+15
+42
+N
+70H
+707135 *
+10 0("259:5B$
+
+
+11
+12
+
+
+13
+72
+
+
+15
+73
+
+52
+525319
+
+46
+464719
+N
+74H
+747535 *
+17 7( 259:5B$
+
+
+11
+12
+
+
+13
+76
+
+
+15
+77
+
+17
+171819
+M
+33G
+333435 *
+1 (#28:5B$
+
+
+11
+12
+
+
+13
+36
+
+
+15
+16
+
+49
+495019
+
+54
+545519
+
+57
+575819ræ
+
+81720*
+1. (>
+
+81721*
+1. (>
+
+33837*
+1 (#
+
+33821*
+1	 (
+
+33838*
+1	 (
+
+332838*
+1 (
+
+394345*
+1 (#
+
+394648*
+1N (j
+
+394951*
+1 (
+
+395221*
+1 (
+
+394321*
+1 (#
+
+395421*
+12 (;
+
+394656*
+1k (s
+
+394951*
+1D (M
+
+395221*
+1E (M
+
+394621*
+1N (j
+
+392238*
+1$ ('
+
+392838*
+1T (W
+
+39838*
+1 (
+
+395721*
+1 (
+
+39838*
+1 (
+
+622238*
+1!, !(/
+
+622838*
+1!t !(w

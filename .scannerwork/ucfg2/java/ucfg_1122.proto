@@ -1,0 +1,179 @@
+
+2com.simplecity.amp_library.model.Genre#hashCode()IG
+=app\src\main\java\com\simplecity\amp_library\model\Genre.java5 5("4*Z
+27A 7(BF
+D
+7A 7(B	
+%7int"__id*'
+
+__unknown_file (
+	
+%9int*
+1*Ó
+37/ 7(3}
+{
+7/ 7(3
+%10java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namexv
+7/ 7(>	
+%8int"java.lang.String#hashCode()I*5
+
+__unknown_file (
+
+%10java.lang.String2
+hashCode()F
+D
+7/ 7(>	
+%7int"__id*'
+
+__unknown_file (
+	
+%8int*
+1*ô
+46 6(n
+l
+6 6(
+
+%0long"__id*N
+
+__unknown_file (2*0(
+&com.simplecity.amp_library.model.Genre"
+idn
+l
+6" 6($
+
+%1long"__id*N
+
+__unknown_file (2*0(
+&com.simplecity.amp_library.model.Genre"
+idf
+d
+6" 6(+
+
+%2long"__calculate*
+6% 6((
+>>>*
+6" 6($
+
+
+%1long*
+6) 6(+2 l
+j
+6 6(,
+
+%3long"__calculate*
+6 6( 
+^*
+6 6(
+
+
+%0long*
+6! 6(,
+
+
+%2longK
+I
+6 6(.
+resultint"__id*(
+
+__unknown_file (
+
+
+%3longf
+d
+7 7(	
+%4int"__calculate*
+7 7(
+**
+7 7(2*
+7 7(
+
+resultint|
+z
+7  7($
+%5java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namet
+r
+7  7(,
+%6boolean"	__compare*
+7% 7('
+!=*$
+7  7($
+
+%5java.lang.String*
+7( 7(,
+""*
+2
+3*ý
+17 7(Cj
+h
+7 7(C
+
+%11int"__calculate*
+7 7(
++*
+7 7(
+	
+%4int*
+7 7(C
+	
+%7intK
+I
+7 7(C
+resultint"__id*(
+
+__unknown_file (
+
+
+%11intg
+e
+8 8(
+
+%12int"__calculate*
+8 8(
+**
+8 8(2*
+8 8(
+
+resultintt
+r
+8 8('
+
+%13int"__id*T
+
+__unknown_file (8*6(
+&com.simplecity.amp_library.model.Genre"
+
+numSongsl
+j
+8 8('
+
+%14int"__calculate*
+8 8(
++*
+8 8(
+
+
+%12int*
+8 8('
+
+
+%13intK
+I
+8 8('
+resultint"__id*(
+
+__unknown_file (
+
+
+%14int"
+9 9(
+
+resultintB*(
+&com.simplecity.amp_library.model.GenreHX

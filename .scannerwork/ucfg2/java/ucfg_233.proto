@@ -1,0 +1,74 @@
+
+Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;J
+@app\src\main\java\com\simplecity\amp_library\model\Playlist.javaw w("1*¶
+1x x(^
+\
+x y(
+%0java.lang.String"__concat*
+x x(
+	Playlist{*
+y y(
+id=q
+o
+y y(
+
+%1long"__id*Q
+
+__unknown_file (5*3+
+)com.simplecity.amp_library.model.Playlist"
+idn
+l
+x y(
+%2java.lang.String"__concat*$
+x y(
+
+%0java.lang.String*
+y y(
+
+
+%1longn
+l
+x z(
+%3java.lang.String"__concat*$
+x y(
+
+%2java.lang.String*
+z z(
+
+, name='
+}
+z z(!
+%4java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+namez
+x
+x z(!
+%5java.lang.String"__concat*$
+x z(
+
+%3java.lang.String*$
+z z(!
+
+%4java.lang.Stringh
+f
+x z((
+%6java.lang.String"__concat*$
+x z(!
+
+%5java.lang.String*
+z$ z((
+\'g
+e
+x {(
+%7java.lang.String"__concat*$
+x z((
+
+%6java.lang.String*
+{ {(
+}"$
+x {(
+
+%7java.lang.StringB-+
+)com.simplecity.amp_library.model.PlaylistH

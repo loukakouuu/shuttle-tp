@@ -1,0 +1,205 @@
+
+\com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeColors(II)IU
+Iapp\src\main\java\com\simplecity\amp_library\utils\color\ColorHelper.javaî î(""startingBlock*Ä
+startingBlock
+î" î(V{
+y
+
+î# î(,
+%4"
+__annotate*(
+
+__unknown_file (
+
+ColorInt*/
+
+__unknown_file (
+
+
+foregroundintS
+Q
+
+î1 î(;
+
+foregroundint"__annotation*"
+
+__unknown_file (
+
+%4{
+y
+
+î= î(F
+%5"
+__annotate*(
+
+__unknown_file (
+
+ColorInt*/
+
+__unknown_file (
+
+
+backgroundintS
+Q
+
+îK î(U
+
+backgroundint"__annotation*"
+
+__unknown_file (
+
+%5*
+1* 
+1
+ï ï(H
+F
+
+ï ï(2
+bgAlphaint"__id*"
+
+__unknown_file (
+""H
+F
+
+ð ð(2
+fgAlphaint"__id*"
+
+__unknown_file (
+""¼
+¹
+
+ñ ñ(4	
+%0int"[com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeAlpha(II)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*,
+
+__unknown_file (
+
+fgAlphaint*,
+
+__unknown_file (
+
+bgAlphaintG
+E
+
+ñ ñ(5
+aint"__id*'
+
+__unknown_file (
+	
+%0int®
+«
+
+ó ô(6
+%1"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+fgAlphaint*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+bgAlphaint*&
+
+__unknown_file (
+
+
+aintB
+@
+
+ó ô(7
+rint"__id*"
+
+__unknown_file (
+
+%1®
+«
+
+õ ö(8
+%2"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+fgAlphaint*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+bgAlphaint*&
+
+__unknown_file (
+
+
+aintB
+@
+
+õ ö(9
+gint"__id*"
+
+__unknown_file (
+
+%2®
+«
+
+÷ ø(7
+%3"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+fgAlphaint*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+bgAlphaint*&
+
+__unknown_file (
+
+
+aintB
+@
+
+÷ ø(8
+bint"__id*"
+
+__unknown_file (
+
+%3"
+
+ú ú(*
+"":
+
+î# î(<
+
+foregroundint:
+
+î= î(U
+
+backgroundintBK"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX

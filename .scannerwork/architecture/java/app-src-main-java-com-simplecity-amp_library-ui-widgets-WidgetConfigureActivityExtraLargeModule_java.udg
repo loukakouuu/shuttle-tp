@@ -1,0 +1,290 @@
+
+1.0loukakouJavaFrontend"1779719402492*java2.Bä
+i
+dapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLargeModule.java2
+	
+type3
+	
+MAIN4
+
+package6
+*
+%com.simplecity.amp_library.ui.widgets7
+R
+Mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(14:1)-(29:2)14
+
+simple-name15
+-
+'WidgetConfigureActivityExtraLargeModule16
+ž
+—com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#appCompatActivity(LWidgetConfigureActivityExtraLarge;)LAppCompatActivity;18
+
+method19
+
+	protected20
+
+(17:5)-(19:94)21
+
+appCompatActivity22
+
+AppCompatActivity24
+
+unknown25
+
+returns26
+?
+9Recovered#typeBindingLWidgetConfigureActivityExtraLarge;028
+
+	has param29
+
+Binds31
+
+annotated by32
+#
+Recovered#typeBindingLBinds;034
+
+
+uses35
+
+ActivityScope37
++
+%Recovered#typeBindingLActivityScope;039
+
+is type40
+¾
+·com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#provideBillingUpdatesListener(LWidgetConfigureActivityExtraLarge;)LBillingManager/BillingUpdatesListener;42
+
+(21:5)-(24:6)43
+#
+provideBillingUpdatesListener44
++
+%BillingManager.BillingUpdatesListener46
+
+Provides48
+&
+ Recovered#typeBindingLProvides;050
+,
+&Recovered#typeBindingLBillingManager;052
+|
+vcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#widgetFragmentInjector()LWidgetFragment;54
+
+(26:5)-(28:54)55
+
+widgetFragmentInjector56
+
+WidgetFragment58
+
+FragmentScope60
++
+%Recovered#typeBindingLFragmentScope;062
+ 
+ContributesAndroidInjector64
+8
+2Recovered#typeBindingLContributesAndroidInjector;066
+2
+,Recovered#typeBindingLWidgetFragmentModule;068J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jö
+
+49
+495025
+M
+53G
+535419 *
+1 (328:5B$
+
+
+11
+20
+
+
+13
+55
+
+
+15
+56
+M
+41G
+414219 *
+12 (O28:5B$
+
+
+11
+20
+
+
+13
+43
+
+
+15
+44
+G
+8B
+8910 *
+1 (>:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+30
+303125
+
+23
+232425
+
+36
+363725
+
+57
+575825
+
+33
+333425
+
+45
+454625
+
+65
+656625
+
+27
+272825
+
+47
+474825
+M
+17G
+171819 *
+1  (128:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+
+63
+636425
+
+51
+515225
+
+38
+383925
+
+59
+596025
+
+67
+676825
+
+61
+616225rˆ
+
+172326*
+1 (
+
+172729*
+12 (S
+
+173032*
+1 (
+
+173335*
+1 (
+
+173632*
+1 (
+
+173835*
+1 (
+
+172335*
+1 (
+
+172740*
+1T (\
+
+172735*
+12 (S
+
+414526*
+1 (1
+
+412729*
+1P (q
+
+414732*
+1 (
+
+414935*
+1 (
+
+415135*
+1 (
+
+414535*
+1 (1
+
+412740*
+1r (z
+
+412735*
+1P (q
+
+535726*
+1 (
+
+535932*
+1 (
+
+536135*
+1 (
+
+536332*
+1 (F
+
+536535*
+1 ( 
+
+536735*
+1+ (?
+
+535735*
+1 (

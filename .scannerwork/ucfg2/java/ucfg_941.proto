@@ -1,0 +1,102 @@
+
+7com.simplecity.amp_library.model.Song#getElapsedTime()JH
+<app\src\main\java\com\simplecity\amp_library\model\Song.javaÕ Õ("3*¥
+2
+× ×(x
+v
+
+× ×(
+
+%1long"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+elapsedTime"
+
+× ×(
+
+
+%1long*‘
+3
+Ö Ö(x
+v
+
+Ö Ö(
+%0boolean"__id*S
+
+__unknown_file (7*5'
+%com.simplecity.amp_library.model.Song"
+
+isPaused*
+2
+1*þ
+1
+Ù Ù(x
+v
+
+Ù Ù(
+
+%2long"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+elapsedTimes
+q
+
+Ù! Ù(;
+
+%3long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemt
+r
+
+Ù Ù(;
+
+%4long"__calculate*
+
+Ù Ù( 
++*
+
+Ù Ù(
+
+
+%2long*
+
+Ù! Ù(;
+
+
+%3longv
+t
+
+Ù> Ù(G
+
+%5long"__id*T
+
+__unknown_file (8*6'
+%com.simplecity.amp_library.model.Song"
+	startTimet
+r
+
+Ù Ù(G
+
+%6long"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+
+%4long*
+
+Ù> Ù(G
+
+
+%5long"
+
+Ù Ù(H
+
+
+%6longB)'
+%com.simplecity.amp_library.model.SongX

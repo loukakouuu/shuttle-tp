@@ -1,0 +1,899 @@
+
+1.0loukakouJavaFrontend"1779719408463*java2.BÑ
+Q
+Lapp/src/main/java/com/simplecity/amp_library/ui/modelviews/InclExclView.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.ui.modelviews7
+:
+5com.simplecity.amp_library.ui.modelviews.InclExclView9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(18:1)-(110:2)14
+
+simple-name15
+
+InclExclView16
++
+%Recovered#typeBindingLBaseViewModel;018
+
+unknown19
+
+extends20
+
+
+uses21
+F
+@com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder23
+
+
+references24
+I
+Ccom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener26
+
+	interface27
+
+(20:5)-(22:6)28
+
+ClickListener29
+ç
+Ücom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener#onRemove(Lcom/simplecity/amp_library/ui/modelviews/InclExclView;)V31
+
+method32
+
+(21:9)-(21:50)33
+
+onRemove34
+
+	has param35
+
+is type36
+H
+Bcom.simplecity.amp_library.ui.modelviews.InclExclView.inclExclItem38
+
+field39
+
+(24:5)-(24:38)40
+
+inclExclItem41
+3
+-com.simplecity.amp_library.model.InclExclItem43
+t
+ncom.simplecity.amp_library.ui.modelviews.InclExclView#<init>(Lcom/simplecity/amp_library/model/InclExclItem;)V45
+
+(26:5)-(28:6)46
+
+calls47
+D
+>com.simplecity.amp_library.ui.modelviews.InclExclView.listener49
+
+	protected50
+
+(30:5)-(31:28)51
+
+listener52
+
+Nullable54
+
+annotated by55
+&
+ Recovered#typeBindingLNullable;057
+ï
+écom.simplecity.amp_library.ui.modelviews.InclExclView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ClickListener;)V59
+
+(33:5)-(35:6)60
+
+setClickListener61
+G
+Acom.simplecity.amp_library.ui.modelviews.InclExclView#onRemove()V63
+
+(37:5)-(41:6)64
+J
+Dcom.simplecity.amp_library.ui.modelviews.InclExclView#getViewType()I66
+
+(43:5)-(46:6)67
+
+getViewType68
+M
+Gcom.simplecity.amp_library.ui.modelviews.InclExclView#getLayoutResId()I70
+
+(48:5)-(51:6)71
+
+getLayoutResId72
+ä
+Écom.simplecity.amp_library.ui.modelviews.InclExclView#bindView(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;)V74
+
+(53:5)-(58:6)75
+
+bindView76
+
+BaseViewModel78
+
+TextView80
+N
+Hcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.lineOne82
+8
+2com.simplecity.amp_library.model.InclExclItem.path84
+ú
+ïcom.simplecity.amp_library.ui.modelviews.InclExclView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;86
+
+(60:5)-(63:6)87
+
+createViewHolder88
+
+returns89
+'
+!Recovered#typeBindingLViewGroup;091
+
+(65:5)-(89:6)92
+
+
+ViewHolder93
+,
+&Recovered#typeBindingLBaseViewHolder;095
+
+(67:9)-(68:33)96
+
+lineOne97
+
+BindView99
+'
+ Recovered#typeBindingLBindView;0101
+P
+Icom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.overflow103
+
+(70:9)-(71:40)104
+
+overflow105
+
+OverflowButton107
+W
+Pcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#<init>(LView;)V109
+
+(73:9)-(83:10)110
+#
+Recovered#typeBindingLView;0112
+d
+]com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#toString()Ljava/lang/String;114
+
+(85:9)-(88:10)115
+
+toString116
+X
+Qcom.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Z118
+
+(91:5)-(99:6)119
+
+equals120
+P
+Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Z122
+H
+Acom.simplecity.amp_library.ui.modelviews.InclExclView#hashCode()I124
+
+(101:5)-(104:6)125
+
+hashCode126
+@
+9com.simplecity.amp_library.model.InclExclItem#hashCode()I128
+b
+[com.simplecity.amp_library.ui.modelviews.InclExclView#areContentsEqual(Ljava/lang/Object;)Z130
+
+(106:5)-(109:6)131
+
+areContentsEqual132J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÉ
+M
+25G
+252627 *
+1 (#28:5B$
+
+
+11
+12
+
+
+13
+28
+
+
+15
+29
+
+83
+838419
+M
+37G
+373839 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+40
+
+
+15
+41
+M
+48G
+484939 *
+1 (28:5B$
+
+
+11
+50
+
+
+13
+51
+
+
+15
+52
+M
+58G
+585932 *
+1! !(!28:5B$
+
+
+11
+12
+
+
+13
+60
+
+
+15
+61
+N
+30H
+303132 *
+1 (225:5B$
+
+
+11
+12
+
+
+13
+33
+
+
+15
+34
+
+90
+909119
+R
+129K
+12913032 *
+1k k($28:5B&
+
+
+11
+12
+
+13
+131
+
+15
+132
+M
+65G
+656632 *
+1, ,(28:5B$
+
+
+11
+12
+
+
+13
+67
+
+
+15
+68
+
+56
+565719
+
+111
+11111219
+
+79
+798019
+R
+108K
+10810932 *
+1I I(222:5B%
+
+
+11
+12
+
+13
+110
+
+
+15
+93
+M
+22G
+222310 *
+1A A(#28:5B$
+
+
+11
+12
+
+
+13
+92
+
+
+15
+93
+
+106
+10610719
+R
+123K
+12312432 *
+1f f(28:5B&
+
+
+11
+12
+
+13
+125
+
+15
+126
+S
+113L
+11311432 *
+1V V(222:5B&
+
+
+11
+12
+
+13
+115
+
+15
+116
+R
+117K
+11711832 *
+1\ \(28:5B&
+
+
+11
+12
+
+13
+119
+
+15
+120
+
+121
+12112219
+
+94
+949519
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+127
+12712819
+M
+73G
+737432 *
+16 6(28:5B$
+
+
+11
+12
+
+
+13
+75
+
+
+15
+76
+
+77
+777819
+N
+81H
+818239 *
+1D D( 222:5B$
+
+
+11
+12
+
+
+13
+96
+
+
+15
+97
+S
+102L
+10210339 *
+1G G('222:5B&
+
+
+11
+12
+
+13
+104
+
+15
+105
+
+98
+989919
+M
+69G
+697032 *
+11 1(28:5B$
+
+
+11
+12
+
+
+13
+71
+
+
+15
+72
+
+17
+171819
+M
+62G
+626332 *
+1%
+ %(28:5B$
+
+
+11
+50
+
+
+13
+64
+
+
+15
+34
+
+42
+424319
+
+53
+535419
+
+100
+10010119
+M
+44G
+444532 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+46
+
+
+15
+16
+M
+85G
+858632 *
+1= =('28:5B$
+
+
+11
+12
+
+
+13
+87
+
+
+15
+88rÛ
+
+81720*
+1# (I
+
+81721*
+1# (0
+
+82221*
+1> (H
+
+82224*
+1> (H
+
+30835*
+1 (#
+
+30836*
+1$ (0
+
+30821*
+1 (#
+
+374236*
+1 (
+
+374221*
+1 (
+
+374221*
+1 (%
+
+444235*
+1 (%
+
+44847*
+1 (
+
+444236*
+1& (2
+
+444221*
+1 (%
+
+44821*
+1	 (
+
+44824*
+1	 (
+
+444221*
+1 (
+
+443724*
+1 (
+
+482536*
+1 (
+
+485355*
+1 (
+
+485621*
+1 (
+
+482521*
+1 (
+
+482524*
+1 (
+
+482521*
+1 (
+
+582535*
+1!, !(9
+
+582536*
+1!: !(B
+
+585355*
+1!" !(+
+
+585621*
+1!# !(+
+
+582521*
+1!, !(9
+
+582524*
+1!, !(9
+
+58821*
+1"	 "(
+
+58824*
+1"	 "(
+
+582521*
+1" "(
+
+584824*
+1" "(
+
+622521*
+1& &(
+
+624824*
+1& &(
+
+622524*
+1' '(
+
+623047*
+1' '(
+
+624824*
+1' '(
+
+622521*
+1' '(
+
+624824*
+1' '(
+
+62821*
+1' '(#
+
+62824*
+1' '(#
+
+732235*
+16 6($
+
+732236*
+16% 6(+
+
+732221*
+16 6($
+
+732224*
+16 6($
+
+73824*
+17	 7(
+
+737721*
+17	 7(
+
+73824*
+17	 7(
+
+737921*
+19 9(
+
+738124*
+19 9(
+
+734221*
+19  9(,
+
+733724*
+19  9(,
+
+738324*
+19- 9(1
+
+852289*
+1= =(
+
+859035*
+1=( =(1
+
+852221*
+1= =(
+
+852224*
+1= =(
+
+859036*
+1=2 =(8
+
+859021*
+1=( =(1
+
+852247*
+1> >(
+
+229420*
+1A, A(H
+
+229421*
+1A, A(:
+
+22821*
+1A; A(G
+
+817936*
+1D D(
+
+819855*
+1C	 C(!
+
+8110021*
+1C
+ C(
+
+817921*
+1D D(
+
+817921*
+1D D( 
+
+10210636*
+1G G(
+
+1029855*
+1F	 F(%
+
+10210021*
+1F
+ F(
+
+10210621*
+1G G(
+
+10210621*
+1G G('
+
+10811135*
+1I I(
+
+1082247*
+1I I(
+
+10811136*
+1I  I((
+
+10811121*
+1I I(
+
+1082221*
+1L L("
+
+1082224*
+1L L("
+
+1088124*
+1N N(
+
+1087921*
+1N N(
+
+1088124*
+1N N(
+
+10810621*
+1P P(
+
+10810224*
+1P P(
+
+10810224*
+1R R(
+
+10810621*
+1R R(
+
+10810224*
+1R R(
+
+117821*
+1] ](
+
+117824*
+1] ](
+
+117836*
+1` `(
+
+117821*
+1`	 `(
+
+117821*
+1` `(*
+
+1174221*
+1b b(
+
+1173724*
+1b b(
+
+1174224*
+1b' b(:
+
+11712147*
+1b4 b(:
+
+1173724*
+1b' b(3
+
+1174221*
+1b' b(3
+
+1173724*
+1b' b(3
+
+1174221*
+1b@ b(L
+
+1173724*
+1b@ b(L
+
+1174221*
+1bU b(a
+
+1173724*
+1bU b(a
+
+1234221*
+1g g(
+
+1233724*
+1g g(
+
+1234224*
+1g' g(<
+
+12312747*
+1g4 g(<
+
+1233724*
+1g' g(3
+
+1234221*
+1g' g(3
+
+1233724*
+1g' g(3

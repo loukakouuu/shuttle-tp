@@ -1,0 +1,42 @@
+
+Acom.simplecity.amp_library.model.Album$Builder#%field_initializerG
+=app\src\main\java\com\simplecity\amp_library\model\Album.java@ @("1*≠
+1
+__unknown_file (<:
+D+ D(6
+%0java.util.ArrayList"java.util.ArrayListj
+h
+D' D(8
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayListã
+à
+D D(9=0
+.com.simplecity.amp_library.model.Album$Builder"	
+artists"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList<:
+K) K(4
+%2java.util.ArrayList"java.util.ArrayListj
+h
+K% K(6
+%3"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%2java.util.ArrayListâ
+Ü
+K K(7;0
+.com.simplecity.amp_library.model.Album$Builder"
+paths"__id*7
+
+__unknown_file (
+
+%2java.util.ArrayList" 
+	@ ê(
+implicit returnB20
+.com.simplecity.amp_library.model.Album$Builder

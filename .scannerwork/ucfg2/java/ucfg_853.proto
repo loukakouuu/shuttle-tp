@@ -1,0 +1,241 @@
+
+xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;Z
+Napp\src\main\java\com\simplecity\amp_library\ui\screens\tagger\TaggerTask.java¡ ¡("1*³#
+1
+¢ ¢(0Œ
+‰
+
+¢ ¢(0
+%0"__id*o
+
+__unknown_file (S*Q9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+applicationContextŒ
+‰
+
+¢2 ¢(;
+%1boolean"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	showAlbumŒ
+‰
+
+¢= ¢(F
+%2boolean"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	showTrack
+Œ
+
+¢H ¢(M
+%3java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths‡
+„
+
+¢O ¢(\
+%4"__id*j
+
+__unknown_file (N*L9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+documentFiles•
+’
+
+¢^ ¢(g
+%5java.lang.String"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	titleText•
+’
+
+£ £(
+%6java.lang.String"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	albumText–
+“
+
+£ £(%
+%7java.lang.String"__id*g
+
+__unknown_file (K*I9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+artistText›
+˜
+
+£' £(6
+%8java.lang.String"__id*l
+
+__unknown_file (P*N9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+albumArtistText”
+‘
+
+£8 £(@
+%9java.lang.String"__id*e
+
+__unknown_file (I*G9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+yearText–
+“
+
+£B £(K
+%10java.lang.String"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	trackText›
+˜
+
+£M £([
+%11java.lang.String"__id*k
+
+__unknown_file (O*M9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+trackTotalText•
+’
+
+¤ ¤(
+%12java.lang.String"__id*e
+
+__unknown_file (I*G9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+discTextš
+—
+
+¤ ¤('
+%13java.lang.String"__id*j
+
+__unknown_file (N*L9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+discTotalText—
+”
+
+¤) ¤(3
+%14java.lang.String"__id*g
+
+__unknown_file (K*I9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+lyricsText˜
+•
+
+¤5 ¤(@
+%15java.lang.String"__id*h
+
+__unknown_file (L*J9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+commentText–
+“
+
+¤B ¤(K
+%16java.lang.String"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	genreTextß
+Ü
+
+¥ ¥(%T
+%17Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"__id*r
+
+__unknown_file (V*T9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+tagCompletionListenerˆ…
+
+¢ ¢(>
+%187com.simplecity.amp_library.ui.screens.tagger.TaggerTask"7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskã
+à
+
+¢ ¥(&
+%19"“com.simplecity.amp_library.ui.screens.tagger.TaggerTask#<init>(LContext;ZZLjava/util/List;Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)V*\
+
+__unknown_file (@
+>
+%187com.simplecity.amp_library.ui.screens.tagger.TaggerTask*"
+
+__unknown_file (
+
+%0*+
+
+__unknown_file (
+
+%1boolean*+
+
+__unknown_file (
+
+%2boolean*2
+
+__unknown_file (
+
+%3java.util.List*"
+
+__unknown_file (
+
+%4*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*4
+
+__unknown_file (
+
+%7java.lang.String*4
+
+__unknown_file (
+
+%8java.lang.String*4
+
+__unknown_file (
+
+%9java.lang.String*5
+
+__unknown_file (
+
+%10java.lang.String*5
+
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String*5
+
+__unknown_file (
+
+%13java.lang.String*5
+
+__unknown_file (
+
+%14java.lang.String*5
+
+__unknown_file (
+
+%15java.lang.String*5
+
+__unknown_file (
+
+%16java.lang.String*r
+
+__unknown_file (V
+T
+%17Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"N
+
+¢ ¥('@
+>
+%187com.simplecity.amp_library.ui.screens.tagger.TaggerTaskB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

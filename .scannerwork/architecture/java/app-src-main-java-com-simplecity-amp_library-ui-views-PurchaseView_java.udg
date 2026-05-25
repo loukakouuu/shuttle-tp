@@ -1,0 +1,80 @@
+
+1.0loukakouJavaFrontend"1779719402526*java2.BÔ
+L
+Gapp/src/main/java/com/simplecity/amp_library/ui/views/PurchaseView.java2
+	
+type3
+	
+MAIN4
+
+package6
+(
+#com.simplecity.amp_library.ui.views7
+5
+0com.simplecity.amp_library.ui.views.PurchaseView9
+
+	interface10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(6:2)14
+
+simple-name15
+
+PurchaseView16
+K
+Ecom.simplecity.amp_library.ui.views.PurchaseView#showUpgradeDialog()V18
+
+method19
+
+(5:5)-(5:30)20
+
+showUpgradeDialog21J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j˜
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+17G
+171819 *
+1
+ (28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21

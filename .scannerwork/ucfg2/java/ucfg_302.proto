@@ -1,0 +1,161 @@
+
+^com.simplecity.amp_library.model.Album$Builder#build()Lcom/simplecity/amp_library/model/Album;I
+=app\src\main\java\com\simplecity\amp_library\model\Album.javaç ç("1*°
+1
+é é(x
+v
+
+é é(
+
+%0long"__id*V
+
+__unknown_file (:*80
+.com.simplecity.amp_library.model.Album$Builder"
+idá
+Ñ
+
+é! é(%
+%1java.lang.String"__id*X
+
+__unknown_file (<*:0
+.com.simplecity.amp_library.model.Album$Builder"
+namew
+u
+
+é' é(.
+%2"__id*[
+
+__unknown_file (?*=0
+.com.simplecity.amp_library.model.Album$Builder"	
+artistsí
+è
+
+é0 é(?
+%3java.lang.String"__id*c
+
+__unknown_file (G*E0
+.com.simplecity.amp_library.model.Album$Builder"
+albumArtistName}
+{
+
+éA é(I	
+%4int"__id*\
+
+__unknown_file (@*>0
+.com.simplecity.amp_library.model.Album$Builder"
+
+numSongs}
+{
+
+éK é(S	
+%5int"__id*\
+
+__unknown_file (@*>0
+.com.simplecity.amp_library.model.Album$Builder"
+
+numDiscsy
+w
+
+éU é(Y	
+%6int"__id*X
+
+__unknown_file (<*:0
+.com.simplecity.amp_library.model.Album$Builder"
+yearÄ
+~
+
+é[ é(e
+
+%7long"__id*^
+
+__unknown_file (B*@0
+.com.simplecity.amp_library.model.Album$Builder"
+
+lastPlayed
+}
+
+ég é(p
+
+%8long"__id*]
+
+__unknown_file (A*?0
+.com.simplecity.amp_library.model.Album$Builder"
+	dateAddedÜ
+É
+
+ér é(w
+%9java.util.List"__id*Y
+
+__unknown_file (=*;0
+.com.simplecity.amp_library.model.Album$Builder"
+pathsÖ
+Ç
+éy é(Ü
+
+%10int"__id*a
+
+__unknown_file (E*C0
+.com.simplecity.amp_library.model.Album$Builder"
+songPlayCountec
+
+é é(-
+%11&com.simplecity.amp_library.model.Album"&com.simplecity.amp_library.model.Album»
+≈
+é é(á
+%12"{com.simplecity.amp_library.model.Album#<init>(JLjava/lang/String;Ljava/util/List;Ljava/lang/String;IIIJJLjava/util/List;I)V*K
+
+__unknown_file (/
+-
+%11&com.simplecity.amp_library.model.Album*(
+
+__unknown_file (
+
+
+%0long*4
+
+__unknown_file (
+
+%1java.lang.String*"
+
+__unknown_file (
+
+%2*4
+
+__unknown_file (
+
+%3java.lang.String*'
+
+__unknown_file (
+	
+%4int*'
+
+__unknown_file (
+	
+%5int*'
+
+__unknown_file (
+	
+%6int*(
+
+__unknown_file (
+
+
+%7long*(
+
+__unknown_file (
+
+
+%8long*2
+
+__unknown_file (
+
+%9java.util.List*(
+
+__unknown_file (
+
+
+%10int">
+é é(à/
+-
+%11&com.simplecity.amp_library.model.AlbumB20
+.com.simplecity.amp_library.model.Album$BuilderH

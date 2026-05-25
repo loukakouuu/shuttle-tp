@@ -1,0 +1,109 @@
+
+^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)DU
+Iapp\src\main\java\com\simplecity\amp_library\utils\color\ColorHelper.javaã ã(/"startingBlock*Ü
+startingBlock
+ã/ ã(Dx
+v
+
+ä ä()
+%4"
+__annotate**
+
+__unknown_file (
+
+FloatRange**
+
+__unknown_file (
+
+colorintv
+t
+
+ã0 ã(9
+%5"
+__annotate*(
+
+__unknown_file (
+
+ColorInt**
+
+__unknown_file (
+
+colorintr
+p
+
+ã> ã(C
+colorint"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+1*†
+1
+å$ å(7È
+Ê
+
+å$ å(9
+%0double[]"_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatV
+T
+
+å å(:
+resultdouble[]"__id*,
+
+__unknown_file (
+
+%0double[]º
+π
+
+ç ç(%
+
+%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToXYZ(I[D)V*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat**
+
+__unknown_file (
+
+colorint*0
+
+__unknown_file (
+
+resultdouble[]|
+z
+
+è è(
+%2double"
+__arrayGet*0
+
+__unknown_file (
+
+resultdouble[]* 
+
+__unknown_file (2p
+n
+
+è è("
+%3double"__calculate*
+
+è è(
+/*
+
+è è(
+
+%2double*
+
+è è("2d"
+
+è è(#
+
+%3double:
+
+ã0 ã(C
+colorintBK"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatHX

@@ -1,0 +1,236 @@
+
+1.0loukakouJavaFrontend"1779719404239*java2.B¨	
+\
+Wapp/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerViewPreloader.java2
+	
+type3
+	
+MAIN4
+
+package6
+/
+*com.simplecity.amp_library.glide.preloader7
+E
+@com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(24:1)-(47:2)14
+
+simple-name15
+
+RecyclerViewPreloader16
+*
+$Recovered#typeBindingLRecyclerView;018
+
+unknown19
+
+extends20
+
+
+uses21
+]
+Wcom.simplecity.amp_library.glide.preloader.RecyclerViewPreloader.recyclerScrollListener23
+
+field24
+
+private25
+
+(25:5)-(25:75)26
+
+recyclerScrollListener27
+&
+ RecyclerToListViewScrollListener29
+
+is type30
+|
+vcom.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#<init>(LPreloadModelProvider;LPreloadSizeProvider;I)V32
+
+method33
+
+(35:5)-(41:6)34
+2
+,Recovered#typeBindingLPreloadModelProvider;036
+
+	has param37
+1
++Recovered#typeBindingLPreloadSizeProvider;039
+
+calls40
++
+%Recovered#typeBindingLListPreloader;042
+
+
+references43
+d
+^com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#onScrolled(LRecyclerView;II)V45
+
+(43:5)-(46:6)46
+
+
+onScrolled47J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jš
+M
+31G
+313233 *
+1# #(!28:5B$
+
+
+11
+12
+
+
+13
+34
+
+
+15
+16
+
+35
+353619
+
+28
+282919
+
+38
+383919
+M
+22G
+222324 *
+14 (J28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+M
+44G
+444533 *
+1, ,(28:5B$
+
+
+11
+12
+
+
+13
+46
+
+
+15
+47
+
+17
+171819
+
+41
+414219
+G
+8B
+8910 *
+1 ():5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16ré
+
+81720*
+15 (R
+
+81721*
+15 (A
+
+81721*
+1B (R
+
+222830*
+1 (3
+
+222821*
+1 (3
+
+222821*
+14 (J
+
+313537*
+1#" #(9
+
+313837*
+1$ $(#
+
+31840*
+1# #(!
+
+313530*
+1#: #(N
+
+313521*
+1#" #(6
+
+313830*
+1$$ $(<
+
+313821*
+1$ $( 
+
+314130*
+1& &('
+
+314121*
+1&	 &(
+
+312821*
+1(	 ((
+
+312243*
+1(	 ((
+
+441737*
+1, ,((
+
+441730*
+1,) ,(5
+
+441721*
+1, ,((
+
+442243*
+1-	 -(
+
+442821*
+1-	 -(
+
+442243*
+1-	 -(

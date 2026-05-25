@@ -1,0 +1,543 @@
+
+=com.simplecity.amp_library.ui.modelviews.SongView#hashCode()IT
+Happ\src\main\java\com\simplecity\amp_library\ui\modelviews\SongView.java§ §("22*Þ
+13
+ª ª(5t
+r
+
+ª ª(5
+
+%17int"__calculate*
+
+ª ª(
++*
+
+ª ª(
+
+
+%12int*
+
+ª ª(5
+
+
+%14intM
+K
+
+ª ª(5
+resultint"__id*(
+
+__unknown_file (
+
+
+%17into
+m
+
+« «(
+
+%18int"__calculate*
+
+« «(
+**
+
+« «(2*
+
+« «(
+
+resultint‹
+ˆ
+
+«  «(-
+%19boolean"__id*d
+
+__unknown_file (H*F3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showPlayCount*
+11
+12*b
+14
+ª3 ª(4J
+H
+
+ª3 ª(4
+
+%14int"__id*(
+
+__unknown_file (
+
+
+%16int*
+13*b
+15
+ª/ ª(0J
+H
+
+ª/ ª(0
+
+%14int"__id*(
+
+__unknown_file (
+
+
+%15int*
+13*Û
+16
+© ©(1r
+p
+
+© ©(1
+
+%11int"__calculate*
+
+© ©(
++*
+
+© ©(
+	
+%6int*
+
+© ©(1
+	
+%8intM
+K
+
+© ©(1
+resultint"__id*(
+
+__unknown_file (
+
+
+%11into
+m
+
+ª ª(
+
+%12int"__calculate*
+
+ª ª(
+**
+
+ª ª(2*
+
+ª ª(
+
+resultintŠ
+‡
+
+ª  ª(,
+%13boolean"__id*c
+
+__unknown_file (G*E3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showAlbumArt*
+14
+15*a
+17
+©/ ©(0I
+G
+
+©/ ©(0	
+%8int"__id*(
+
+__unknown_file (
+
+
+%10int*
+16*`
+18
+©+ ©(,H
+F
+
+©+ ©(,	
+%8int"__id*'
+
+__unknown_file (
+	
+%9int*
+16*Û
+19
+¨ ¨(8G
+E
+
+¨ ¨(8
+resultint"__id*"
+
+__unknown_file (
+
+%2n
+l
+
+© ©(	
+%6int"__calculate*
+
+© ©(
+**
+
+© ©(2*
+
+© ©(
+
+resultint…
+‚
+
+©  ©((
+%7boolean"__id*_
+
+__unknown_file (C*A3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+
+editable*
+17
+18*ó
+1
+® ®(6t
+r
+
+® ®(6
+
+%41int"__calculate*
+
+® ®(
++*
+
+® ®(
+
+
+%36int*
+
+® ®(6
+
+
+%38intM
+K
+
+® ®(6
+resultint"__id*(
+
+__unknown_file (
+
+
+%41int"
+
+¯ ¯(
+
+resultint*`
+2
+®4 ®(5J
+H
+
+®4 ®(5
+
+%38int"__id*(
+
+__unknown_file (
+
+
+%40int*
+1*`
+3
+®0 ®(1J
+H
+
+®0 ®(1
+
+%38int"__id*(
+
+__unknown_file (
+
+
+%39int*
+1*Û
+4
+­ ­(7t
+r
+
+­ ­(7
+
+%35int"__calculate*
+
+­ ­(
++*
+
+­ ­(
+
+
+%30int*
+
+­ ­(7
+
+
+%32intM
+K
+
+­ ­(7
+resultint"__id*(
+
+__unknown_file (
+
+
+%35into
+m
+
+® ®(
+
+%36int"__calculate*
+
+® ®(
+**
+
+® ®(2*
+
+® ®(
+
+resultint‹
+ˆ
+
+®  ®(-
+%37boolean"__id*d
+
+__unknown_file (H*F3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showAlbumName*
+2
+3*`
+5
+­5 ­(6J
+H
+
+­5 ­(6
+
+%32int"__id*(
+
+__unknown_file (
+
+
+%34int*
+4*`
+6
+­1 ­(2J
+H
+
+­1 ­(2
+
+%32int"__id*(
+
+__unknown_file (
+
+
+%33int*
+4*Ü
+7
+¬ ¬(8t
+r
+
+¬ ¬(8
+
+%29int"__calculate*
+
+¬ ¬(
++*
+
+¬ ¬(
+
+
+%24int*
+
+¬ ¬(8
+
+
+%26intM
+K
+
+¬ ¬(8
+resultint"__id*(
+
+__unknown_file (
+
+
+%29into
+m
+
+­ ­(
+
+%30int"__calculate*
+
+­ ­(
+**
+
+­ ­(2*
+
+­ ­(
+
+resultintŒ
+‰
+
+­  ­(.
+%31boolean"__id*e
+
+__unknown_file (I*G3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showArtistName*
+5
+6*`
+8
+¬6 ¬(7J
+H
+
+¬6 ¬(7
+
+%26int"__id*(
+
+__unknown_file (
+
+
+%28int*
+7*`
+9
+¬2 ¬(3J
+H
+
+¬2 ¬(3
+
+%26int"__id*(
+
+__unknown_file (
+
+
+%27int*
+7*[
+20
+¨6 ¨(7C
+A
+
+¨6 ¨(7
+%2"__id*'
+
+__unknown_file (
+	
+%4int*
+19*Ï
+21
+¨$ ¨((w
+u
+
+¨$ ¨((
+%5"__id*[
+
+__unknown_file (?*=3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+song>
+<
+
+¨$ ¨(3
+%2"__id*"
+
+__unknown_file (
+
+%3*
+19*Þ
+10
+« «(6t
+r
+
+« «(6
+
+%23int"__calculate*
+
+« «(
++*
+
+« «(
+
+
+%18int*
+
+« «(6
+
+
+%20intM
+K
+
+« «(6
+resultint"__id*(
+
+__unknown_file (
+
+
+%23into
+m
+
+¬ ¬(
+
+%24int"__calculate*
+
+¬ ¬(
+**
+
+¬ ¬(2*
+
+¬ ¬(
+
+resultint
+Š
+
+¬  ¬(/
+%25boolean"__id*f
+
+__unknown_file (J*H3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showTrackNumber*
+8
+9*ö
+22
+¨ ¨(w
+u
+
+¨ ¨(
+%0"__id*[
+
+__unknown_file (?*=3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+songa
+_
+
+¨ ¨(!
+%1"	__compare*
+
+¨ ¨(
+!=*
+
+¨ ¨(
+
+%0*
+
+¨ ¨(!
+""*
+20
+21*b
+11
+«4 «(5J
+H
+
+«4 «(5
+
+%20int"__id*(
+
+__unknown_file (
+
+
+%22int*
+10*b
+12
+«0 «(1J
+H
+
+«0 «(1
+
+%20int"__id*(
+
+__unknown_file (
+
+
+%21int*
+10B53
+1com.simplecity.amp_library.ui.modelviews.SongViewHX

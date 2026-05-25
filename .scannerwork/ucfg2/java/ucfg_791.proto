@@ -1,0 +1,207 @@
+
+8com.simplecity.amp_library.model.TagUpdate#hasChanged()ZM
+Aapp\src\main\java\com\simplecity\amp_library\model\TagUpdate.javaÍ Í("23*°
+14
+Ï< Ï(J„
+
+
+Ï< Ï(J
+%5boolean"__id*^
+
+__unknown_file (B*@,
+*com.simplecity.amp_library.model.TagUpdate"
+yearHasChanged*
+2
+4
+6
+8
+10
+12
+1*µ
+16
+Ï) Ï(8…
+‚
+
+Ï) Ï(8
+%4boolean"__id*_
+
+__unknown_file (C*A,
+*com.simplecity.amp_library.model.TagUpdate"
+genreHasChanged*
+2
+14
+4
+6
+8
+10
+12
+1*¿
+18
+Ï Ï(%‹
+ˆ
+
+Ï Ï(%
+%3boolean"__id*e
+
+__unknown_file (I*G,
+*com.simplecity.amp_library.model.TagUpdate"
+albumArtistHasChanged*
+2
+14
+4
+16
+6
+8
+10
+12
+1*%
+1
+Î Ñ(P"
+
+Î Ñ(P
+""*Ÿ
+2
+Ñ> Ñ(Oˆ
+…
+
+Ñ> Ñ(O
+%11boolean"__id*a
+
+__unknown_file (E*C,
+*com.simplecity.amp_library.model.TagUpdate"
+commentHasChanged*
+1*¡
+4
+Ñ* Ñ(:‡
+„
+
+Ñ* Ñ(:
+%10boolean"__id*`
+
+__unknown_file (D*B,
+*com.simplecity.amp_library.model.TagUpdate"
+lyricsHasChanged*
+2
+1*¦
+6
+Ñ Ñ(&‰
+†
+
+Ñ Ñ(&
+%9boolean"__id*c
+
+__unknown_file (G*E,
+*com.simplecity.amp_library.model.TagUpdate"
+discTotalHasChanged*	
+2
+4
+1*¤
+8
+Ð> Ð(L„
+
+
+Ð> Ð(L
+%8boolean"__id*^
+
+__unknown_file (B*@,
+*com.simplecity.amp_library.model.TagUpdate"
+discHasChanged*
+2
+4
+6
+1*¾
+20
+Î5 Î(E†
+ƒ
+
+Î5 Î(E
+%2boolean"__id*`
+
+__unknown_file (D*B,
+*com.simplecity.amp_library.model.TagUpdate"
+artistHasChanged*#
+2
+14
+4
+16
+6
+18
+8
+10
+12
+1*®
+10
+Ð& Ð(:Š
+‡
+
+Ð& Ð(:
+%7boolean"__id*d
+
+__unknown_file (H*F,
+*com.simplecity.amp_library.model.TagUpdate"
+trackTotalHasChanged*
+2
+4
+6
+8
+1*Á
+22
+Î" Î(1…
+‚
+
+Î" Î(1
+%1boolean"__id*_
+
+__unknown_file (C*A,
+*com.simplecity.amp_library.model.TagUpdate"
+albumHasChanged*'
+2
+14
+4
+16
+6
+18
+8
+20
+10
+12
+1*Å
+23
+Î Î(…
+‚
+
+Î Î(
+%0boolean"__id*_
+
+__unknown_file (C*A,
+*com.simplecity.amp_library.model.TagUpdate"
+titleHasChanged*+
+2
+14
+4
+16
+6
+18
+8
+20
+10
+22
+12
+1*­
+12
+Ð Ð("…
+‚
+
+Ð Ð("
+%6boolean"__id*_
+
+__unknown_file (C*A,
+*com.simplecity.amp_library.model.TagUpdate"
+trackHasChanged*
+2
+4
+6
+8
+10
+1B.,
+*com.simplecity.amp_library.model.TagUpdateHX

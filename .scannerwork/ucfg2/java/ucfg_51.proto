@@ -1,0 +1,239 @@
+
+Hcom.simplecity.amp_library.model.Suggestion#toString()Ljava/lang/String;L
+Bapp\src\main\java\com\simplecity\amp_library\model\Suggestion.java$ $("1*â
+1% %(n
+l
+% &(#
+%0java.lang.String"__concat*
+% %(
+Suggestion{*!
+& &(#
+mostPlayedArtist=ª
+§
+&& &(62
+%1,com.simplecity.amp_library.model.AlbumArtist"__id*a
+
+__unknown_file (E*C-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedArtist›
+˜
+% &(6
+%2"__calculate*
+&$ &(%
++*$
+% &(#
+
+%0java.lang.String*@
+&& &(64
+2
+%1,com.simplecity.amp_library.model.AlbumArtistj
+h
+% '($
+%3"__calculate*
+&7 &(8
++*
+% &(6
+
+%2*"
+' '($
+, mostPlayedAlbum=z
+x
+'' '(6
+%4"__id*`
+
+__unknown_file (D*B-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedAlbumZ
+X
+% '(6
+%5"__calculate*
+'% '(&
++*
+% '($
+
+%3*
+'' '(6
+
+%4i
+g
+% ((#
+%6"__calculate*
+'7 '(8
++*
+% '(6
+
+%5*!
+( ((#
+, mostPlayedSong=y
+w
+(& ((4
+%7"__id*_
+
+__unknown_file (C*A-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedSongZ
+X
+% ((4
+%8"__calculate*
+($ ((%
++*
+% ((#
+
+%6*
+(& ((4
+
+%7l
+j
+% )(&
+%9"__calculate*
+(5 ((6
++*
+% ((4
+
+%8*$
+) )(&
+, favouriteSongsOne=}
+{
+)) )(:
+%10"__id*b
+
+__unknown_file (F*D-
++com.simplecity.amp_library.model.Suggestion"
+favouriteSongsOne\
+Z
+% )(:
+%11"__calculate*
+)' )((
++*
+% )(&
+
+%9*
+)) )(:
+
+%10n
+l
+% *(&
+%12"__calculate*
+); )(<
++*
+% )(:
+
+%11*$
+* *(&
+, favouriteSongsTwo=}
+{
+*) *(:
+%13"__id*b
+
+__unknown_file (F*D-
++com.simplecity.amp_library.model.Suggestion"
+favouriteSongsTwo]
+[
+% *(:
+%14"__calculate*
+*' *((
++*
+% *(&
+
+%12*
+*) *(:
+
+%13q
+o
+% +()
+%15"__calculate*
+*; *(<
++*
+% *(:
+
+%14*'
++ +()
+, recentlyPlayedAlbums=€
+~
++, +(@
+%16"__id*e
+
+__unknown_file (I*G-
++com.simplecity.amp_library.model.Suggestion"
+recentlyPlayedAlbums]
+[
+% +(@
+%17"__calculate*
++* +(+
++*
+% +()
+
+%15*
++, +(@
+
+%16s
+q
+% ,(+
+%18"__calculate*
++A +(B
++*
+% +(@
+
+%17*)
+, ,(+
+, recentlyAddedAlbumsOne=ƒ
+€
+,. ,(D
+%19"__id*g
+
+__unknown_file (K*I-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsOne]
+[
+% ,(D
+%20"__calculate*
+,, ,(-
++*
+% ,(+
+
+%18*
+,. ,(D
+
+%19s
+q
+% -(+
+%21"__calculate*
+,E ,(F
++*
+% ,(D
+
+%20*)
+- -(+
+, recentlyAddedAlbumsTwo=ƒ
+€
+-. -(D
+%22"__id*g
+
+__unknown_file (K*I-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsTwo]
+[
+% -(D
+%23"__calculate*
+-, -(-
++*
+% -(+
+
+%21*
+-. -(D
+
+%22[
+Y
+% .(
+%24"__calculate*
+-E -(F
++*
+% -(D
+
+%23*
+. .(
+}"
+% .(
+
+%24B/-
++com.simplecity.amp_library.model.SuggestionH

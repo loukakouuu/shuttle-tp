@@ -1,0 +1,331 @@
+
+1.0loukakouJavaFrontend"1779719397490*java2.B˚
+_
+Zapp/src/main/java/com/simplecity/amp_library/ui/views/AestheticFastScrollRecyclerView.java2
+	
+type3
+	
+MAIN4
+
+package6
+(
+#com.simplecity.amp_library.ui.views7
+H
+Ccom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(11:1)-(43:2)14
+
+simple-name15
+%
+AestheticFastScrollRecyclerView16
+4
+.Recovered#typeBindingLFastScrollRecyclerView;018
+
+unknown19
+
+extends20
+
+
+uses21
+]
+Wcom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView.aestheticDisposable23
+
+field24
+
+	protected25
+
+(13:5)-(13:36)26
+
+aestheticDisposable27
+
+
+Disposable29
+
+is type30
+\
+Vcom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#<init>(LContext;)V32
+
+method33
+
+(15:5)-(17:6)34
+%
+Recovered#typeBindingLContext;036
+
+	has param37
+
+calls38
+j
+dcom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#<init>(LContext;LAttributeSet;)V40
+
+(19:5)-(21:6)41
+*
+$Recovered#typeBindingLAttributeSet;043
+k
+ecom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#<init>(LContext;LAttributeSet;I)V45
+
+(23:5)-(25:6)46
+_
+Ycom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#onAttachedToWindow()V48
+
+(27:5)-(36:6)49
+
+onAttachedToWindow50
+
+
+references51
+
+FastScrollRecyclerView53
+a
+[com.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#onDetachedFromWindow()V55
+
+(38:5)-(42:6)56
+
+onDetachedFromWindow57J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768já
+
+28
+282919
+M
+47G
+474833 *
+1 (&28:5B$
+
+
+11
+25
+
+
+13
+49
+
+
+15
+50
+
+35
+353619
+M
+44G
+444533 *
+1 (+28:5B$
+
+
+11
+12
+
+
+13
+46
+
+
+15
+16
+
+52
+525319
+M
+31G
+313233 *
+1 (+28:5B$
+
+
+11
+12
+
+
+13
+34
+
+
+15
+16
+M
+39G
+394033 *
+1 (+28:5B$
+
+
+11
+12
+
+
+13
+41
+
+
+15
+16
+M
+54G
+545533 *
+1' '((28:5B$
+
+
+11
+25
+
+
+13
+56
+
+
+15
+57
+G
+8B
+8910 *
+1 (-:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+22G
+222324 *
+1 (#28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+
+17
+171819
+
+42
+424319rç
+
+81720*
+16 (L
+
+81721*
+16 (L
+
+222830*
+1 (
+
+222821*
+1 (
+
+222821*
+1 (#
+
+313537*
+1, (3
+
+31838*
+1 (+
+
+313530*
+14 (;
+
+313521*
+1, (3
+
+393537*
+1, (3
+
+394237*
+1= (I
+
+39838*
+1 (+
+
+393530*
+14 (;
+
+393521*
+1, (3
+
+394230*
+1J (O
+
+394221*
+1= (I
+
+443537*
+1, (3
+
+444237*
+1= (I
+
+44838*
+1 (+
+
+443530*
+14 (;
+
+443521*
+1, (3
+
+444230*
+1J (O
+
+444221*
+1= (I
+
+47851*
+1	 (
+
+475221*
+1	 (
+
+47851*
+1	 (
+
+472821*
+1	 (
+
+472251*
+1	 (
+
+542251*
+1(	 ((
+
+542821*
+1(	 ((
+
+542251*
+1(	 ((
+
+54851*
+1)	 )(
+
+545221*
+1)	 )(
+
+54851*
+1)	 )(

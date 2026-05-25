@@ -1,0 +1,47 @@
+
+lcom.simplecity.amp_library.model.Album$Builder#lastPlayed(J)Lcom/simplecity/amp_library/model/Album$Builder;G
+=app\src\main\java\com\simplecity\amp_library\model\Album.javas s(!"3*œ
+2u" u(,‡
+„
+u u(,@0
+.com.simplecity.amp_library.model.Album$Builder"
+
+lastPlayed"__id*0
+
+__unknown_file (
+
+
+lastPlayedlong*
+1*Œ
+3t t(~
+|
+t t(,
+
+%0long"__id*^
+
+__unknown_file (B*@0
+.com.simplecity.amp_library.model.Album$Builder"
+
+lastPlayedu
+s
+t t(,
+%1boolean"	__compare*
+t t(
+>* 
+t t(
+
+
+lastPlayedlong*
+t t(,
+
+
+%0long*
+2
+1*M
+1w w(">
+w w(20
+.com.simplecity.amp_library.model.Album$Builder:
+s" s(1
+
+lastPlayedlongB20
+.com.simplecity.amp_library.model.Album$BuilderH

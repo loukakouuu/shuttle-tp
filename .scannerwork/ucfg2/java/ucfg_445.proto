@@ -1,0 +1,54 @@
+
+5com.simplecity.amp_library.utils.AnimUtils#lerp(FFF)FK
+Aapp\src\main\java\com\simplecity\amp_library\utils\AnimUtils.java ("1*÷
+1 (m
+k
+ (
+%0float"__calculate*
+ (
+-*
+ (
+
+
+bfloat*
+ (
+
+
+afloatn
+l
+ (
+%1float"__calculate*
+ (
+**
+ (
+
+%0float*
+ (
+
+
+vfloatn
+l
+ (
+%2float"__calculate*
+ (
++*
+ (
+
+
+afloat*
+ (
+
+%1float"
+ (
+
+%2float:
+ (%
+
+afloat:
+& (.
+
+bfloat:
+/ (6
+
+vfloatB.",
+*com.simplecity.amp_library.utils.AnimUtilsHX

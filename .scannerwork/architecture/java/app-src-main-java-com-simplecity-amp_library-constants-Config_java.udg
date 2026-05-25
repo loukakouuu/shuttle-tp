@@ -1,0 +1,219 @@
+
+1.0loukakouJavaFrontend"1779719406487*java2.B±
+G
+Bapp/src/main/java/com/simplecity/amp_library/constants/Config.java2
+	
+type3
+	
+MAIN4
+
+package6
+)
+$com.simplecity.amp_library.constants7
+0
++com.simplecity.amp_library.constants.Config9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(20:2)14
+
+simple-name15
+
+Config16
+;
+5com.simplecity.amp_library.constants.Config#<init>()V18
+
+method19
+
+private20
+
+(6:5)-(7:6)21
+
+calls22
+4
+.com.simplecity.amp_library.constants.Config.ID24
+
+field25
+
+(9:5)-(9:42)26
+
+ID27
+6
+0com.simplecity.amp_library.constants.Config.NAME29
+
+(11:5)-(11:46)30
+
+
+NAME31
+C
+=com.simplecity.amp_library.constants.Config.PACKAGE_NAME_FREE33
+
+(13:5)-(13:75)34
+
+PACKAGE_NAME_FREE35
+B
+<com.simplecity.amp_library.constants.Config.PACKAGE_NAME_PRO37
+
+(14:5)-(14:76)38
+
+PACKAGE_NAME_PRO39
+C
+=com.simplecity.amp_library.constants.Config.CHROMECAST_APP_ID41
+
+(16:5)-(16:63)42
+
+CHROMECAST_APP_ID43
+=
+7com.simplecity.amp_library.constants.Config.SKU_PREMIUM45
+
+(19:5)-(19:66)46
+
+SKU_PREMIUM47J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jò
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+16
+M
+40G
+404125 *
+1  (128:5B$
+
+
+11
+12
+
+
+13
+42
+
+
+15
+43
+M
+32G
+323325 *
+1  (128:5B$
+
+
+11
+12
+
+
+13
+34
+
+
+15
+35
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+23G
+232425 *
+1	  	("28:5B$
+
+
+11
+12
+
+
+13
+26
+
+
+15
+27
+M
+28G
+282925 *
+1  ($28:5B$
+
+
+11
+12
+
+
+13
+30
+
+
+15
+31
+M
+36G
+363725 *
+1  (028:5B$
+
+
+11
+12
+
+
+13
+38
+
+
+15
+39
+M
+44G
+444525 *
+1  (+28:5B$
+
+
+11
+12
+
+
+13
+46
+
+
+15
+47r
+
+17822*
+1 (

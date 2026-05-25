@@ -1,0 +1,79 @@
+
+1.0loukakouJavaFrontend"1779719398557*java2.B÷
+R
+Mapp/src/main/java/com/simplecity/amp_library/ui/modelviews/SectionedView.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.ui.modelviews7
+;
+6com.simplecity.amp_library.ui.modelviews.SectionedView9
+
+	interface10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(6:2)14
+
+simple-name15
+
+SectionedView16
+_
+Ycom.simplecity.amp_library.ui.modelviews.SectionedView#getSectionName()Ljava/lang/String;18
+
+method19
+
+(5:5)-(5:29)20
+
+getSectionName21J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j˜
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21

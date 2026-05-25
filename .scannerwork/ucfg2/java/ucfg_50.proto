@@ -1,0 +1,109 @@
+
+>com.simplecity.amp_library.model.Suggestion#%field_initializerL
+Bapp\src\main\java\com\simplecity\amp_library\model\Suggestion.java ("1*Ω
+1
+__unknown_file (<:
+
+3 
+(>
+%0java.util.ArrayList"java.util.ArrayListé
+ã
+
+/ 
+(A
+%1"java.util.ArrayList#<init>(I)V*7
+
+__unknown_file (
+
+%0java.util.ArrayList* 
+
+__unknown_file (2í
+è
+
+ 
+(BD-
++com.simplecity.amp_library.model.Suggestion"
+favouriteSongsOne"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList<:
+3 (>
+%2java.util.ArrayList"java.util.ArrayListé
+ã
+/ (A
+%3"java.util.ArrayList#<init>(I)V*7
+
+__unknown_file (
+
+%2java.util.ArrayList* 
+
+__unknown_file (2í
+è
+ (BD-
++com.simplecity.amp_library.model.Suggestion"
+favouriteSongsTwo"__id*7
+
+__unknown_file (
+
+%2java.util.ArrayList<:
+7 (B
+%4java.util.ArrayList"java.util.ArrayListé
+ã
+3 (E
+%5"java.util.ArrayList#<init>(I)V*7
+
+__unknown_file (
+
+%4java.util.ArrayList* 
+
+__unknown_file (2ï
+í
+ (FG-
++com.simplecity.amp_library.model.Suggestion"
+recentlyPlayedAlbums"__id*7
+
+__unknown_file (
+
+%4java.util.ArrayList<:
+9 (D
+%6java.util.ArrayList"java.util.ArrayListé
+ã
+5 (G
+%7"java.util.ArrayList#<init>(I)V*7
+
+__unknown_file (
+
+%6java.util.ArrayList* 
+
+__unknown_file (2ó
+î
+ (HI-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsOne"__id*7
+
+__unknown_file (
+
+%6java.util.ArrayList<:
+9 (D
+%8java.util.ArrayList"java.util.ArrayListé
+ã
+5 (G
+%9"java.util.ArrayList#<init>(I)V*7
+
+__unknown_file (
+
+%8java.util.ArrayList* 
+
+__unknown_file (2ó
+î
+ (HI-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsTwo"__id*7
+
+__unknown_file (
+
+%8java.util.ArrayList"
+ 0(
+implicit returnB/-
++com.simplecity.amp_library.model.Suggestion

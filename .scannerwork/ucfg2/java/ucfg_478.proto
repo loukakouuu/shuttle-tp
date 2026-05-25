@@ -1,0 +1,117 @@
+
+mcom.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;T
+Japp\src\main\java\com\simplecity\amp_library\format\PrefixHighlighter.java> >("5*Ÿ
+2D? D(CQ
+O
+D D(E
+resultSpannableString"__id*"
+
+__unknown_file (
+""Ñ
+Å
+E E(+
+%5"__id*i
+
+__unknown_file (M*K5
+3com.simplecity.amp_library.format.PrefixHighlighter"
+mPrefixColorSpanY
+W
+E< E(I	
+%6int"__id*:
+
+__unknown_file (*
+
+prefixchar[]"
+lengthl
+j
+E4 E(I	
+%7int"__calculate*
+E: E(;
++*
+E4 E(9
+
+indexint*
+E< E(I
+	
+%6int"'
+F F(
+
+resultSpannableString*™
+3B; B(Pé
+ã
+B; B(P	
+%4int"__id*n
+
+__unknown_file (R*P5
+3com.simplecity.amp_library.format.PrefixHighlighter"
+mPrefixHighlightColorÑ
+Å
+B B(QK5
+3com.simplecity.amp_library.format.PrefixHighlighter"
+mPrefixColorSpan"__id*"
+
+__unknown_file (
+""*
+2*˜
+4A A( Ñ
+Å
+A A( 
+%2"__id*i
+
+__unknown_file (M*K5
+3com.simplecity.amp_library.format.PrefixHighlighter"
+mPrefixColorSpanY
+W
+A A((
+%3"	__compare*
+A! A(#
+==*
+A A( 
+
+%2*
+A$ A((
+""*
+2
+3*å
+5? ?(+ø
+º
+? ?(9	
+%0int"bcom.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I*S
+
+__unknown_file (7"5
+3com.simplecity.amp_library.format.PrefixHighlighter*<
+
+__unknown_file ( 
+
+textjava.lang.CharSequence*.
+
+__unknown_file (
+
+prefixchar[]I
+G
+? ?(:
+indexint"__id*'
+
+__unknown_file (
+	
+%0inth
+f
+@ @(
+%1boolean"	__compare*
+@ @(
+!=*
+@ @(
+
+indexint*
+@ @(2*
+4
+1*;
+1H H(",
+H H( 
+
+textjava.lang.CharSequence:*
+> >(1
+textjava.lang.CharSequence:
+>2 >(?
+prefixchar[]B75
+3com.simplecity.amp_library.format.PrefixHighlighter

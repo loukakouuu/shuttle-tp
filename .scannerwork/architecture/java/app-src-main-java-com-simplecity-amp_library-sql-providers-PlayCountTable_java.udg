@@ -1,0 +1,554 @@
+
+1.0loukakouJavaFrontend"1779719394546*java2.Bæ
+S
+Napp/src/main/java/com/simplecity/amp_library/sql/providers/PlayCountTable.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.sql.providers7
+<
+7com.simplecity.amp_library.sql.providers.PlayCountTable9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(10:1)-(115:2)14
+
+simple-name15
+
+PlayCountTable16
+.
+(Recovered#typeBindingLSQLiteOpenHelper;018
+
+unknown19
+
+extends20
+
+
+uses21
+P
+Jcom.simplecity.amp_library.sql.providers.PlayCountTable.applicationContext23
+
+field24
+
+private25
+
+(12:5)-(12:40)26
+
+applicationContext27
+
+Context29
+
+is type30
+K
+Ecom.simplecity.amp_library.sql.providers.PlayCountTable.DATABASE_NAME32
+
+(14:5)-(14:65)33
+
+DATABASE_NAME34
+N
+Hcom.simplecity.amp_library.sql.providers.PlayCountTable.DATABASE_VERSION36
+
+(15:5)-(15:51)37
+
+DATABASE_VERSION38
+N
+Hcom.simplecity.amp_library.sql.providers.PlayCountTable.TABLE_PLAY_COUNT40
+
+(17:5)-(17:64)41
+
+TABLE_PLAY_COUNT42
+G
+Acom.simplecity.amp_library.sql.providers.PlayCountTable.COLUMN_ID44
+
+(19:5)-(19:50)45
+
+	COLUMN_ID46
+O
+Icom.simplecity.amp_library.sql.providers.PlayCountTable.COLUMN_PLAY_COUNT48
+
+(20:5)-(20:65)49
+
+COLUMN_PLAY_COUNT50
+P
+Jcom.simplecity.amp_library.sql.providers.PlayCountTable.COLUMN_TIME_PLAYED52
+
+(21:5)-(21:67)53
+
+COLUMN_TIME_PLAYED54
+M
+Gcom.simplecity.amp_library.sql.providers.PlayCountTable.DATABASE_CREATE56
+
+(23:5)-(29:20)57
+
+DATABASE_CREATE58
+
+
+references59
+G
+Acom.simplecity.amp_library.sql.providers.PlayCountTable.AUTHORITY61
+
+(31:5)-(31:103)62
+
+	AUTHORITY63
+A
+;com.simplecity.amp_library.sql.providers.PlayCountTable.URI65
+
+(33:5)-(33:92)66
+	
+URI67
+	
+Uri69
+P
+Jcom.simplecity.amp_library.sql.providers.PlayCountTable#<init>(LContext;)V71
+
+method72
+
+(35:5)-(39:6)73
+%
+Recovered#typeBindingLContext;075
+
+	has param76
+
+calls77
+Y
+Scom.simplecity.amp_library.sql.providers.PlayCountTable#onCreate(LSQLiteDatabase;)V79
+
+(41:5)-(44:6)80
+
+onCreate81
+,
+&Recovered#typeBindingLSQLiteDatabase;083
+\
+Vcom.simplecity.amp_library.sql.providers.PlayCountTable#onUpgrade(LSQLiteDatabase;II)V85
+
+(46:5)-(114:6)86
+
+	onUpgrade87
+-
+'Recovered#typeBindingLSQLiteException;089J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÄ	
+
+28
+282919
+M
+31G
+313224 *
+1! (.28:5B$
+
+
+11
+25
+
+
+13
+33
+
+
+15
+34
+
+74
+747519
+M
+55G
+555624 *
+1! (028:5B$
+
+
+11
+25
+
+
+13
+57
+
+
+15
+58
+M
+35G
+353624 *
+1 (.28:5B$
+
+
+11
+25
+
+
+13
+37
+
+
+15
+38
+G
+8B
+8910 *
+1
+ 
+(:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+39G
+394024 *
+1  (028:5B$
+
+
+11
+12
+
+
+13
+41
+
+
+15
+42
+
+17
+171819
+
+68
+686919
+
+88
+888919
+M
+84G
+848572 *
+1/ /(28:5B$
+
+
+11
+12
+
+
+13
+86
+
+
+15
+87
+M
+51G
+515224 *
+1  (228:5B$
+
+
+11
+12
+
+
+13
+53
+
+
+15
+54
+M
+70G
+707172 *
+1# #(28:5B$
+
+
+11
+12
+
+
+13
+73
+
+
+15
+16
+M
+43G
+434424 *
+1  ()28:5B$
+
+
+11
+12
+
+
+13
+45
+
+
+15
+46
+M
+60G
+606124 *
+1  ()28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+
+82
+828319
+M
+64G
+646524 *
+1! !( 28:5B$
+
+
+11
+12
+
+
+13
+66
+
+
+15
+67
+M
+78G
+787972 *
+1* *(28:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+M
+47G
+474824 *
+1  (128:5B$
+
+
+11
+12
+
+
+13
+49
+
+
+15
+50
+M
+22G
+222324 *
+1 ('28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27r÷
+
+
+81720*
+1
+% 
+(5
+
+81721*
+1
+% 
+(5
+
+222830*
+1 (
+
+222821*
+1 (
+
+222821*
+1 ('
+
+553959*
+1 (
+
+554359*
+1 (
+
+554759*
+1 ( 
+
+555159*
+1 (!
+
+646830*
+1! !(
+
+646821*
+1! !(
+
+646821*
+1! !( 
+
+646059*
+1!< !(E
+
+707476*
+1# #("
+
+70877*
+1# #(
+
+707430*
+1## #(*
+
+707421*
+1# #("
+
+703159*
+1$ $(%
+
+703559*
+1$- $(=
+
+70821*
+1&	 &(
+
+70859*
+1&	 &(
+
+702821*
+1& &( 
+
+702259*
+1& &( 
+
+788276*
+1* *((
+
+788230*
+1*) *(1
+
+788221*
+1* *((
+
+785559*
+1+ +()
+
+848276*
+1/ /()
+
+848230*
+1/* /(,
+
+848221*
+1/ /()
+
+843959*
+15) 5(9
+
+843959*
+18* 8(:
+
+844359*
+19 9( 
+
+844759*
+1: :((
+
+845159*
+1; ;()
+
+843959*
+1>4 >(D
+
+844359*
+1>M >(V
+
+844759*
+1>` >(q
+
+844359*
+1?# ?(,
+
+844759*
+1?5 ?(F
+
+842259*
+1K* K(<
+
+842821*
+1K* K(<
+
+842259*
+1K* K(<
+
+843959*
+1U U(+
+
+844359*
+1W W($
+
+844759*
+1Y Y(,
+
+845159*
+1[ [(-
+
+844759*
+1a a(,
+
+843959*
+1c c(+
+
+844359*
+1e e($
+
+848830*
+1l& l(-
+
+848821*
+1l l(%

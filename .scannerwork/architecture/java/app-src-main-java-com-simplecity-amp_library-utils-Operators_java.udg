@@ -1,0 +1,300 @@
+
+1.0loukakouJavaFrontend"1779719408133*java2.B¬
+
+F
+Aapp/src/main/java/com/simplecity/amp_library/utils/Operators.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+/
+*com.simplecity.amp_library.utils.Operators9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(16:1)-(112:2)14
+
+simple-name15
+
+	Operators16
+4
+.com.simplecity.amp_library.utils.Operators.TAG18
+
+field19
+
+private20
+
+(18:5)-(18:51)21
+	
+TAG22
+`
+Zcom.simplecity.amp_library.utils.Operators#songsToAlbums(Ljava/util/List;)Ljava/util/List;24
+
+method25
+
+(20:5)-(58:6)26
+
+songsToAlbums27
+#
+Recovered#typeBindingLAlbum;029
+
+unknown30
+
+
+uses31
+"
+Recovered#typeBindingLSong;033
+
+is type34
+g
+acom.simplecity.amp_library.utils.Operators#albumsToAlbumArtists(Ljava/util/List;)Ljava/util/List;36
+
+(60:5)-(83:6)37
+
+albumsToAlbumArtists38
+)
+#Recovered#typeBindingLAlbumArtist;040
+q
+kcom.simplecity.amp_library.utils.Operators#albumShuffleSongs(Ljava/util/List;LSortManager;)Ljava/util/List;42
+
+(85:5)-(99:6)43
+
+albumShuffleSongs44
+)
+#Recovered#typeBindingLSortManager;046
+
+	has param47
+\
+Vcom.simplecity.amp_library.utils.Operators#reduceSongSingles(Ljava/util/List;)LSingle;49
+
+(101:5)-(111:6)50
+
+reduceSongSingles51
+
+Single53
+
+returns54
+$
+Recovered#typeBindingLSingle;056J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÌ
+M
+48G
+484925 *
+1e& e(728:5B$
+
+
+11
+12
+
+
+13
+50
+
+
+15
+51
+
+52
+525330
+M
+17G
+171819 *
+1! ($28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+M
+35G
+353625 *
+1<% <(928:5B$
+
+
+11
+12
+
+
+13
+37
+
+
+15
+38
+M
+23G
+232425 *
+1 (,28:5B$
+
+
+11
+12
+
+
+13
+26
+
+
+15
+27
+
+28
+282930
+
+39
+394030
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+32
+323330
+
+45
+454630
+
+55
+555630
+M
+41G
+414225 *
+1U U(/28:5B$
+
+
+11
+12
+
+
+13
+43
+
+
+15
+44r
+
+232831*
+1 (
+
+233231*
+12 (6
+
+232831*
+1 (
+
+233234*
+1 (
+
+233231*
+1 (
+
+232834*
+1 (
+
+232831*
+1 (
+
+232834*
+1 (
+
+232831*
+1 (
+
+353931*
+1< <(#
+
+352831*
+1<? <(D
+
+353931*
+1> >($
+
+352834*
+1@ @(
+
+352831*
+1@ @(
+
+353934*
+1C C($
+
+353931*
+1C C(
+
+353934*
+1F F('
+
+353931*
+1F F(
+
+414547*
+1UB U(M
+
+413231*
+1U U(
+
+413231*
+1U5 U(9
+
+414534*
+1UN U(Y
+
+414531*
+1UB U(M
+
+413231*
+1Y# Y('
+
+485254*
+1e e(%
+
+485231*
+1e e(
+
+483231*
+1e e(#
+
+485531*
+1e= e(C
+
+483231*
+1eI e(M

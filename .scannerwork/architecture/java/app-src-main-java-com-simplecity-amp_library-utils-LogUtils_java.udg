@@ -1,0 +1,133 @@
+
+1.0loukakouJavaFrontend"1779719410736*java2.B∏
+E
+@app/src/main/java/com/simplecity/amp_library/utils/LogUtils.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+.
+)com.simplecity.amp_library.utils.LogUtils9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(8:1)-(25:2)14
+
+simple-name15
+
+LogUtils16
+9
+3com.simplecity.amp_library.utils.LogUtils#<init>()V18
+
+method19
+
+private20
+
+(10:5)-(12:6)21
+
+calls22
+x
+rcom.simplecity.amp_library.utils.LogUtils#logException(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V24
+
+(14:5)-(24:6)25
+
+logException26
+
+Nullable28
+
+unknown29
+
+annotated by30
+&
+ Recovered#typeBindingLNullable;032
+
+
+uses33J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jè
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+17G
+171819 *
+1
+ 
+(28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+16
+
+31
+313229
+M
+23G
+232419 *
+1 ($28:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+
+27
+272829rP
+
+17822*
+1
+ 
+(
+
+232730*
+1A (J
+
+233133*
+1B (J

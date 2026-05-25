@@ -1,0 +1,38 @@
+
+Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)ZU
+Iapp\src\main\java\com\simplecity\amp_library\utils\color\ColorHelper.javaÙ Ù("1*–
+1
+Ú Ú(!ò
+ï
+
+Ú Ú(2
+%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D*R
+
+__unknown_file (6"4
+2com.simplecity.amp_library.utils.color.ColorHelper*4
+
+__unknown_file (
+
+backgroundColorintq
+o
+
+Ú Ú(9
+%1boolean"	__compare*
+
+Ú3 Ú(4
+>*
+
+Ú Ú(2
+
+%0double*
+
+Ú5 Ú(9
+"""
+
+Ú Ú(:
+
+%1boolean:$
+
+Ù  Ù(3
+backgroundColorintB6"4
+2com.simplecity.amp_library.utils.color.ColorHelperX

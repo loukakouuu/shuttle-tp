@@ -1,0 +1,31 @@
+
+Ycom.jp.wasabeef.glide.transformations.ColorFilterTransformation#getId()Ljava/lang/String;`
+Vapp\src\main\java\com\jp\wasabeef\glide\transformations\ColorFilterTransformation.javaG G("1*¥
+1H H(1‹
+ˆ
+H4 H(:	
+%0int"__id*k
+
+__unknown_file (O*MA
+?com.jp.wasabeef.glide.transformations.ColorFilterTransformation"
+mColory
+w
+H H(:
+%1java.lang.String"__concat*0
+H H(1$"
+ ColorFilterTransformation(color=*
+H4 H(:
+	
+%0intg
+e
+H H(@
+%2java.lang.String"__concat*$
+H H(:
+
+%1java.lang.String*
+H= H(@
+)"$
+H H(A
+
+%2java.lang.StringBCA
+?com.jp.wasabeef.glide.transformations.ColorFilterTransformationH

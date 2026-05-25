@@ -1,0 +1,56 @@
+
+Eandroid.support.design.widget.CustomCollapsingTextHelper#isClose(FF)Z[
+Oapp\src\main\java\android\support\design\widget\CustomCollapsingTextHelper.javaÇ Ç(""1*π
+1
+É É(Ñ
+Å
+
+É É(+
+%0float"__calculate*
+
+É É(
+-*
+
+É É(
+
+valuefloat*$
+
+É  É(+
+
+targetValuefloatè
+å
+
+É É(,
+%1float"java.lang.Math#abs(F)F*.
+
+__unknown_file ("
+java.lang.Math*)
+
+__unknown_file (
+
+%0floatp
+n
+
+É É(5
+%2boolean"	__compare*
+
+É- É(.
+<*
+
+É É(,
+
+%1float*
+
+É/ É(5
+"""
+
+É É(6
+
+%2boolean:
+
+Ç# Ç(/
+valuefloat:"
+
+Ç0 Ç(A
+targetValuefloatB<":
+8android.support.design.widget.CustomCollapsingTextHelperX

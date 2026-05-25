@@ -1,0 +1,107 @@
+
+1.0loukakouJavaFrontend"1779719409120*java2.B 
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/ColorUtils.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+0
++com.simplecity.amp_library.utils.ColorUtils9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(5:1)-(18:2)14
+
+simple-name15
+
+
+ColorUtils16
+;
+5com.simplecity.amp_library.utils.ColorUtils#<init>()V18
+
+method19
+
+private20
+
+(7:5)-(9:6)21
+
+calls22
+B
+<com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I24
+
+(11:5)-(17:6)25
+
+adjustAlpha26J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jç
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+16
+M
+23G
+232419 *
+1 ("28:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26r
+
+17822*
+1 (

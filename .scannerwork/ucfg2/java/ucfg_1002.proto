@@ -1,0 +1,25 @@
+
+Qcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#%field_initializer_
+Uapp\src\main\java\com\simplecity\amp_library\ui\screens\drawer\DrawerLockManager.java ("1*ˆ
+1
+__unknown_file (<:
+/ (:
+%0java.util.ArrayList"java.util.ArrayListj
+h
++ (<
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayListŸ
+œ
+ (=Q@
+>com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager"
+drawerLocks"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList"
+ 6(
+implicit returnBB@
+>com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager

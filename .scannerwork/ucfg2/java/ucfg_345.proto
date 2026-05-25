@@ -1,0 +1,64 @@
+
+Wandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentCollapsedSubColor()I[
+Oapp\src\main\java\android\support\design\widget\CustomCollapsingTextHelper.javaﬂ ﬂ(+"3*¿
+2
+· ·(%ç
+ä
+
+· ·(%
+%2"__id*p
+
+__unknown_file (T*R:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedSubColorà
+Ö
+
+·7 ·(=
+%3int[]"__id*d
+
+__unknown_file (H*F:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mState"
+
+· ·(B
+""*ï
+3
+‡ ‡(à
+Ö
+
+‡ ‡(
+%0int[]"__id*d
+
+__unknown_file (H*F:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mStateq
+o
+
+‡ ‡(
+%1boolean"	__compare*
+
+‡ ‡(
+!=*
+
+‡ ‡(
+
+%0int[]*
+
+‡ ‡(
+""*
+2
+1*µ
+1
+„ „(%ç
+ä
+
+„ „(%
+%4"__id*p
+
+__unknown_file (T*R:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedSubColor"
+
+„ „(8
+""B<:
+8android.support.design.widget.CustomCollapsingTextHelperX

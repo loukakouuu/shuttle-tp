@@ -1,0 +1,144 @@
+
+@com.simplecity.amp_library.glide.utils.BitmapAndSize#hashCode()IU
+Kapp\src\main\java\com\simplecity\amp_library\glide\utils\BitmapAndSize.java ("7*[
+2A (BG
+E
+A (B	
+%9int"__id*(
+
+__unknown_file (
+
+
+%11int*
+1*¸
+3/ (3§
+¤
+/ (32
+%12+com.simplecity.amp_library.glide.utils.Size"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.utils.BitmapAndSize"
+size°­
+/ (>
+
+%10int"7com.simplecity.amp_library.glide.utils.Size#hashCode()I*P
+
+__unknown_file (4
+2
+%12+com.simplecity.amp_library.glide.utils.Size2
+hashCode()G
+E
+/ (>	
+%9int"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*€
+4 (<E
+C
+ (<
+resultint"__id*"
+
+__unknown_file (
+
+%2f
+d
+ (	
+%6int"__calculate*
+ (
+**
+ (2*
+ (
+
+resultint¦
+£
+  ($1
+%7+com.simplecity.amp_library.glide.utils.Size"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.utils.BitmapAndSize"
+size
+
+  (,
+%8boolean"	__compare*
+% ('
+!=*?
+  ($3
+1
+%7+com.simplecity.amp_library.glide.utils.Size*
+( (,
+""*
+2
+3*U
+5: (;A
+?
+: (;
+%2"__id*'
+
+__unknown_file (
+	
+%4int*
+4*Ì
+6& (,z
+x
+& (,
+%5"__id*`
+
+__unknown_file (D*B6
+4com.simplecity.amp_library.glide.utils.BitmapAndSize"
+bitmap<
+:
+& (7
+%2"__id*"
+
+__unknown_file (
+
+%3*
+4*ì
+7 (z
+x
+ (
+%0"__id*`
+
+__unknown_file (D*B6
+4com.simplecity.amp_library.glide.utils.BitmapAndSize"
+bitmapY
+W
+ (#
+%1"	__compare*
+ (
+!=*
+ (
+
+%0*
+ (#
+""*
+5
+6*ã
+1 (Cj
+h
+ (C
+
+%13int"__calculate*
+ (
++*
+ (
+	
+%6int*
+ (C
+	
+%9intK
+I
+ (C
+resultint"__id*(
+
+__unknown_file (
+
+
+%13int"
+ (
+
+resultintB86
+4com.simplecity.amp_library.glide.utils.BitmapAndSizeHX

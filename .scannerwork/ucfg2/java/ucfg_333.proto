@@ -1,0 +1,85 @@
+
+Fandroid.support.design.widget.CustomCollapsingTextHelper#isStateful()Z[
+Oapp\src\main\java\android\support\design\widget\CustomCollapsingTextHelper.java· ·("6*•
+2
+„3 „(Fé
+ã
+
+„3 „(F
+%5"__id*q
+
+__unknown_file (U*S:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedTitleColor*
+1*ã
+3
+„ „('é
+ã
+
+„ „('
+%3"__id*q
+
+__unknown_file (U*S:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedTitleColora
+_
+
+„ „(/
+%4"	__compare*
+
+„( „(*
+!=*
+
+„ „('
+
+%3*
+
+„+ „(/
+""*
+2
+1*©
+5
+‚0 ‚(Dè
+å
+
+‚0 ‚(D
+%2"__id*r
+
+__unknown_file (V*T:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedTitleColor*
+3
+1*è
+6
+‚ ‚($è
+å
+
+‚ ‚($
+%0"__id*r
+
+__unknown_file (V*T:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedTitleColora
+_
+
+‚ ‚(,
+%1"	__compare*
+
+‚% ‚('
+!=*
+
+‚ ‚($
+
+%0*
+
+‚( ‚(,
+""*	
+3
+5
+1*%
+1
+‚ „(U"
+
+‚ „(U
+""B<:
+8android.support.design.widget.CustomCollapsingTextHelperX

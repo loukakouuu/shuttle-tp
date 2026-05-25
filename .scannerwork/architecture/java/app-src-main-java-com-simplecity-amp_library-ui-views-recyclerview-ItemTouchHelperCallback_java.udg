@@ -1,0 +1,948 @@
+
+1.0loukakouJavaFrontend"1779719408359*java2.B°#
+d
+_app/src/main/java/com/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback.java2
+	
+type3
+	
+MAIN4
+
+package6
+5
+0com.simplecity.amp_library.ui.views.recyclerview7
+M
+Hcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(7:1)-(97:2)14
+
+simple-name15
+
+ItemTouchHelperCallback16
+-
+'Recovered#typeBindingLItemTouchHelper;018
+
+unknown19
+
+extends20
+
+
+uses21
+\
+Vcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.startPosition23
+
+field24
+
+private25
+
+(9:5)-(9:36)26
+
+startPosition27
+Z
+Tcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.endPosition29
+
+(10:5)-(10:34)30
+
+endPosition31
+V
+Pcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.enabled33
+
+(12:5)-(12:37)34
+
+enabled35
+a
+[com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnItemMoveListener37
+
+	interface38
+
+(14:5)-(16:6)39
+
+OnItemMoveListener40
+q
+kcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnItemMoveListener#onItemMove(II)V42
+
+method43
+
+(15:9)-(15:59)44
+
+
+onItemMove45
+]
+Wcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnDropListener47
+
+(18:5)-(20:6)48
+
+OnDropListener49
+i
+ccom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnDropListener#onDrop(II)V51
+
+(19:9)-(19:55)52
+
+onDrop53
+^
+Xcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnClearListener55
+
+(22:5)-(24:6)56
+
+OnClearListener57
+i
+ccom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnClearListener#onClear()V59
+
+(23:9)-(23:24)60
+
+onClear61
+^
+Xcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnSwipeListener63
+
+(26:5)-(28:6)64
+
+OnSwipeListener65
+j
+dcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnSwipeListener#onSwipe(I)V67
+
+(27:9)-(27:31)68
+
+onSwipe69
+`
+Zcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.mItemMoveListener71
+
+(30:5)-(30:50)72
+
+mItemMoveListener73
+
+is type74
+
+
+references75
+^
+Xcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.mOnDropListener77
+
+(31:5)-(31:44)78
+
+mOnDropListener79
+_
+Ycom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.mOnClearListener81
+
+(33:5)-(34:46)82
+
+mOnClearListener83
+
+Nullable85
+
+annotated by86
+&
+ Recovered#typeBindingLNullable;088
+_
+Ycom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback.mOnSwipeListener90
+
+(35:5)-(35:46)91
+
+mOnSwipeListener92
+Ã
+¼com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#<init>(Lcom/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback$OnItemMoveListener;Lcom/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback$OnDropListener;Lcom/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback$OnClearListener;Lcom/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback$OnSwipeListener;)V94
+
+(37:5)-(42:6)95
+
+	has param96
+
+calls97
+h
+bcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#isItemViewSwipeEnabled()Z99
+
+(44:5)-(47:6)100
+
+isItemViewSwipeEnabled101
+^
+Wcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#setEnabled(Z)V103
+
+(49:5)-(51:6)104
+
+
+setEnabled105
+i
+bcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#isLongPressDragEnabled()Z107
+
+(53:5)-(56:6)108
+
+isLongPressDragEnabled109
+š
+’com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#onMove(LRecyclerView;LRecyclerView/ViewHolder;LRecyclerView/ViewHolder;)Z111
+
+(58:5)-(68:6)112
+
+onMove113
++
+$Recovered#typeBindingLRecyclerView;0115
+u
+ncom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#onSwiped(LRecyclerView/ViewHolder;I)V117
+
+(70:5)-(73:6)118
+
+onSwiped119
+ƒ
+|com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#clearView(LRecyclerView;LRecyclerView/ViewHolder;)V121
+
+(75:5)-(89:6)122
+
+	clearView123
+
+ItemTouchHelper.Callback125
+‹
+ƒcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#getMovementFlags(LRecyclerView;LRecyclerView/ViewHolder;)I127
+
+(91:5)-(96:6)128
+
+getMovementFlags129J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jð
+M
+46G
+464738 *
+1 ($28:5B$
+
+
+11
+12
+
+
+13
+48
+
+
+15
+49
+M
+80G
+808124 *
+1" "(-28:5B$
+
+
+11
+25
+
+
+13
+82
+
+
+15
+83
+M
+22G
+222324 *
+1	 	(28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+R
+120K
+12012143 *
+1L L(28:5B&
+
+
+11
+12
+
+13
+122
+
+15
+123
+M
+89G
+899024 *
+1# #(-28:5B$
+
+
+11
+25
+
+
+13
+91
+
+
+15
+92
+M
+28G
+282924 *
+1
+ 
+(28:5B$
+
+
+11
+25
+
+
+13
+30
+
+
+15
+31
+R
+116K
+11611743 *
+1G G(28:5B&
+
+
+11
+12
+
+13
+118
+
+15
+119
+M
+32G
+323324 *
+1 (28:5B$
+
+
+11
+25
+
+
+13
+34
+
+
+15
+35
+M
+70G
+707124 *
+1  (128:5B$
+
+
+11
+25
+
+
+13
+72
+
+
+15
+73
+
+87
+878819
+
+124
+12412519
+O
+98I
+989943 *
+1- -(*28:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+N
+50H
+505143 *
+1 (246:5B$
+
+
+11
+12
+
+
+13
+52
+
+
+15
+53
+R
+102K
+10210343 *
+11 1(28:5B&
+
+
+11
+12
+
+13
+104
+
+15
+105
+N
+41H
+414243 *
+1 (236:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+N
+66H
+666743 *
+1 (262:5B$
+
+
+11
+12
+
+
+13
+68
+
+
+15
+69
+M
+62G
+626338 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+64
+
+
+15
+65
+M
+76G
+767724 *
+1 (+28:5B$
+
+
+11
+25
+
+
+13
+78
+
+
+15
+79
+N
+58H
+585943 *
+1 (254:5B$
+
+
+11
+12
+
+
+13
+60
+
+
+15
+61
+M
+54G
+545538 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+56
+
+
+15
+57
+R
+110K
+11011143 *
+1; ;(28:5B&
+
+
+11
+12
+
+13
+112
+
+15
+113
+
+114
+11411519
+
+17
+171819
+M
+36G
+363738 *
+1 ((28:5B$
+
+
+11
+12
+
+
+13
+39
+
+
+15
+40
+R
+106K
+10610743 *
+16 6(*28:5B&
+
+
+11
+12
+
+13
+108
+
+15
+109
+R
+126K
+12612743 *
+1\ \( 28:5B&
+
+
+11
+12
+
+13
+128
+
+15
+129
+M
+93G
+939443 *
+1% %(#28:5B$
+
+
+11
+12
+
+
+13
+95
+
+
+15
+16
+G
+8B
+8910 *
+1 (%:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+84
+848519rŸ
+
+81720*
+1. (F
+
+81721*
+1. (=
+
+81721*
+1> (F
+
+703674*
+1 (
+
+703621*
+1 (
+
+703675*
+1 (
+
+703621*
+1  (1
+
+764674*
+1 (
+
+764621*
+1 (
+
+764675*
+1 (
+
+764621*
+1 (+
+
+805474*
+1" "(
+
+808486*
+1! !(
+
+808721*
+1! !(
+
+805421*
+1" "(
+
+805475*
+1" "(
+
+805421*
+1" "(-
+
+896274*
+1# #(
+
+896221*
+1# #(
+
+896275*
+1# #(
+
+896221*
+1# #(-
+
+933696*
+1%$ %(6
+
+934696*
+1%G %(U
+
+935496*
+1%p %(
+
+936296*
+1%‘ %( 
+
+93897*
+1% %(#
+
+933674*
+1%7 %(E
+
+933621*
+1%$ %(6
+
+933675*
+1%$ %(6
+
+934674*
+1%V %(d
+
+934621*
+1%G %(U
+
+934675*
+1%G %(U
+
+935474*
+1%€ %(
+
+938486*
+1%f %(o
+
+938721*
+1%g %(o
+
+935421*
+1%p %(
+
+935475*
+1%p %(
+
+936274*
+1%¡ %(°
+
+936221*
+1%‘ %( 
+
+936275*
+1%‘ %( 
+
+933621*
+1&	 &(
+
+937075*
+1&	 &(
+
+934621*
+1'	 '(
+
+937675*
+1'	 '(
+
+935421*
+1(	 ((
+
+938075*
+1(	 ((
+
+936221*
+1)	 )(
+
+938975*
+1)	 )(
+
+983275*
+1. .(
+
+102821*
+12	 2(
+
+102875*
+12	 2(
+
+1023275*
+12 2(
+
+11011496*
+1; ;('
+
+11011496*
+1;6 ;(M
+
+11011496*
+1;Z ;(q
+
+11011474*
+1;( ;(4
+
+11011421*
+1; ;('
+
+11011474*
+1;N ;(X
+
+11011421*
+1;6 ;(B
+
+11011421*
+1;C ;(M
+
+11011474*
+1;r ;(x
+
+11011421*
+1;Z ;(f
+
+11011421*
+1;g ;(q
+
+1102275*
+1= =(
+
+1102275*
+1> >(
+
+1102875*
+1@	 @(
+
+1103675*
+1B	 B(%
+
+1104197*
+1B B(%
+
+1107075*
+1B	 B(
+
+1103621*
+1B	 B(
+
+1107075*
+1B	 B(
+
+1102875*
+1BG B(R
+
+11611496*
+1G G(1
+
+11611474*
+1G2 G(<
+
+11611421*
+1G G(&
+
+11611421*
+1G' G(1
+
+1166275*
+1H	 H(!
+
+1166697*
+1H H(!
+
+1168975*
+1H	 H(
+
+1166221*
+1H	 H(
+
+1168975*
+1H	 H(
+
+12011496*
+1L L('
+
+12011496*
+1L6 L(M
+
+12011474*
+1L( L(4
+
+12011421*
+1L L('
+
+12011474*
+1LN L(X
+
+12011421*
+1L6 L(B
+
+12011421*
+1LC L(M
+
+120875*
+1M	 M(
+
+12012421*
+1M	 M(
+
+120875*
+1M	 M(
+
+1202275*
+1O O(
+
+1202875*
+1O$ O(/
+
+1204675*
+1P P(#
+
+1205097*
+1P P(#
+
+1207675*
+1P P(
+
+1204621*
+1P P(
+
+1207675*
+1P P(
+
+1202275*
+1P$ P(1
+
+1202875*
+1P3 P(>
+
+1202275*
+1S	 S(
+
+1202875*
+1T	 T(
+
+1205421*
+1V V(
+
+1208075*
+1V V(
+
+1205475*
+1W W(%
+
+1205897*
+1W W(%
+
+1208075*
+1W W(
+
+1205421*
+1W W(
+
+1208075*
+1W W(
+
+12611496*
+1\! \(-
+
+12611496*
+1\< \(S
+
+12611474*
+1\. \(:
+
+12611421*
+1\! \(-
+
+12611474*
+1\T \(^
+
+12611421*
+1\< \(H
+
+12611421*
+1\I \(S

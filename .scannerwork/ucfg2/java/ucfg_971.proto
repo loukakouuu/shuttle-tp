@@ -1,0 +1,115 @@
+
+~com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;j
+`app\src\main\java\com\simplecity\amp_library\ui\screens\tagger\CheckDocumentPermissionsTask.java! !($"startingBlock*¥
+2"M "(Xû
+õ
+	"s "(Ö
+%3"__id*Å
+
+__unknown_file (e*cK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+applicationContextõ
+ò
+
+"á "(ñ
+%4"__id*~
+
+__unknown_file (b*`K
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+settingsManagerô
+ñ
+
+"ò "(•
+%5"__id*|
+
+__unknown_file (`*^K
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+documentFiles°
+û
+
+"ß "(¨
+%6java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+paths†
+ù
+	"M "(≠
+%7"ècom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*2
+
+__unknown_file (
+
+%6java.util.List*
+1*à
+3" "(ù
+ö
+"/ "(A
+%0"__id*Å
+
+__unknown_file (e*cK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+applicationContextü
+ú
+"C "(H
+%1java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+pathsÆ
+´
+" "(I
+%2"gcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+
+%0*2
+
+__unknown_file (
+
+%1java.util.List*
+2
+1*é
+startingBlock!$ !(4è
+å
+   (
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+paramsjava.lang.Void[]\
+Z
+!- !(3
+paramsjava.lang.Void[]"__annotation*"
+
+__unknown_file (
+
+%8*
+3*#
+1	" "(Æ"
+	" "(Æ
+"":(
+!% !(3
+paramsjava.lang.Void[]BMK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask

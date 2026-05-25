@@ -1,0 +1,222 @@
+
+1.0loukakouJavaFrontend"1779719410460*java2.B„
+^
+Yapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java2
+	
+type3
+	
+MAIN4
+
+package6
+*
+%com.simplecity.amp_library.ui.widgets7
+G
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(5:1)-(33:2)14
+
+simple-name15
+"
+WidgetConfigureActivitySmall16
+9
+3Recovered#typeBindingLBaseWidgetConfigureActivity;018
+
+unknown19
+
+extends20
+
+
+uses21
+L
+Fcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall.TAG23
+
+field24
+
+private25
+
+(7:5)-(7:70)26
+	
+TAG27
+]
+Wcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getWidgetLayouts()[I29
+
+method30
+
+	protected31
+
+(9:5)-(12:6)32
+
+getWidgetLayouts33
+n
+hcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getLayoutIdString()Ljava/lang/String;35
+
+(14:5)-(17:6)36
+
+getLayoutIdString37
+s
+mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getUpdateCommandString()Ljava/lang/String;39
+
+(19:5)-(22:6)40
+
+getUpdateCommandString41
+Y
+Scom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getRootViewId()I43
+
+(24:5)-(27:6)44
+
+getRootViewId45
+g
+acom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#screenName()Ljava/lang/String;47
+
+(29:5)-(32:6)48
+
+
+screenName49
+
+
+references50J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j·
+G
+8B
+8910 *
+1 (*:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+38G
+383930 *
+1 ("28:5B$
+
+
+11
+31
+
+
+13
+40
+
+
+15
+41
+M
+28G
+282930 *
+1
+ 
+(28:5B$
+
+
+11
+31
+
+
+13
+32
+
+
+15
+33
+
+17
+171819
+M
+46G
+464730 *
+1 ( 28:5B$
+
+
+11
+31
+
+
+13
+48
+
+
+15
+49
+M
+34G
+343530 *
+1 (28:5B$
+
+
+11
+31
+
+
+13
+36
+
+
+15
+37
+M
+42G
+424330 *
+1	 (28:5B$
+
+
+11
+31
+
+
+13
+44
+
+
+15
+45
+M
+22G
+222324 *
+1! ($28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27rO
+
+81720*
+13 (N
+
+81721*
+13 (N
+
+462250*
+1 (

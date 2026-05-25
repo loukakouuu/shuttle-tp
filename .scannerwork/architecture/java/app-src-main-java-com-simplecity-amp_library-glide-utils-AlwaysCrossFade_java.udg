@@ -1,0 +1,528 @@
+
+1.0loukakouJavaFrontend"1779719398267*java2.B„
+R
+Mapp/src/main/java/com/simplecity/amp_library/glide/utils/AlwaysCrossFade.java2
+	
+type3
+	
+MAIN4
+
+package6
++
+&com.simplecity.amp_library.glide.utils7
+;
+6com.simplecity.amp_library.glide.utils.AlwaysCrossFade9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(10:1)-(60:2)14
+
+simple-name15
+
+AlwaysCrossFade16
+6
+0Recovered#typeBindingLDrawableCrossFadeFactory;018
+
+unknown19
+
+extends20
+
+
+uses21
++
+%Recovered#typeBindingLGlideDrawable;023
+V
+Pcom.simplecity.amp_library.glide.utils.AlwaysCrossFade.transparentImagesPossible25
+
+field26
+
+private27
+
+(11:5)-(11:53)28
+
+transparentImagesPossible29
+G
+Acom.simplecity.amp_library.glide.utils.AlwaysCrossFade#<init>(Z)V31
+
+method32
+
+(19:5)-(22:6)33
+
+calls34
+
+
+references35
+V
+Pcom.simplecity.amp_library.glide.utils.AlwaysCrossFade#build(ZZ)LGlideAnimation;37
+
+(24:5)-(32:6)38
+
+build39
+
+GlideAnimation41
+
+returns42
+,
+&Recovered#typeBindingLGlideAnimation;044
+
+is type45
+
+DrawableCrossFadeFactory47
+S
+Mcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation49
+
+(34:5)-(45:6)50
+
+RealCrossFadeAnimation51
+
+
+implements52
+]
+Wcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation.animation54
+
+(35:9)-(35:63)55
+
+	animation56
+m
+gcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation#<init>(LGlideAnimation;)V58
+
+(37:9)-(39:10)59
+
+	has param60
+z
+tcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation#animate(LGlideDrawable;LViewAdapter;)Z62
+
+(41:9)-(44:10)63
+
+animate64
+)
+#Recovered#typeBindingLViewAdapter;066
+Z
+Tcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$CrossFadeDisablingViewAdapter68
+
+(47:5)-(59:6)69
+#
+CrossFadeDisablingViewAdapter70
+1
++Recovered#typeBindingLWrappingViewAdapter;072
+q
+kcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$CrossFadeDisablingViewAdapter#<init>(LViewAdapter;)V74
+
+(48:9)-(50:10)75
+s
+mcom.simplecity.amp_library.glide.utils.AlwaysCrossFade$CrossFadeDisablingViewAdapter#setDrawable(LDrawable;)V77
+
+(52:9)-(58:10)78
+
+setDrawable79
+&
+ Recovered#typeBindingLDrawable;081
+0
+*Recovered#typeBindingLTransitionDrawable;083
+
+WrappingViewAdapter85J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j¬
+M
+24G
+242526 *
+1 (428:5B$
+
+
+11
+27
+
+
+13
+28
+
+
+15
+29
+M
+48G
+484910 *
+1" "(028:5B$
+
+
+11
+27
+
+
+13
+50
+
+
+15
+51
+
+84
+848519
+N
+61H
+616232 *
+1* *(248:5B$
+
+
+11
+12
+
+
+13
+63
+
+
+15
+64
+
+17
+171819
+
+65
+656619
+M
+67G
+676810 *
+1/ /(728:5B$
+
+
+11
+27
+
+
+13
+69
+
+
+15
+70
+
+46
+464719
+N
+53H
+535426 *
+1#5 #(>248:5B$
+
+
+11
+27
+
+
+13
+55
+
+
+15
+56
+N
+73H
+737432 *
+10 0(-267:5B$
+
+
+11
+12
+
+
+13
+75
+
+
+15
+70
+
+40
+404119
+N
+76H
+767732 *
+15 5( 267:5B$
+
+
+11
+12
+
+
+13
+78
+
+
+15
+79
+M
+30G
+303132 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+33
+
+
+15
+16
+N
+57H
+575832 *
+1% %(&248:5B$
+
+
+11
+12
+
+
+13
+59
+
+
+15
+51
+
+43
+434419
+
+22
+222319
+
+71
+717219
+M
+36G
+363732 *
+1* (/28:5B$
+
+
+11
+12
+
+
+13
+38
+
+
+15
+39
+
+80
+808119
+G
+8B
+8910 *
+1
+ 
+(:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+82
+828319r–
+
+81720*
+1
+& 
+(M
+
+81721*
+1
+& 
+(>
+
+82221*
+1
+? 
+(L
+
+30834*
+1 (
+
+30821*
+1	 (
+
+30835*
+1	 (
+
+302435*
+1 ('
+
+364042*
+1 ()
+
+364021*
+1 (
+
+362221*
+1 ((
+
+364345*
+1' (0
+
+364321*
+1	 (
+
+362221*
+1 (%
+
+36835*
+13 (8
+
+364621*
+13 (8
+
+36835*
+13 (8
+
+362435*
+1 ('
+
+364834*
+1 (3
+
+484352*
+1"< "(Y
+
+484321*
+1"< "(J
+
+482221*
+1"K "(X
+
+534045*
+1# #(4
+
+534021*
+1# #(%
+
+532221*
+1#& #(3
+
+534021*
+1#5 #(>
+
+574360*
+1%' %(D
+
+574834*
+1% %(&
+
+574345*
+1%E %(N
+
+574321*
+1%' %(5
+
+572221*
+1%6 %(C
+
+574821*
+1& &(
+
+574835*
+1& &(
+
+574021*
+1& &(
+
+575335*
+1& &(
+
+612260*
+1*  *(-
+
+616560*
+1*= *(H
+
+612245*
+1*. *(5
+
+612221*
+1*  *(-
+
+616545*
+1*I *(P
+
+616521*
+1*= *(H
+
+615335*
+1+ +(
+
+614021*
+1+ +(
+
+615335*
+1+ +(
+
+616734*
+1+3 +(P
+
+677120*
+1/@ /(S
+
+677121*
+1/@ /(S
+
+736560*
+10. 0(9
+
+736734*
+10 0(-
+
+736545*
+10: 0(A
+
+736521*
+10. 0(9
+
+768060*
+15! 5()
+
+768045*
+15* 5(2
+
+768021*
+15! 5()
+
+768221*
+16% 6(7
+
+768221*
+17 7(%
+
+766735*
+19 9(
+
+768421*
+19 9(
+
+766735*
+19 9(

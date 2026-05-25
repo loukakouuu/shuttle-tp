@@ -1,0 +1,805 @@
+
+1.0loukakouJavaFrontend"1779719393282*java2.B∂ 
+K
+Fapp/src/main/java/com/simplecity/amp_library/ui/adapters/ViewType.java2
+	
+type3
+	
+MAIN4
+
+package6
++
+&com.simplecity.amp_library.ui.adapters7
+4
+/com.simplecity.amp_library.ui.adapters.ViewType9
+
+
+annotation10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(58:2)14
+
+simple-name15
+
+ViewType16
+;
+5com.simplecity.amp_library.ui.adapters.ViewType.GENRE18
+
+field19
+
+(5:5)-(5:19)20
+
+GENRE21
+:
+4com.simplecity.amp_library.ui.adapters.ViewType.SONG23
+
+(6:5)-(6:18)24
+
+
+SONG25
+>
+8com.simplecity.amp_library.ui.adapters.ViewType.PLAYLIST27
+
+(7:5)-(7:22)28
+
+PLAYLIST29
+D
+>com.simplecity.amp_library.ui.adapters.ViewType.SUGGESTED_SONG31
+
+(8:5)-(8:28)32
+
+SUGGESTED_SONG33
+F
+@com.simplecity.amp_library.ui.adapters.ViewType.SUGGESTED_HEADER35
+
+(9:5)-(9:30)36
+
+SUGGESTED_HEADER37
+M
+Gcom.simplecity.amp_library.ui.adapters.ViewType.HORIZONTAL_RECYCLERVIEW39
+
+(10:5)-(10:37)40
+
+HORIZONTAL_RECYCLERVIEW41
+A
+;com.simplecity.amp_library.ui.adapters.ViewType.ARTIST_LIST43
+
+(12:5)-(12:25)44
+
+ARTIST_LIST45
+G
+Acom.simplecity.amp_library.ui.adapters.ViewType.ARTIST_LIST_SMALL47
+
+(13:5)-(13:31)48
+
+ARTIST_LIST_SMALL49
+A
+;com.simplecity.amp_library.ui.adapters.ViewType.ARTIST_CARD51
+
+(14:5)-(14:25)52
+
+ARTIST_CARD53
+G
+Acom.simplecity.amp_library.ui.adapters.ViewType.ARTIST_CARD_LARGE55
+
+(15:5)-(15:31)56
+
+ARTIST_CARD_LARGE57
+D
+>com.simplecity.amp_library.ui.adapters.ViewType.ARTIST_PALETTE59
+
+(16:5)-(16:29)60
+
+ARTIST_PALETTE61
+A
+;com.simplecity.amp_library.ui.adapters.ViewType.ARTIST_GRID63
+
+(17:5)-(17:26)64
+
+ARTIST_GRID65
+@
+:com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_LIST67
+
+(19:5)-(19:25)68
+
+
+ALBUM_LIST69
+F
+@com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_LIST_SMALL71
+
+(20:5)-(20:31)72
+
+ALBUM_LIST_SMALL73
+@
+:com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_CARD75
+
+(21:5)-(21:25)76
+
+
+ALBUM_CARD77
+F
+@com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_CARD_LARGE79
+
+(22:5)-(22:31)80
+
+ALBUM_CARD_LARGE81
+C
+=com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_PALETTE83
+
+(23:5)-(23:28)84
+
+ALBUM_PALETTE85
+@
+:com.simplecity.amp_library.ui.adapters.ViewType.ALBUM_GRID87
+
+(24:5)-(24:25)88
+
+
+ALBUM_GRID89
+=
+7com.simplecity.amp_library.ui.adapters.ViewType.SHUFFLE91
+
+(26:5)-(26:22)92
+
+SHUFFLE93
+?
+9com.simplecity.amp_library.ui.adapters.ViewType.INCL_EXCL95
+
+(28:5)-(28:24)96
+
+	INCL_EXCL97
+;
+5com.simplecity.amp_library.ui.adapters.ViewType.EMPTY99
+
+(30:5)-(30:20)100
+
+EMPTY101
+B
+;com.simplecity.amp_library.ui.adapters.ViewType.BREADCRUMBS103
+
+(32:5)-(32:26)104
+
+BREADCRUMBS105
+=
+6com.simplecity.amp_library.ui.adapters.ViewType.FOLDER107
+
+(34:5)-(34:21)108
+
+FOLDER109
+:
+3com.simplecity.amp_library.ui.adapters.ViewType.TAB111
+
+(36:5)-(36:18)112
+
+
+TAB113
+<
+5com.simplecity.amp_library.ui.adapters.ViewType.COLOR115
+
+(38:5)-(38:20)116
+
+COLOR117
+D
+=com.simplecity.amp_library.ui.adapters.ViewType.DETAIL_HEADER119
+
+(40:5)-(40:28)120
+
+DETAIL_HEADER121
+D
+=com.simplecity.amp_library.ui.adapters.ViewType.SEARCH_HEADER123
+
+(42:5)-(42:28)124
+
+SEARCH_HEADER125
+=
+6com.simplecity.amp_library.ui.adapters.ViewType.SEARCH127
+
+(43:5)-(43:21)128
+
+SEARCH129
+>
+7com.simplecity.amp_library.ui.adapters.ViewType.ARTWORK131
+
+(45:5)-(45:22)132
+
+ARTWORK133
+>
+7com.simplecity.amp_library.ui.adapters.ViewType.LOADING135
+
+(47:5)-(47:22)136
+
+LOADING137
+D
+=com.simplecity.amp_library.ui.adapters.ViewType.SONG_EDITABLE139
+
+(49:5)-(49:28)140
+
+SONG_EDITABLE141
+B
+;com.simplecity.amp_library.ui.adapters.ViewType.DISC_NUMBER143
+
+(51:5)-(51:26)144
+
+DISC_NUMBER145
+G
+@com.simplecity.amp_library.ui.adapters.ViewType.QUEUE_PAGER_ITEM147
+
+(53:5)-(53:31)148
+
+QUEUE_PAGER_ITEM149
+@
+9com.simplecity.amp_library.ui.adapters.ViewType.SUBHEADER151
+
+(55:5)-(55:24)152
+
+	SUBHEADER153
+E
+>com.simplecity.amp_library.ui.adapters.ViewType.SHUFFLE_ALBUMS155
+
+(57:5)-(57:29)156
+
+SHUFFLE_ALBUMS157J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jﬁ
+R
+106K
+10610719 *
+1"	 "(28:5B&
+
+
+11
+12
+
+13
+108
+
+15
+109
+R
+114K
+11411519 *
+1&	 &(28:5B&
+
+
+11
+12
+
+13
+116
+
+15
+117
+R
+138K
+13813919 *
+11	 1(28:5B&
+
+
+11
+12
+
+13
+140
+
+15
+141
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+26G
+262719 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+28
+
+
+15
+29
+M
+58G
+585919 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+60
+
+
+15
+61
+M
+82G
+828319 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+84
+
+
+15
+85
+M
+78G
+787919 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+R
+110K
+11011119 *
+1$	 $(28:5B&
+
+
+11
+12
+
+13
+112
+
+15
+113
+M
+46G
+464719 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+48
+
+
+15
+49
+R
+102K
+10210319 *
+1 	  (28:5B&
+
+
+11
+12
+
+13
+104
+
+15
+105
+M
+22G
+222319 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+24
+
+
+15
+25
+M
+42G
+424319 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+M
+90G
+909119 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+92
+
+
+15
+93
+R
+150K
+15015119 *
+17	 7(28:5B&
+
+
+11
+12
+
+13
+152
+
+15
+153
+M
+38G
+383919 *
+1
+	 
+( 28:5B$
+
+
+11
+12
+
+
+13
+40
+
+
+15
+41
+M
+70G
+707119 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+72
+
+
+15
+73
+M
+86G
+868719 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+88
+
+
+15
+89
+R
+130K
+13013119 *
+1-	 -(28:5B&
+
+
+11
+12
+
+13
+132
+
+15
+133
+M
+54G
+545519 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+56
+
+
+15
+57
+O
+98I
+989919 *
+1	 (28:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+M
+74G
+747519 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+76
+
+
+15
+77
+R
+154K
+15415519 *
+19	 9(28:5B&
+
+
+11
+12
+
+13
+156
+
+15
+157
+R
+126K
+12612719 *
+1+	 +(28:5B&
+
+
+11
+12
+
+13
+128
+
+15
+129
+R
+134K
+13413519 *
+1/	 /(28:5B&
+
+
+11
+12
+
+13
+136
+
+15
+137
+M
+94G
+949519 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+96
+
+
+15
+97
+M
+17G
+171819 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21
+M
+34G
+343519 *
+1		 	(28:5B$
+
+
+11
+12
+
+
+13
+36
+
+
+15
+37
+R
+118K
+11811919 *
+1(	 ((28:5B&
+
+
+11
+12
+
+13
+120
+
+15
+121
+M
+50G
+505119 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+52
+
+
+15
+53
+R
+142K
+14214319 *
+13	 3(28:5B&
+
+
+11
+12
+
+13
+144
+
+15
+145
+R
+122K
+12212319 *
+1*	 *(28:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+R
+146K
+14614719 *
+15	 5(28:5B&
+
+
+11
+12
+
+13
+148
+
+15
+149
+M
+30G
+303119 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+32
+
+
+15
+33
+M
+66G
+666719 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+68
+
+
+15
+69
+M
+62G
+626319 *
+1	 (28:5B$
+
+
+11
+12
+
+
+13
+64
+
+
+15
+65

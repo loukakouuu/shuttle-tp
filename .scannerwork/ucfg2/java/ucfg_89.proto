@@ -1,0 +1,53 @@
+
+^android.support.design.widget.CustomCollapsingToolbarLayout#getTitle()Ljava/lang/CharSequence;^
+Rapp\src\main\java\android\support\design\widget\CustomCollapsingToolbarLayout.javaâ â( "4*`
+2
+ãK ã(OJ
+H
+
+ãK ã(O
+%1"__id*.
+
+__unknown_file (
+
+%3
+<nulltype>*
+1*ê
+3
+ã) ã(>“
+
+
+ã) ã(>
+%4"__id*v
+
+__unknown_file (Z*X=
+;android.support.design.widget.CustomCollapsingToolbarLayout"
+mCollapsingTextHelper>
+<
+
+ã) ã(H
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*¸
+4
+ã ã(&ž
+›
+
+ã ã(&
+%0boolean"__id*x
+
+__unknown_file (\*Z=
+;android.support.design.widget.CustomCollapsingToolbarLayout"
+mCollapsingTitleEnabled*
+2
+3*%
+1
+ã ã(P"
+
+ã ã(P
+
+%1B?=
+;android.support.design.widget.CustomCollapsingToolbarLayoutH

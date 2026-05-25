@@ -1,0 +1,341 @@
+
+1.0loukakouJavaFrontend"1779719400660*java2.Bé
+
+N
+Iapp/src/main/java/com/simplecity/amp_library/glide/loader/TypeLoader.java2
+	
+type3
+	
+MAIN4
+
+package6
+,
+'com.simplecity.amp_library.glide.loader7
+7
+2com.simplecity.amp_library.glide.loader.TypeLoader9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(11:1)-(32:2)14
+
+simple-name15
+
+
+TypeLoader16
+)
+#Recovered#typeBindingLModelLoader;018
+
+unknown19
+
+
+implements20
+
+
+uses21
+-
+'Recovered#typeBindingLArtworkProvider;023
+<
+6com.simplecity.amp_library.glide.loader.TypeLoader.TAG25
+
+field26
+
+private27
+
+(13:5)-(13:60)28
+	
+TAG29
+K
+Ecom.simplecity.amp_library.glide.loader.TypeLoader.applicationContext31
+
+(15:5)-(15:40)32
+
+applicationContext33
+
+Context35
+
+is type36
+=
+7com.simplecity.amp_library.glide.loader.TypeLoader.type38
+
+(17:5)-(18:22)39
+
+ArtworkProvider.Type41
+
+annotated by42
+=
+7com.simplecity.amp_library.glide.loader.TypeLoader.file44
+
+(20:5)-(20:23)45
+
+
+file46
+Z
+Tcom.simplecity.amp_library.glide.loader.TypeLoader#<init>(LContext;ILjava/io/File;)V48
+
+method49
+
+(22:5)-(26:6)50
+%
+Recovered#typeBindingLContext;052
+
+	has param53
+
+calls54
+
+
+references55
+m
+gcom.simplecity.amp_library.glide.loader.TypeLoader#getResourceFetcher(LArtworkProvider;II)LDataFetcher;57
+
+(28:5)-(31:6)58
+
+getResourceFetcher59
+
+DataFetcher61
+
+returns62J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jš
+
+34
+343519
+
+51
+515219
+M
+47G
+474849 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+50
+
+
+15
+16
+
+17
+171819
+
+22
+222319
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+L
+37F
+373826 *
+1 (28:5B#
+
+
+11
+27
+
+
+13
+39
+	
+15
+3
+M
+43G
+434426 *
+1 (28:5B$
+
+
+11
+27
+
+
+13
+45
+
+
+15
+46
+M
+24G
+242526 *
+1! ($28:5B$
+
+
+11
+27
+
+
+13
+28
+
+
+15
+29
+M
+56G
+565749 *
+1% (728:5B$
+
+
+11
+12
+
+
+13
+58
+
+
+15
+59
+M
+30G
+303126 *
+1 ('28:5B$
+
+
+11
+27
+
+
+13
+32
+
+
+15
+33
+
+40
+404119
+
+60
+606119ró
+
+81720*
+1$ (M
+
+81721*
+1$ (/
+
+82221*
+10 (?
+
+303436*
+1 (
+
+303421*
+1 (
+
+303421*
+1 ('
+
+374042*
+1 (
+
+372221*
+1 (
+
+372221*
+1 (
+
+475153*
+1 (
+
+47854*
+1 (
+
+475136*
+1 (&
+
+475121*
+1 (
+
+474042*
+1( (=
+
+472221*
+1) (8
+
+472221*
+19 (=
+
+473421*
+1	 (
+
+473055*
+1	 (
+
+47821*
+1	 (
+
+47855*
+1	 (
+
+473755*
+1 (
+
+47821*
+1	 (
+
+47855*
+1	 (
+
+474355*
+1 (
+
+566062*
+1 ($
+
+562253*
+18 (G
+
+566021*
+1 (
+
+562236*
+1H (M
+
+562221*
+18 (G
+
+563421*
+1  (2
+
+563055*
+1  (2
+
+563755*
+1; (?
+
+564355*
+1A (E

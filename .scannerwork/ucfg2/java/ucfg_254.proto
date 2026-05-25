@@ -1,0 +1,71 @@
+
+|com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;d
+Xapp\src\main\java\com\simplecity\amp_library\ui\widgets\BaseWidgetConfigureActivity.java• •(("startingBlock*˙
+startingBlock
+•( •(6Ñ
+Å
+
+§ §(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*-
+
+__unknown_file (
+
+positionintQ
+O
+
+•- •(5
+positionint"__annotation*"
+
+__unknown_file (
+
+%3*
+1*“
+1
+¶ ¶(p
+n
+
+¶. ¶(:	
+%0int"__calculate*
+
+¶7 ¶(8
++*
+
+¶. ¶(6
+
+positionint*
+
+¶9 ¶(:2±
+Æ
+
+¶ ¶(;
+%1java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*'
+
+__unknown_file (
+	
+%0ints
+q
+
+¶ ¶(;
+%2java.lang.String"__concat*
+
+¶ ¶(	
+Layout *&
+
+¶ ¶(;
+
+%1java.lang.String"&
+
+¶ ¶(<
+
+%2java.lang.String:
+
+•) •(5
+positionintBXV
+Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapterH

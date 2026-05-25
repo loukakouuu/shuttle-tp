@@ -1,0 +1,168 @@
+
+1.0loukakouJavaFrontend"1779719410378*java2.B¶
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/TimeLogger.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+0
++com.simplecity.amp_library.utils.TimeLogger9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(5:1)-(36:2)14
+
+simple-name15
+
+
+TimeLogger16
+=
+7com.simplecity.amp_library.utils.TimeLogger.initialTime18
+
+field19
+
+private20
+
+(7:5)-(7:30)21
+
+initialTime22
+>
+8com.simplecity.amp_library.utils.TimeLogger.intervalTime24
+
+(8:5)-(8:31)25
+
+intervalTime26
+=
+7com.simplecity.amp_library.utils.TimeLogger#startLog()V28
+
+method29
+
+(14:5)-(17:6)30
+
+startLog31
+
+
+references32
+d
+^com.simplecity.amp_library.utils.TimeLogger#logInterval(Ljava/lang/String;Ljava/lang/String;)V34
+
+(28:5)-(35:6)35
+
+logInterval36J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j…
+M
+23G
+232419 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+25
+
+
+15
+26
+M
+33G
+333429 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+35
+
+
+15
+36
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+M
+27G
+272829 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+30
+
+
+15
+31
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16r‡
+
+271732*
+1	 (
+
+272332*
+1	 (
+
+332332*
+1C (O
+
+331732*
+1 @  (K
+
+332332*
+1"	 "(

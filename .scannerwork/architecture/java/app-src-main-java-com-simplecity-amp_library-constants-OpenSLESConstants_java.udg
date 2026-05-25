@@ -1,0 +1,598 @@
+
+1.0loukakouJavaFrontend"1779719405675*java2.B·
+R
+Mapp/src/main/java/com/simplecity/amp_library/constants/OpenSLESConstants.java2
+	
+type3
+	
+MAIN4
+
+package6
+)
+$com.simplecity.amp_library.constants7
+;
+6com.simplecity.amp_library.constants.OpenSLESConstants9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(21:1)-(123:2)14
+
+simple-name15
+
+OpenSLESConstants16
+F
+@com.simplecity.amp_library.constants.OpenSLESConstants#<init>()V18
+
+method19
+
+private20
+
+(22:5)-(24:6)21
+
+calls22
+L
+Fcom.simplecity.amp_library.constants.OpenSLESConstants.SL_MILLIBEL_MIN24
+
+field25
+
+(29:5)-(29:55)26
+
+SL_MILLIBEL_MIN27
+S
+Mcom.simplecity.amp_library.constants.OpenSLESConstants.SL_EQUALIZER_UNDEFINED29
+
+(33:5)-(33:71)30
+
+SL_EQUALIZER_UNDEFINED31
+S
+Mcom.simplecity.amp_library.constants.OpenSLESConstants.BASSBOOST_MIN_STRENGTH33
+
+(38:5)-(38:58)34
+
+BASSBOOST_MIN_STRENGTH35
+S
+Mcom.simplecity.amp_library.constants.OpenSLESConstants.BASSBOOST_MAX_STRENGTH37
+
+(42:5)-(42:61)38
+
+BASSBOOST_MAX_STRENGTH39
+R
+Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_ROOM_LEVEL41
+
+(47:5)-(47:71)42
+
+REVERB_MIN_ROOM_LEVEL43
+
+
+references44
+R
+Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_ROOM_LEVEL46
+
+(51:5)-(51:57)47
+
+REVERB_MAX_ROOM_LEVEL48
+U
+Ocom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_ROOM_HF_LEVEL50
+
+(55:5)-(55:74)51
+
+REVERB_MIN_ROOM_HF_LEVEL52
+U
+Ocom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_ROOM_HF_LEVEL54
+
+(59:5)-(59:60)55
+
+REVERB_MAX_ROOM_HF_LEVEL56
+R
+Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DECAY_TIME58
+
+(63:5)-(63:59)59
+
+REVERB_MIN_DECAY_TIME60
+R
+Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DECAY_TIME62
+
+(68:5)-(68:60)63
+
+REVERB_MAX_DECAY_TIME64
+V
+Pcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DECAY_HF_RATIO66
+
+(72:5)-(72:63)67
+
+REVERB_MIN_DECAY_HF_RATIO68
+V
+Pcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DECAY_HF_RATIO70
+
+(76:5)-(76:64)71
+
+REVERB_MAX_DECAY_HF_RATIO72
+T
+Ncom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_REVERB_LEVEL74
+
+(80:5)-(80:73)75
+
+REVERB_MIN_REVERB_LEVEL76
+T
+Ncom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_REVERB_LEVEL78
+
+(84:5)-(84:62)79
+
+REVERB_MAX_REVERB_LEVEL80
+Q
+Kcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DIFFUSION82
+
+(88:5)-(88:56)83
+
+REVERB_MIN_DIFFUSION84
+Q
+Kcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DIFFUSION86
+
+(92:5)-(92:59)87
+
+REVERB_MAX_DIFFUSION88
+O
+Icom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DENSITY90
+
+(96:5)-(96:54)91
+
+REVERB_MIN_DENSITY92
+O
+Icom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DENSITY94
+
+(100:5)-(100:57)95
+
+REVERB_MAX_DENSITY96
+U
+Ocom.simplecity.amp_library.constants.OpenSLESConstants.VIRTUALIZER_MIN_STRENGTH98
+
+(105:5)-(105:60)99
+
+VIRTUALIZER_MIN_STRENGTH100
+V
+Ocom.simplecity.amp_library.constants.OpenSLESConstants.VIRTUALIZER_MAX_STRENGTH102
+
+(109:5)-(109:63)103
+
+VIRTUALIZER_MAX_STRENGTH104
+N
+Gcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MIN_LEVEL106
+
+(114:5)-(114:66)107
+
+VOLUME_MIN_LEVEL108
+X
+Qcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MIN_STEREO_POSITION110
+
+(118:5)-(118:66)111
+!
+VOLUME_MIN_STEREO_POSITION112
+X
+Qcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MAX_STEREO_POSITION114
+
+(122:5)-(122:65)115
+!
+VOLUME_MAX_STEREO_POSITION116J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j∆
+M
+23G
+232425 *
+1 (.28:5B$
+
+
+11
+12
+
+
+13
+26
+
+
+15
+27
+M
+61G
+616225 *
+1D D(428:5B$
+
+
+11
+12
+
+
+13
+63
+
+
+15
+64
+M
+81G
+818225 *
+1X X(328:5B$
+
+
+11
+12
+
+
+13
+83
+
+
+15
+84
+M
+53G
+535425 *
+1; ;(728:5B$
+
+
+11
+12
+
+
+13
+55
+
+
+15
+56
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+16
+M
+57G
+575825 *
+1? ?(428:5B$
+
+
+11
+12
+
+
+13
+59
+
+
+15
+60
+M
+36G
+363725 *
+1* *(528:5B$
+
+
+11
+12
+
+
+13
+38
+
+
+15
+39
+N
+97H
+979825 *
+1i i(728:5B%
+
+
+11
+12
+
+
+13
+99
+
+15
+100
+M
+28G
+282925 *
+1! !(528:5B$
+
+
+11
+12
+
+
+13
+30
+
+
+15
+31
+M
+49G
+495025 *
+17 7(728:5B$
+
+
+11
+12
+
+
+13
+51
+
+
+15
+52
+M
+85G
+858625 *
+1\ \(328:5B$
+
+
+11
+12
+
+
+13
+87
+
+
+15
+88
+R
+101K
+10110225 *
+1m m(728:5B&
+
+
+11
+12
+
+13
+103
+
+15
+104
+R
+109K
+10911025 *
+1v v(928:5B&
+
+
+11
+12
+
+13
+111
+
+15
+112
+G
+8B
+8910 *
+1 (%:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+69G
+697025 *
+1L L(828:5B$
+
+
+11
+12
+
+
+13
+71
+
+
+15
+72
+M
+32G
+323325 *
+1& &(528:5B$
+
+
+11
+12
+
+
+13
+34
+
+
+15
+35
+R
+105K
+10510625 *
+1r r(/28:5B&
+
+
+11
+12
+
+13
+107
+
+15
+108
+M
+73G
+737425 *
+1P P(628:5B$
+
+
+11
+12
+
+
+13
+75
+
+
+15
+76
+M
+77G
+777825 *
+1T T(628:5B$
+
+
+11
+12
+
+
+13
+79
+
+
+15
+80
+M
+65G
+656625 *
+1H H(828:5B$
+
+
+11
+12
+
+
+13
+67
+
+
+15
+68
+M
+89G
+899025 *
+1` `(128:5B$
+
+
+11
+12
+
+
+13
+91
+
+
+15
+92
+M
+93G
+939425 *
+1d d(128:5B$
+
+
+11
+12
+
+
+13
+95
+
+
+15
+96
+M
+45G
+454625 *
+13 3(428:5B$
+
+
+11
+12
+
+
+13
+47
+
+
+15
+48
+M
+40G
+404125 *
+1/ /(428:5B$
+
+
+11
+12
+
+
+13
+42
+
+
+15
+43
+R
+113K
+11311425 *
+1z z(928:5B&
+
+
+11
+12
+
+13
+115
+
+15
+116rá
+
+17822*
+1 (
+
+402344*
+1/7 /(F
+
+492344*
+17: 7(I
+
+732344*
+1P9 P(H
+
+1052344*
+1r2 r(A

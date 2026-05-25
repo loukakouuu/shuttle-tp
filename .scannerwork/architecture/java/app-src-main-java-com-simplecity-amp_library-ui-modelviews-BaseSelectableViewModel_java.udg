@@ -1,0 +1,345 @@
+
+1.0loukakouJavaFrontend"1779719393096*java2.Bˆ
+\
+Wapp/src/main/java/com/simplecity/amp_library/ui/modelviews/BaseSelectableViewModel.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.ui.modelviews7
+E
+@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(8:1)-(47:2)14
+
+simple-name15
+
+BaseSelectableViewModel16
++
+%Recovered#typeBindingLBaseViewModel;018
+
+unknown19
+
+extends20
+1
++Recovered#typeBindingLSelectableViewModel;022
+
+
+implements23
+
+BaseViewHolder25
+
+	has param26
+
+VH28
+
+
+uses29
+Q
+Kcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel.isSelected31
+
+field32
+
+private33
+
+(10:5)-(10:40)34
+
+
+isSelected35
+V
+Pcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#setSelected(Z)V37
+
+method38
+
+(12:5)-(15:6)39
+
+setSelected40
+
+
+references41
+T
+Ncom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#isSelected()Z43
+
+(17:5)-(20:6)44
+b
+\com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#bindView(LBaseViewHolder;)V46
+
+(22:5)-(28:6)47
+
+bindView48
+
+	CallSuper50
+
+annotated by51
+'
+!Recovered#typeBindingLCallSuper;053
+
+is type54
+
+BaseViewModel56
+s
+mcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#bindView(LBaseViewHolder;ILjava/util/List;)V58
+
+(30:5)-(36:6)59
+l
+fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqual(Ljava/lang/Object;)Z61
+
+(38:5)-(46:6)62
+
+areContentsEqual63J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j¯
+
+24
+242519
+M
+42G
+424338 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+35
+M
+60G
+606138 *
+1' '($28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+G
+8B
+8910 *
+1 (.:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+21
+212219
+
+52
+525319
+
+55
+555619
+M
+30G
+303132 *
+1
+ 
+(28:5B$
+
+
+11
+33
+
+
+13
+34
+
+
+15
+35
+M
+36G
+363738 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+39
+
+
+15
+40
+
+27
+272819
+
+49
+495019
+
+17
+171819
+M
+45G
+454638 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+47
+
+
+15
+48
+M
+57G
+575838 *
+1   (28:5B$
+
+
+11
+12
+
+
+13
+59
+
+
+15
+48rî
+
+81720*
+1R (c
+
+82123*
+1o (‚
+
+82426*
+1: (H
+
+82729*
+1/ (1
+
+82429*
+1: (H
+
+81729*
+1R (_
+
+82729*
+1` (b
+
+82129*
+1o (‚
+
+363041*
+1	 (
+
+423041*
+1 (
+
+452726*
+1 (
+
+454951*
+1 (
+
+455229*
+1 (
+
+452754*
+1 (#
+
+452729*
+1 (
+
+45841*
+1	 (
+
+455529*
+1	 (
+
+45841*
+1	 (
+
+453041*
+1& (0
+
+572726*
+1   (
+
+574951*
+1 (
+
+575229*
+1 (
+
+572754*
+1   (#
+
+572729*
+1   (
+
+57841*
+1!	 !(
+
+575529*
+1!	 !(
+
+57841*
+1!	 !(
+
+573041*
+1#& #(0
+
+60829*
+1( ((
+
+60841*
+1( ((
+
+60854*
+1+! +(%
+
+603041*
+1- -(
+
+603041*
+1-# -(-

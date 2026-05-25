@@ -1,0 +1,248 @@
+
+Jandroid.support.design.widget.CustomCollapsingTextHelper#blendColors(IIF)I[
+Oapp\src\main\java\android\support\design\widget\CustomCollapsingTextHelper.javaŒ Œ(""1*¬
+1
+# (%s
+q
+
+# (-
+%0float"__calculate*
+
+& ('
+-*
+
+# (%
+""*
+
+( (-
+
+ratiofloatV
+T
+
+ (.
+inverseRatiofloat"__id*)
+
+__unknown_file (
+
+%0floats
+q
+
+Ž Ž(5
+%1"__calculate*
+
+Ž' Ž((
+**
+
+Ž Ž(&
+""*%
+
+Ž) Ž(5
+
+inverseRatiofloatl
+j
+
+Ž: Ž(U
+%2"__calculate*
+
+ŽN Ž(O
+**
+
+Ž: Ž(M
+""*
+
+ŽP Ž(U
+
+ratiofloatb
+`
+
+Ž Ž(V
+%3"__calculate*
+
+Ž7 Ž(8
++*
+
+Ž Ž(6
+
+%1*
+
+Ž9 Ž(V
+
+%2D
+B
+
+Ž Ž(W
+
+afloat"__id*"
+
+__unknown_file (
+
+%3s
+q
+
+ (3
+%4"__calculate*
+
+% (&
+**
+
+ ($
+""*%
+
+' (3
+
+inverseRatiofloatl
+j
+
+8 (Q
+%5"__calculate*
+
+J (K
+**
+
+8 (I
+""*
+
+L (Q
+
+ratiofloatb
+`
+
+ (R
+%6"__calculate*
+
+5 (6
++*
+
+ (4
+
+%4*
+
+7 (R
+
+%5D
+B
+
+ (S
+
+rfloat"__id*"
+
+__unknown_file (
+
+%6s
+q
+
+ (5
+%7"__calculate*
+
+' ((
+**
+
+ (&
+""*%
+
+) (5
+
+inverseRatiofloatl
+j
+
+: (U
+%8"__calculate*
+
+N (O
+**
+
+: (M
+""*
+
+P (U
+
+ratiofloatb
+`
+
+ (V
+%9"__calculate*
+
+7 (8
++*
+
+ (6
+
+%7*
+
+9 (V
+
+%8D
+B
+
+ (W
+
+gfloat"__id*"
+
+__unknown_file (
+
+%9t
+r
+
+‘ ‘(4
+%10"__calculate*
+
+‘& ‘('
+**
+
+‘ ‘(%
+""*%
+
+‘( ‘(4
+
+inverseRatiofloatm
+k
+
+‘9 ‘(S
+%11"__calculate*
+
+‘L ‘(M
+**
+
+‘9 ‘(K
+""*
+
+‘N ‘(S
+
+ratiofloate
+c
+
+‘ ‘(T
+%12"__calculate*
+
+‘6 ‘(7
++*
+
+‘ ‘(5
+
+%10*
+
+‘8 ‘(T
+
+%11E
+C
+
+‘ ‘(U
+
+bfloat"__id*#
+
+__unknown_file (
+
+%12"
+
+’ ’(>
+"":
+
+Œ# Œ(.
+color1int:
+
+Œ/ Œ(:
+color2int:
+
+Œ; Œ(F
+ratiofloatB<":
+8android.support.design.widget.CustomCollapsingTextHelperX

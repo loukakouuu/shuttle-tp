@@ -1,0 +1,25 @@
+
+?com.simplecity.amp_library.model.AlbumArtist#%field_initializerM
+Capp\src\main\java\com\simplecity\amp_library\model\AlbumArtist.java ("1*ò
+1
+__unknown_file (<:
+$ (/
+%0java.util.ArrayList"java.util.ArrayListj
+h
+  (1
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayListˆ
+…
+ (2:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albums"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList"
+ ¤(
+implicit returnB0.
+,com.simplecity.amp_library.model.AlbumArtist

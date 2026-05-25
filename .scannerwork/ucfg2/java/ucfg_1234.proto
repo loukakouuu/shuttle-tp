@@ -1,0 +1,55 @@
+
+Xcom.jp.wasabeef.glide.transformations.CropSquareTransformation#getId()Ljava/lang/String;_
+Uapp\src\main\java\com\jp\wasabeef\glide\transformations\CropSquareTransformation.java= =("1*‘
+1> >(0Š
+‡
+>3 >(9	
+%0int"__id*j
+
+__unknown_file (N*L@
+>com.jp.wasabeef.glide.transformations.CropSquareTransformation"
+mWidthx
+v
+> >(9
+%1java.lang.String"__concat*/
+> >(0#!
+CropSquareTransformation(width=*
+>3 >(9
+	
+%0into
+m
+> >(G
+%2java.lang.String"__concat*$
+> >(9
+
+%1java.lang.String*
+>< >(G
+	, height=‹
+ˆ
+>J >(Q	
+%3int"__id*k
+
+__unknown_file (O*M@
+>com.jp.wasabeef.glide.transformations.CropSquareTransformation"	
+mHeightm
+k
+> >(Q
+%4java.lang.String"__concat*$
+> >(G
+
+%2java.lang.String*
+>J >(Q
+	
+%3intg
+e
+> >(W
+%5java.lang.String"__concat*$
+> >(Q
+
+%4java.lang.String*
+>T >(W
+)"$
+> >(X
+
+%5java.lang.StringBB@
+>com.jp.wasabeef.glide.transformations.CropSquareTransformationH

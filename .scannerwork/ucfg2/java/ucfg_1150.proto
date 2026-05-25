@@ -1,0 +1,57 @@
+
+<com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)IL
+Bapp\src\main\java\com\simplecity\amp_library\utils\ColorUtils.java (!"1* 
+1 (e
+c
+ (:
+%0"__calculate*
+2 (3
+**
+ (1
+""*
+4 (:
+
+factorfloat€
+~
+ (;
+%1"java.lang.Math#round(F)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+
+%0D
+B
+ (<
+alphaint"__id*"
+
+__unknown_file (
+
+%1B
+@
+ (#
+
+redint"__id*"
+
+__unknown_file (
+""D
+B
+ ('
+greenint"__id*"
+
+__unknown_file (
+""C
+A
+ (%
+blueint"__id*"
+
+__unknown_file (
+"""
+ (3
+"":
+" (,
+colorint:
+- (9
+factorfloatB/"-
++com.simplecity.amp_library.utils.ColorUtilsHX

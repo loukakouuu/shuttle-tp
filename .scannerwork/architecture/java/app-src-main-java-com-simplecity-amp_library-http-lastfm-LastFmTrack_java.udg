@@ -1,0 +1,339 @@
+
+1.0loukakouJavaFrontend"1779719399901*java2.Bú
+
+N
+Iapp/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java2
+	
+type3
+	
+MAIN4
+
+package6
++
+&com.simplecity.amp_library.http.lastfm7
+7
+2com.simplecity.amp_library.http.lastfm.LastFmTrack9
+
+class10
+
+access11
+
+	protected12
+
+
+full-range13
+
+(7:1)-(31:2)14
+
+simple-name15
+
+LastFmTrack16
+*
+$Recovered#typeBindingLLastFmResult;018
+
+unknown19
+
+
+implements20
+
+
+uses21
+>
+8com.simplecity.amp_library.http.lastfm.LastFmTrack.track23
+
+field24
+
+public25
+
+(10:5)-(11:24)26
+
+track27
+>
+8com.simplecity.amp_library.http.lastfm.LastFmTrack$Track29
+
+is type30
+
+SerializedName32
+
+annotated by33
+,
+&Recovered#typeBindingLSerializedName;035
+
+
+references36
+
+(13:5)-(25:6)37
+
+Track38
+D
+>com.simplecity.amp_library.http.lastfm.LastFmTrack$Track.album40
+
+(14:9)-(15:33)41
+
+album42
+I
+Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum44
+
+(17:9)-(24:10)45
+
+
+TrackAlbum46
+O
+Icom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum.album48
+
+(19:13)-(20:37)49
+P
+Jcom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum.images51
+
+(22:13)-(23:65)52
+
+images53
+)
+#Recovered#typeBindingLLastFmImage;055
+X
+Rcom.simplecity.amp_library.http.lastfm.LastFmTrack#getImageUrl()Ljava/lang/String;57
+
+method58
+
+(27:5)-(30:6)59
+
+getImageUrl60J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÆ
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+N
+50H
+505124 *
+1& (,243:5B$
+
+
+11
+25
+
+
+13
+52
+
+
+15
+53
+
+54
+545519
+
+34
+343519
+
+31
+313219
+N
+47H
+474824 *
+1 ($243:5B$
+
+
+11
+25
+
+
+13
+49
+
+
+15
+42
+M
+28G
+282910 *
+1 (28:5B$
+
+
+11
+25
+
+
+13
+37
+
+
+15
+38
+N
+39H
+394024 *
+1 ( 228:5B$
+
+
+11
+25
+
+
+13
+41
+
+
+15
+42
+N
+43H
+434410 *
+1 ('228:5B$
+
+
+11
+25
+
+
+13
+45
+
+
+15
+46
+M
+22G
+222324 *
+1 (28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+M
+56G
+565758 *
+1 (28:5B$
+
+
+11
+25
+
+
+13
+59
+
+
+15
+60
+
+17
+171819rò
+
+81720*
+1 (*
+
+81721*
+1 (*
+
+222830*
+1 (
+
+223133*
+1
+ 
+(
+
+223421*
+1
+ 
+(
+
+222821*
+1 (
+
+222836*
+1 (
+
+222821*
+1 (
+
+394330*
+1 (
+
+393133*
+1	 (!
+
+393421*
+1
+ (
+
+394321*
+1 (
+
+394336*
+1 (
+
+394321*
+1 ( 
+
+474330*
+1 (
+
+473133*
+1 (%
+
+473421*
+1 (
+
+474321*
+1 (
+
+474336*
+1 (
+
+474321*
+1 ($
+
+503133*
+1 (%
+
+503421*
+1 (
+
+505421*
+1 ($
+
+562821*
+1, (1
+
+562236*
+1, (1
+
+564321*
+12 (7
+
+563936*
+12 (7
+
+565036*
+18 (>
