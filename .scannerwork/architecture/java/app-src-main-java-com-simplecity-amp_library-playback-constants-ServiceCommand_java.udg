@@ -1,0 +1,340 @@
+
+1.0loukakouJavaFrontend"1779719412468*java2.Bã
+X
+Sapp/src/main/java/com/simplecity/amp_library/playback/constants/ServiceCommand.java2
+	
+type3
+	
+MAIN4
+
+package6
+2
+-com.simplecity.amp_library.playback.constants7
+A
+<com.simplecity.amp_library.playback.constants.ServiceCommand9
+
+	interface10
+
+access11
+
+public12
+
+
+full-range13
+
+(3:1)-(15:2)14
+
+simple-name15
+
+ServiceCommand16
+J
+Dcom.simplecity.amp_library.playback.constants.ServiceCommand.COMMAND18
+
+field19
+
+(4:5)-(4:67)20
+
+COMMAND21
+R
+Lcom.simplecity.amp_library.playback.constants.ServiceCommand.TOGGLE_PLAYBACK23
+
+(5:5)-(5:59)24
+
+TOGGLE_PLAYBACK25
+
+
+references26
+H
+Bcom.simplecity.amp_library.playback.constants.ServiceCommand.PAUSE28
+
+(6:5)-(6:39)29
+
+PAUSE30
+G
+Acom.simplecity.amp_library.playback.constants.ServiceCommand.PLAY32
+
+(7:5)-(7:37)33
+
+
+PLAY34
+G
+Acom.simplecity.amp_library.playback.constants.ServiceCommand.PREV36
+
+(8:5)-(8:37)37
+
+
+PREV38
+G
+Acom.simplecity.amp_library.playback.constants.ServiceCommand.NEXT40
+
+(9:5)-(9:37)41
+
+
+NEXT42
+G
+Acom.simplecity.amp_library.playback.constants.ServiceCommand.STOP44
+
+(10:5)-(10:37)45
+
+
+STOP46
+J
+Dcom.simplecity.amp_library.playback.constants.ServiceCommand.SHUFFLE48
+
+(11:5)-(11:43)49
+
+SHUFFLE50
+I
+Ccom.simplecity.amp_library.playback.constants.ServiceCommand.REPEAT52
+
+(12:5)-(12:41)53
+
+REPEAT54
+K
+Ecom.simplecity.amp_library.playback.constants.ServiceCommand.SHUTDOWN56
+
+(13:5)-(13:45)57
+
+SHUTDOWN58
+R
+Lcom.simplecity.amp_library.playback.constants.ServiceCommand.TOGGLE_FAVORITE60
+
+(14:5)-(14:59)61
+
+TOGGLE_FAVORITE62J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j®
+M
+27G
+272819 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+29
+
+
+15
+30
+M
+31G
+313219 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+33
+
+
+15
+34
+M
+39G
+394019 *
+1	 	(28:5B$
+
+
+11
+12
+
+
+13
+41
+
+
+15
+42
+G
+8B
+8910 *
+1 ( :5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+35G
+353619 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+37
+
+
+15
+38
+M
+43G
+434419 *
+1
+ 
+(28:5B$
+
+
+11
+12
+
+
+13
+45
+
+
+15
+46
+M
+51G
+515219 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+53
+
+
+15
+54
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21
+M
+22G
+222319 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+24
+
+
+15
+25
+M
+59G
+596019 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+61
+
+
+15
+62
+M
+47G
+474819 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+49
+
+
+15
+50
+M
+55G
+555619 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+57
+
+
+15
+58rŽ
+
+221726*
+1 (%
+
+271726*
+1 (
+
+311726*
+1 (
+
+351726*
+1 (
+
+391726*
+1	 	(
+
+431726*
+1
+ 
+(
+
+471726*
+1 (
+
+511726*
+1 (
+
+551726*
+1 (
+
+591726*
+1 (%

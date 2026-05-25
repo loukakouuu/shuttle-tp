@@ -1,0 +1,97 @@
+
+1.0loukakouJavaFrontend"1779719412009*java2.BÇ
+W
+Rapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerProvider.java2
+	
+type3
+	
+MAIN4
+
+package6
+1
+,com.simplecity.amp_library.ui.screens.drawer7
+@
+;com.simplecity.amp_library.ui.screens.drawer.DrawerProvider9
+
+	interface10
+
+access11
+
+public12
+
+
+full-range13
+
+(5:1)-(8:2)14
+
+simple-name15
+
+DrawerProvider16
+a
+[com.simplecity.amp_library.ui.screens.drawer.DrawerProvider#getDrawerLayout()LDrawerLayout;18
+
+method19
+
+(7:5)-(7:36)20
+
+getDrawerLayout21
+
+DrawerLayout23
+
+unknown24
+
+returns25
+
+
+uses26J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j¬
+M
+17G
+171819 *
+1 (!28:5B$
+
+
+11
+12
+
+
+13
+20
+
+
+15
+21
+
+22
+222324
+G
+8B
+8910 *
+1 ( :5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16r6
+
+172225*
+1 (
+
+172226*
+1 (

@@ -1,0 +1,42 @@
+
+Rcom.jp.wasabeef.glide.transformations.MaskTransformation#getId()Ljava/lang/String;Y
+Oapp\src\main\java\com\jp\wasabeef\glide\transformations\MaskTransformation.javaS S("1*û
+1T T(+€
+~
+T. T(6
+%0"__id*f
+
+__unknown_file (J*H:
+8com.jp.wasabeef.glide.transformations.MaskTransformation"
+
+mContext…
+‚
+T[ T(b	
+%1int"__id*e
+
+__unknown_file (I*G:
+8com.jp.wasabeef.glide.transformations.MaskTransformation"	
+mMaskIdr
+p
+T T(c
+%2"__calculate*
+T, T(-
++**
+T T(+
+MaskTransformation(maskId=*
+T. T(c
+""Y
+W
+T U(
+%3"__calculate*
+U U(
++*
+T T(c
+
+%2*
+U U(
+)"
+T U(
+
+%3B<:
+8com.jp.wasabeef.glide.transformations.MaskTransformationH

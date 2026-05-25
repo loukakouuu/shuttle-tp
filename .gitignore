@@ -69,4 +69,5 @@ gradle-app.setting
 
 # Private deployment keys
 /deployment_keys.json
-/secrets.tar
+/secrets.tarsonar-scanner-5.0.1.3006-windows
+sonar-scanner.zip

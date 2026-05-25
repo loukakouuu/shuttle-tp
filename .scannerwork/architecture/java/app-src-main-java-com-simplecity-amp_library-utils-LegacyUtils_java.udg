@@ -1,0 +1,160 @@
+
+1.0loukakouJavaFrontend"1779719412834*java2.B¬
+H
+Capp/src/main/java/com/simplecity/amp_library/utils/LegacyUtils.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+1
+,com.simplecity.amp_library.utils.LegacyUtils9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(9:1)-(45:2)14
+
+simple-name15
+
+LegacyUtils16
+<
+6com.simplecity.amp_library.utils.LegacyUtils#<init>()V18
+
+method19
+
+private20
+
+(11:5)-(13:6)21
+
+calls22
+h
+bcom.simplecity.amp_library.utils.LegacyUtils#deleteOldResources(LShuttleApplication;)LCompletable;24
+
+(15:5)-(44:6)25
+
+deleteOldResources26
+
+Completable28
+
+unknown29
+
+returns30
+0
+*Recovered#typeBindingLShuttleApplication;032
+
+	has param33
+
+NonNull35
+
+annotated by36
+%
+Recovered#typeBindingLNonNull;038
+
+
+uses39
+
+is type40J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j·
+
+27
+272829
+
+34
+343529
+M
+23G
+232419 *
+1 (128:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+G
+8B
+8910 *
+1	 	(:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+16
+
+31
+313229
+
+37
+373829r×
+
+17822*
+1 (
+
+232730*
+1 (
+
+233133*
+12 (D
+
+233436*
+1 (
+
+233739*
+1 (
+
+232739*
+1 (
+
+233140*
+1E (P
+
+233139*
+12 (D

@@ -1,0 +1,2 @@
+ç
+kotlinS6526pReplace this abstract class with an interface, or add function implementations or state properties to the class. 2"" &

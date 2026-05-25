@@ -1,0 +1,790 @@
+
+1.0loukakouJavaFrontend"1779719415911*java2.B÷
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/FileHelper.java2
+	
+type3
+	
+MAIN4
+
+package6
+%
+ com.simplecity.amp_library.utils7
+0
++com.simplecity.amp_library.utils.FileHelper9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(27:1)-(371:2)14
+
+simple-name15
+
+
+FileHelper16
+5
+/com.simplecity.amp_library.utils.FileHelper.TAG18
+
+field19
+
+private20
+
+(29:5)-(29:52)21
+	
+TAG22
+@
+:com.simplecity.amp_library.utils.FileHelper.ROOT_DIRECTORY24
+
+(34:5)-(34:53)25
+
+ROOT_DIRECTORY26
+B
+<com.simplecity.amp_library.utils.FileHelper.PARENT_DIRECTORY28
+
+(39:5)-(39:56)29
+
+PARENT_DIRECTORY30
+C
+=com.simplecity.amp_library.utils.FileHelper.CURRENT_DIRECTORY32
+
+(44:5)-(44:56)33
+
+CURRENT_DIRECTORY34
+L
+Fcom.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z36
+
+method37
+
+(53:5)-(61:6)38
+
+	isSymlink39
+^
+Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;41
+
+(70:5)-(72:6)42
+
+resolveSymlink43
+_
+Ycom.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;45
+
+(80:5)-(86:6)46
+
+getName47
+
+
+references48
+d
+^com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;50
+
+unknown51
+
+calls52
+
+(94:5)-(102:6)53
+
+getExtension54
+R
+Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z56
+
+(110:5)-(112:6)57
+
+isRootDirectory58
+
+
+uses59
+O
+Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z61
+
+(120:5)-(122:6)62
+
+canReadWrite63
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;65
+
+(131:5)-(164:6)66
+
+getPath67
+
+SuppressLint69
+
+annotated by70
+*
+$Recovered#typeBindingLSuppressLint;072
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getHumanReadableSize(J)Ljava/lang/String;74
+
+(172:5)-(179:6)75
+
+getHumanReadableSize76
+Y
+Scom.simplecity.amp_library.utils.FileHelper#getDuration(LContext;LBaseFileObject;)J78
+
+(181:5)-(195:6)79
+
+getDuration80
+%
+Recovered#typeBindingLContext;082
+
+	has param83
+,
+&Recovered#typeBindingLBaseFileObject;085
+
+is type86
+!
+Recovered#typeBindingLUri;088
+)
+#Recovered#typeBindingLMediaPlayer;090
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;92
+
+(205:5)-(209:6)93
+
+getPathList94
+
+
+Observable96
+
+returns97
+s
+mcom.simplecity.amp_library.utils.FileHelper#getSongList(LRepository/SongsRepository;Ljava/io/File;ZZ)LSingle;99
+
+(219:5)-(225:6)100
+
+getSongList101
+
+Single103
+)
+"Recovered#typeBindingLRepository;0105
+#
+Recovered#typeBindingLSong;0107
+n
+gcom.simplecity.amp_library.utils.FileHelper#getSong(LRepository/SongsRepository;Ljava/io/File;)LSingle;109
+
+(230:5)-(241:6)110
+
+getSong111
+i
+bcom.simplecity.amp_library.utils.FileHelper#walk(Ljava/io/File;Ljava/util/List;ZZ)Ljava/util/List;113
+
+(252:5)-(278:6)114
+
+walk115
+
+WorkerThread117
++
+$Recovered#typeBindingLWorkerThread;0119
+W
+Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;121
+N
+Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z123
+
+(286:5)-(288:6)124
+
+
+deleteFile125
+S
+Lcom.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z127
+
+(296:5)-(307:6)128
+
+DeleteRecursive129
+k
+dcom.simplecity.amp_library.utils.FileHelper#renameFile(LContext;LBaseFileObject;Ljava/lang/String;)Z131
+
+(316:5)-(336:6)132
+
+
+renameFile133
+)
+"Recovered#typeBindingLFileObject;0135
+>
+7com.simplecity.amp_library.utils.FileHelper.sExtensions137
+
+(341:5)-(347:7)138
+
+sExtensions139
+
+(352:5)-(370:6)140
+
+getAudioFilter141J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jÊ
+M
+27G
+272819 *
+1'  '(028:5B$
+
+
+11
+12
+
+
+13
+29
+
+
+15
+30
+
+81
+818251
+Q
+98K
+989937 *
+1€& €(128:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+T
+122M
+12212337 *
+1û û(%28:5B&
+
+
+11
+12
+
+13
+124
+
+15
+125
+
+106
+10610751
+O
+77I
+777837 *
+1µ µ(#28:5B$
+
+
+11
+12
+
+
+13
+79
+
+
+15
+80
+T
+136M
+13613719 *
+1’ ’('28:5B&
+
+
+11
+12
+
+13
+138
+
+15
+139
+M
+40G
+404137 *
+1F F(&28:5B$
+
+
+11
+12
+
+
+13
+42
+
+
+15
+43
+T
+130M
+13013137 *
+1º º(%28:5B&
+
+
+11
+12
+
+13
+132
+
+15
+133
+
+87
+878851
+T
+126M
+12612737 *
+1® ®(+28:5B&
+
+
+11
+20
+
+13
+128
+
+15
+129
+O
+64I
+646537 *
+1Ñ Ñ(!28:5B$
+
+
+11
+12
+
+
+13
+66
+
+
+15
+67
+
+104
+10410551
+M
+31G
+313219 *
+1,  ,(128:5B$
+
+
+11
+12
+
+
+13
+33
+
+
+15
+34
+M
+35G
+353637 *
+15 5($28:5B$
+
+
+11
+12
+
+
+13
+38
+
+
+15
+39
+T
+112M
+11211337 *
+1˝! ˝(%28:5B&
+
+
+11
+20
+
+13
+114
+
+15
+115
+
+89
+899051
+M
+60G
+606137 *
+1x x('28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+O
+91I
+919237 *
+1Õ, Õ(728:5B$
+
+
+11
+12
+
+
+13
+93
+
+
+15
+94
+T
+108M
+10810937 *
+1Ê  Ê('28:5B&
+
+
+11
+12
+
+13
+110
+
+15
+111
+
+118
+11811951
+M
+17G
+171819 *
+1! ($28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+44G
+444537 *
+1P P(!28:5B$
+
+
+11
+12
+
+
+13
+46
+
+
+15
+47
+
+95
+959651
+M
+23G
+232419 *
+1"  "(.28:5B$
+
+
+11
+12
+
+
+13
+25
+
+
+15
+26
+
+84
+848551
+
+116
+11611751
+O
+73I
+737437 *
+1¨ ¨(.28:5B$
+
+
+11
+12
+
+
+13
+75
+
+
+15
+76
+
+102
+10210351
+M
+49G
+495037 *
+1^ ^(&28:5B$
+
+
+11
+12
+
+
+13
+53
+
+
+15
+54
+
+71
+717251
+
+68
+686951
+M
+55G
+555637 *
+1n n(*28:5B$
+
+
+11
+12
+
+
+13
+57
+
+
+15
+58
+
+134
+13413551
+T
+120M
+12012137 *
+1‡ ‡(,28:5B&
+
+
+11
+12
+
+13
+140
+
+15
+141r±
+
+44848*
+1Q Q("
+
+444952*
+1Q Q("
+
+55859*
+1o+ o(5
+
+552348*
+1o6 o(D
+
+646870*
+1É É( 
+
+647159*
+1É É(
+
+64848*
+1ç ç(
+
+643552*
+1ç ç(
+
+64848*
+1é é(&
+
+644052*
+1é é(&
+
+778183*
+1µ$ µ(+
+
+778483*
+1µ5 µ(C
+
+778186*
+1µ, µ(3
+
+778159*
+1µ$ µ(+
+
+778486*
+1µD µ(R
+
+778459*
+1µ5 µ(C
+
+778786*
+1∏ ∏(
+
+778759*
+1∏ ∏(
+
+778986*
+1∫ ∫((
+
+778959*
+1∫ ∫(
+
+919597*
+1Õ Õ(+
+
+919559*
+1Õ Õ(
+
+9810297*
+1€ €(%
+
+9810483*
+1€2 €(L
+
+9810259*
+1€ €(
+
+9810659*
+1€ €(#
+
+9810486*
+1€M €(\
+
+9810459*
+1€2 €(<
+
+9810459*
+1€= €(L
+
+10810297*
+1Ê Ê(
+
+10810483*
+1Ê( Ê(B
+
+10810259*
+1Ê Ê(
+
+10810659*
+1Ê Ê(
+
+10810486*
+1ÊC Ê(R
+
+10810459*
+1Ê( Ê(2
+
+10810459*
+1Ê3 Ê(B
+
+11211670*
+1¸ ¸(
+
+11211859*
+1¸ ¸(
+
+112848*
+1à& à(4
+
+11212052*
+1à& à(4
+
+112848*
+1ç ç(
+
+122848*
+1ü ü(
+
+12212652*
+1ü ü(
+
+126848*
+1Ø Ø($
+
+1308183*
+1º& º(-
+
+1308483*
+1º7 º(E
+
+1308186*
+1º. º(5
+
+1308159*
+1º& º(-
+
+1308486*
+1ºF º(T
+
+1308459*
+1º7 º(E
+
+13013459*
+1¡' ¡(1
+
+13013459*
+1¬ ¬(&
+
+130848*
+1À# À(5
+
+1304452*
+1À. À(5
+
+130859*
+1À# À(-
+
+120848*
+1Ê" Ê(.
+
+1204952*
+1Ê" Ê(.
+
+12013648*
+1Á4 Á(?

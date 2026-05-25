@@ -1,0 +1,299 @@
+∆
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog#<init>()V}
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt o("0*>
+0 ()"/
+
+__unknown_file (
+implicit returnB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH`–
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;
+__unknown_file ("0*é
+0 (ü
+ú
+ (
+fieldjava.lang.Object"__id*o
+ (c*a9
+7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
+analyticsManagerjava.lang.Objecti
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+fieldjava.lang.ObjectI
+G
+ (
+fieldjava.lang.Object"__annotation*
+ (
+
+%0"'
+ (
+
+fieldjava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH`
+`com.simplecity.amp_library.ui.settings.TabChooserDialog#setAnalyticsManager(LAnalyticsManager;)V
+__unknown_file ("0*Ü
+0 (i
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+valuejava.lang.ObjectI
+G
+ (
+valuejava.lang.Object"__annotation*
+ (
+
+%0ü
+ú
+ (a9
+7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
+analyticsManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH`Õ
+]com.simplecity.amp_library.ui.settings.TabChooserDialog#getSettingsManager()LSettingsManager;
+__unknown_file ("0*ç
+0 (û
+õ
+ (
+fieldjava.lang.Object"__id*n
+ (b*`9
+7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
+settingsManagerjava.lang.Objecti
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+fieldjava.lang.ObjectI
+G
+ (
+fieldjava.lang.Object"__annotation*
+ (
+
+%0"'
+ (
+
+fieldjava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH`Ì
+^com.simplecity.amp_library.ui.settings.TabChooserDialog#setSettingsManager(LSettingsManager;)V
+__unknown_file ("0*Ö
+0 (i
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+valuejava.lang.ObjectI
+G
+ (
+valuejava.lang.Object"__annotation*
+ (
+
+%0û
+õ
+ (`9
+7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
+settingsManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH`…
+Lcom.simplecity.amp_library.ui.settings.TabChooserDialog#onAttach(LContext;)V
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt% %("0*å
+0% %(L
+J
+' '(
+%0java.lang.Object"__id* 
+' '(
+java.lang.Object"/
+
+__unknown_file (
+implicit return:'
+% %(+
+contextjava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH‰
+Xcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt* *("0*ê
+0* *(d
+b
++ +(V%
+sharedPreferencesjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Z
+X
+- -((
+adapterjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>b
+`
+/ 5(#
+itemTouchHelperjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>’“
+7 C(	e
+%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Û
+
+7 C(	
+%1"icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V*s
+7 C(	g
+e
+%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0¶
+£
+7 C(	
+listenerjava.lang.Object"__id*s
+7 C(	g
+e
+%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0X
+V
+E J(
+itemsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>œ
+Ã
+L L(
+%2java.lang.Object"_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;*G
+L L(;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialog_
+]
+O O(2 
+recyclerViewjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>`
+^
+P P(A!
+layoutManagerjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Z
+X
+Q Q(&
+adapterjava.lang.Object"__id*)
+Q Q(&
+
+adapterjava.lang.Object"
+U d(
+	<unknown>:2
+*  *(;&
+savedInstanceStatejava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogHò
+icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt7 C(	"0*>
+07  7(5"/
+
+__unknown_file (
+implicit returnBca
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H`›
+ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt8 8($"0*>
+08 8("/
+
+__unknown_file (
+implicit return:&
+8% 8(D
+holderjava.lang.ObjectBca
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H∫
+ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt< <(("1"2*ì
+2=s A(H
+F
+> >(9
+	isCheckedjava.lang.Object"__id*
+>4 >(9	
+falseH
+F
+? ?(?
+	isCheckedjava.lang.Object"__id*
+?: ?(?	
+falsezx
+@ @(#8
+%12com.simplecity.amp_library.ui.dialog.UpgradeDialog"2com.simplecity.amp_library.ui.dialog.UpgradeDialogô
+ñ
+@ @(#
+%2"<com.simplecity.amp_library.ui.dialog.UpgradeDialog#<init>()V*F
+@ @(#:
+8
+%12com.simplecity.amp_library.ui.dialog.UpgradeDialogS
+Q
+
+__unknown_file (
+%0"__id*)
+
+__unknown_file (
+	<unknown>*
+1*>
+1A B("/
+
+__unknown_file (
+implicit return:,
+<) <(C 
+tabViewModeljava.lang.Object:*
+<E <(h
+
+viewHolderjava.lang.ObjectBca
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0HÜ
+Pcom.simplecity.amp_library.ui.settings.TabChooserDialog#show(LFragmentManager;)V
+uC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.ktg g("0*>
+0g g(."/
+
+__unknown_file (
+implicit return:/
+g g(-#
+fragmentManagerjava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.settings.TabChooserDialogHû
+\com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*’
+0 (ú
+ô
+ (
+fieldjava.lang.Object"__id*l
+ (`*^C
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBEC
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionH`æ
+]com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*Õ
+0 (ú
+ô
+ (^C
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBEC
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionH`

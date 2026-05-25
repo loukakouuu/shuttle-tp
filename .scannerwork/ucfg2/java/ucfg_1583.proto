@@ -1,0 +1,54 @@
+
+Lcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#%field_initializerZ
+Papp\src\main\java\com\simplecity\amp_library\ui\screens\tagger\TaggerDialog.java/ /("1*Ÿ
+1
+__unknown_file (<:
+?) ?(4
+%0java.util.ArrayList"java.util.ArrayListj
+h
+?% ?(6
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayList†
+ù
+? ?(7R;
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
+originalSongPaths"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList<:
+@3 @(>
+%2java.util.ArrayList"java.util.ArrayListj
+h
+@/ @(@
+%3"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%2java.util.ArrayListú
+ô
+@ @(AN;
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
+documentFiles"__id*7
+
+__unknown_file (
+
+%2java.util.ArrayListÄ
+~
+B B(%J;
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
+	showAlbum"__id* 
+
+__unknown_file (2Ä
+~
+C C(%J;
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
+	showTrack"__id* 
+
+__unknown_file (2"
+/ ¥(
+implicit returnB=;
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog

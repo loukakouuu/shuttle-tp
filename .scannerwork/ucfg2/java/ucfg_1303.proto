@@ -1,0 +1,57 @@
+
+Ncom.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)IP
+Fapp\src\main\java\com\simplecity\amp_library\utils\LetterDrawable.javaC C("1*¾
+1F F(xv
+F# F(1	
+%0int"java.lang.String#hashCode()I*5
+
+__unknown_file (
+
+keyjava.lang.String2
+hashCode()‰
+†
+F F(2	
+%1int"java.lang.Math#abs(I)I*.
+
+__unknown_file ("
+java.lang.Math*'
+
+__unknown_file (
+	
+%0intv
+t
+F5 F(<
+%2"__id*\
+
+__unknown_file (@*>1
+/com.simplecity.amp_library.utils.LetterDrawable"	
+mColors_
+]
+F F(E
+%3"__calculate*
+F3 F(4
+%*
+F F(2
+	
+%1int*
+F5 F(E
+""D
+B
+F F(F
+colorint"__id*"
+
+__unknown_file (
+
+%3v
+t
+G G(
+%4"__id*\
+
+__unknown_file (@*>1
+/com.simplecity.amp_library.utils.LetterDrawable"	
+mColors"
+G G(4
+"":#
+C C($
+keyjava.lang.StringB31
+/com.simplecity.amp_library.utils.LetterDrawableX

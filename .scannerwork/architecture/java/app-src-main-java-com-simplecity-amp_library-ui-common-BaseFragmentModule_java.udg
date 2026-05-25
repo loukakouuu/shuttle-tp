@@ -1,0 +1,167 @@
+
+1.0loukakouJavaFrontend"1779719413629*java2.BÆ
+S
+Napp/src/main/java/com/simplecity/amp_library/ui/common/BaseFragmentModule.java2
+	
+type3
+	
+MAIN4
+
+package6
+)
+$com.simplecity.amp_library.ui.common7
+<
+7com.simplecity.amp_library.ui.common.BaseFragmentModule9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(10:1)-(17:2)14
+
+simple-name15
+
+BaseFragmentModule16
+`
+Zcom.simplecity.amp_library.ui.common.BaseFragmentModule#fragment(LBaseFragment;)LFragment;18
+
+method19
+
+	protected20
+
+(13:5)-(16:59)21
+
+fragment22
+
+Fragment24
+
+unknown25
+
+returns26
+*
+$Recovered#typeBindingLBaseFragment;028
+
+	has param29
+
+Binds31
+
+annotated by32
+#
+Recovered#typeBindingLBinds;034
+
+
+uses35
+
+Named37
+#
+Recovered#typeBindingLNamed;039
+
+FragmentScope41
++
+%Recovered#typeBindingLFragmentScope;043
+
+is type44J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j¸
+
+27
+272825
+
+36
+363725
+
+30
+303125
+M
+17G
+171819 *
+1 (28:5B$
+
+
+11
+20
+
+
+13
+21
+
+
+15
+22
+
+40
+404125
+
+38
+383925
+
+33
+333425
+G
+8B
+8910 *
+1 ():5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+23
+232425
+
+42
+424325r©
+
+172326*
+1 (
+
+172729*
+1  (,
+
+173032*
+1 (
+
+173335*
+1 (
+
+173632*
+1 ($
+
+173835*
+1 (
+
+174032*
+1 (
+
+174235*
+1 (
+
+172335*
+1 (
+
+172744*
+1- (9
+
+172735*
+1  (,

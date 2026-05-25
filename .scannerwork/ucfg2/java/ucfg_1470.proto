@@ -1,0 +1,65 @@
+
+Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#%field_initializerb
+Xapp\src\main\java\com\simplecity\amp_library\ui\screens\equalizer\EqualizerFragment.java' '("1*⁄	
+1
+__unknown_file (ñ
+ì
+K K(#_C
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+eqCustomPresetPosition"__id* 
+
+__unknown_file (2$"
+O7 O(^
+%0"SizableSeekBar[]ì
+ê
+O O(_ZC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+mEqualizerSeekBar"__id*"
+
+__unknown_file (
+
+%0DB
+d. d(;
+%1java.lang.StringBuilder"java.lang.StringBuilderr
+p
+d* d(=
+%2"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%1java.lang.StringBuilder®
+•
+d d(>VC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+formatBuilder"__id*;
+
+__unknown_file (
+
+%1java.lang.StringBuilder<:
+e& e(/
+%3java.util.Formatter"java.util.Formatterˇ
+¸
+e" e(S
+%4"Ejava.util.Formatter#<init>(Ljava/lang/Appendable;Ljava/util/Locale;)V*7
+
+__unknown_file (
+
+%3java.util.Formatter*F
+
+__unknown_file (*
+(
+formatBuilderjava.lang.StringBuilder*"
+
+__unknown_file (
+""†
+ù
+e e(TRC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+	formatter"__id*7
+
+__unknown_file (
+
+%3java.util.Formatter"
+' ¥(
+implicit returnBEC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment

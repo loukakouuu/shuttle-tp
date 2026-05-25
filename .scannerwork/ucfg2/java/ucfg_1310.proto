@@ -1,0 +1,46 @@
+
+Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z`
+Tapp\src\main\java\com\simplecity\amp_library\utils\color\BitmapPaletteProcessor.javaæ æ("1*í
+1
+ç ç(|
+z
+
+ç ç(
+%0float"
+__arrayGet*1
+
+__unknown_file (
+
+hslColorfloat[]* 
+
+__unknown_file (2E
+C
+
+ç ç(1
+%1float"__id*"
+
+__unknown_file (
+""x
+v
+
+ç ç(1
+%2boolean"	__compare*
+
+ç ç(
+<=*
+
+ç ç(
+
+%0float*
+
+ç ç(1
+
+%1float"
+
+ç ç(2
+
+%2boolean:!
+
+æ æ(,
+hslColorfloat[]BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

@@ -1,0 +1,606 @@
+
+1.0loukakouJavaFrontend"1779719411353*java2.B¸
+X
+Sapp/src/main/java/com/simplecity/amp_library/ui/screens/widgets/WidgetFragment.java2
+	
+type3
+	
+MAIN4
+
+package6
+2
+-com.simplecity.amp_library.ui.screens.widgets7
+A
+<com.simplecity.amp_library.ui.screens.widgets.WidgetFragment9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(19:1)-(117:2)14
+
+simple-name15
+
+WidgetFragment16
+*
+$Recovered#typeBindingLBaseFragment;018
+
+unknown19
+
+extends20
+
+
+uses21
+F
+@com.simplecity.amp_library.ui.screens.widgets.WidgetFragment.TAG23
+
+field24
+
+private25
+
+(21:5)-(21:56)26
+	
+TAG27
+W
+Qcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment.ARG_WIDGET_LAYOUT_ID29
+
+(23:5)-(23:75)30
+
+ARG_WIDGET_LAYOUT_ID31
+U
+Ocom.simplecity.amp_library.ui.screens.widgets.WidgetFragment.mWidgetLayoutResId33
+
+	protected34
+
+(25:5)-(25:28)35
+
+mWidgetLayoutResId36
+L
+Fcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#<init>()V38
+
+method39
+
+(30:5)-(31:6)40
+
+calls41
+`
+Zcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onAttachFragment(LFragment;)V43
+
+(33:5)-(37:6)44
+
+onAttachFragment45
+&
+ Recovered#typeBindingLFragment;047
+
+	has param48
+
+is type49
+
+
+references50
+
+BaseFragment52
+
+‰com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#newInstance(I)Lcom/simplecity/amp_library/ui/screens/widgets/WidgetFragment;54
+
+(45:5)-(51:6)55
+
+newInstance56
+
+returns57
+$
+Recovered#typeBindingLBundle;059
+W
+Qcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onAttach(LContext;)V61
+
+(53:5)-(58:6)62
+
+onAttach63
+%
+Recovered#typeBindingLContext;065
+z
+tcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;67
+
+(60:5)-(96:6)68
+
+onCreateView69
+
+
+View71
+,
+&Recovered#typeBindingLLayoutInflater;073
+'
+!Recovered#typeBindingLViewGroup;075
+)
+#Recovered#typeBindingLFrameLayout;077
+_
+Ycom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onActivityCreated(LBundle;)V79
+
+(98:5)-(111:6)80
+
+onActivityCreated81
+
+Nullable83
+
+annotated by84
+&
+ Recovered#typeBindingLNullable;086
+H
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall88
+I
+Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium90
+:
+4Recovered#typeBindingLWidgetConfigureActivityLarge;092
+M
+Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge94
+a
+[com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#screenName()Ljava/lang/String;96
+
+(113:5)-(116:6)97
+
+
+screenName98J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768j‹	
+M
+53G
+535439 *
+1-" -(-28:5B$
+
+
+11
+12
+
+
+13
+55
+
+
+15
+56
+
+64
+646519
+
+93
+939419
+M
+32G
+323324 *
+1	 (28:5B$
+
+
+11
+34
+
+
+13
+35
+
+
+15
+36
+
+51
+515219
+
+74
+747519
+M
+95G
+959639 *
+1r r( 28:5B$
+
+
+11
+34
+
+
+13
+97
+
+
+15
+98
+
+85
+858619
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+M
+60G
+606139 *
+16 6(28:5B$
+
+
+11
+12
+
+
+13
+62
+
+
+15
+63
+
+76
+767719
+M
+78G
+787939 *
+1c c("28:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+M
+28G
+282924 *
+1! (528:5B$
+
+
+11
+25
+
+
+13
+30
+
+
+15
+31
+
+17
+171819
+
+87
+878819
+
+46
+464719
+M
+22G
+222324 *
+1! ($28:5B$
+
+
+11
+25
+
+
+13
+26
+
+
+15
+27
+
+89
+899019
+
+70
+707119
+
+58
+585919
+
+91
+919219
+M
+42G
+424339 *
+1" "(!28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+M
+66G
+666739 *
+1= =(28:5B$
+
+
+11
+12
+
+
+13
+68
+
+
+15
+69
+M
+37G
+373839 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+40
+
+
+15
+16
+
+72
+727319
+
+82
+828319rô
+
+81720*
+1% (1
+
+81721*
+1% (1
+
+37841*
+1 (
+
+424648*
+1"" "(*
+
+424649*
+1"+ "(8
+
+424621*
+1"" "(*
+
+42821*
+1#( #(,
+
+42850*
+1#( #(,
+
+42850*
+1$	 $(
+
+425121*
+1$	 $(
+
+42850*
+1$	 $(
+
+53857*
+1- -(!
+
+53821*
+1- -(!
+
+53849*
+1. .( 
+
+53821*
+1.	 .(
+
+53841*
+1.' .(5
+
+535849*
+1/ /(
+
+535821*
+1/	 /(
+
+532850*
+10 0()
+
+606448*
+16 6(!
+
+606449*
+16" 6()
+
+606421*
+16 6(!
+
+60850*
+17	 7(
+
+605121*
+17	 7(
+
+60850*
+17	 7(
+
+603250*
+19	 9(
+
+602850*
+194 9(H
+
+667057*
+1= =(
+
+667248*
+1= =(,
+
+667448*
+1=7 =(@
+
+665848*
+1=L =(R
+
+667021*
+1= =(
+
+667249*
+1=- =(5
+
+667221*
+1= =(,
+
+667449*
+1=A =(J
+
+667421*
+1=7 =(@
+
+665849*
+1=S =(e
+
+665821*
+1=L =(R
+
+667449*
+1> >(
+
+667421*
+1>	 >(
+
+667421*
+1> >((
+
+667649*
+1@ @( 
+
+667621*
+1@	 @(
+
+667621*
+1@$ @(/
+
+663250*
+1@B @(T
+
+663250*
+1A A(
+
+667649*
+1H" H(.
+
+667621*
+1H	 H(
+
+667621*
+1H H(!
+
+663250*
+1I I(
+
+663250*
+1ID I(V
+
+667621*
+1K  K(+
+
+663250*
+1M M(
+
+663250*
+1MC M(U
+
+667621*
+1O  O(+
+
+663250*
+1Q Q(
+
+667621*
+1T  T(+
+
+667649*
+1W W(!
+
+667621*
+1W	 W(
+
+785848*
+1c- c(3
+
+785849*
+1c4 c(F
+
+788284*
+1c# c(,
+
+788521*
+1c$ c(,
+
+785821*
+1c- c(3
+
+78850*
+1d	 d(
+
+785121*
+1d	 d(
+
+78850*
+1d	 d(
+
+788721*
+1f& f(B
+
+788721*
+1g g(+
+
+788921*
+1h- h(J
+
+788921*
+1i i(,
+
+789121*
+1j- j(I
+
+789121*
+1k k(+
+
+789321*
+1l- l(N
+
+789321*
+1m m(0
+
+952250*
+1s s(

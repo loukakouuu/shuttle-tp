@@ -1,0 +1,109 @@
+
+Ncom.simplecity.amp_library.glide.fetcher.TypeFetcher#getId()Ljava/lang/String;U
+Kapp\src\main\java\com\simplecity\amp_library\glide\fetcher\TypeFetcher.javaO O("3*«
+2R R(á
+Ñ
+R R(
+%6java.io.File"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+fileom
+R R('	
+%7int"java.io.File#hashCode()I*0
+
+__unknown_file (
+
+%6java.io.File2
+hashCode()Z
+X
+R R('
+%8java.lang.String"__concat*
+R R(
+_*
+R R('
+	
+%7intz
+x
+R R('
+%9java.lang.String"__concat*$
+R R('
+
+idjava.lang.String*$
+R R('
+
+%8java.lang.String`
+^
+R R('
+idjava.lang.String"__id*4
+
+__unknown_file (
+
+%9java.lang.String*
+1*£
+3P P(#Ñ
+Å
+P P(#
+%0"__id*i
+
+__unknown_file (M*K6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+artworkProviderY
+W
+P P(9
+%1"__calculate*
+P4 P(5
++*
+P P(3
+""*
+P6 P(9
+_}
+{
+P< P(@	
+%2int"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+type_
+]
+P P(@
+%3"__calculate*
+P: P(;
++*
+P P(9
+
+%1*
+P< P(@
+	
+%2intN
+L
+P P(A
+idjava.lang.String"__id*"
+
+__unknown_file (
+
+%3á
+Ñ
+Q Q(
+%4java.io.File"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+filep
+n
+Q Q(
+%5boolean"	__compare*
+Q Q(
+!=* 
+Q Q(
+
+%4java.io.File*
+Q Q(
+""*
+2
+1*3
+1T T("$
+T T(
+
+idjava.lang.StringB86
+4com.simplecity.amp_library.glide.fetcher.TypeFetcherH

@@ -1,0 +1,90 @@
+
+Œcom.simplecity.amp_library.ui.settings.SettingsParentFragment#newInstance(II)Lcom/simplecity/amp_library/ui/settings/SettingsParentFragment;^
+Tapp\src\main\java\com\simplecity\amp_library\ui\settings\SettingsParentFragment.javaC) C(4"startingBlock*É
+startingBlockC4 C(o
+}
+C5 C(<
+%4"
+__annotate*&
+
+__unknown_file (
+
+XmlRes*7
+
+__unknown_file (
+
+preferenceResourceintY
+W
+CA C(S
+preferenceResourceint"__annotation*"
+
+__unknown_file (
+
+%4z
+x
+CU C(_
+%5"
+__annotate*)
+
+__unknown_file (
+	StringRes*/
+
+__unknown_file (
+
+
+titleResIdintQ
+O
+Cd C(n
+
+titleResIdint"__annotation*"
+
+__unknown_file (
+
+%5*
+1*Ž
+1D D("F
+D
+D D(#
+argsBundle"__id*"
+
+__unknown_file (
+""§
+¤
+E E(+
+%0java.lang.String"__id*z
+
+__unknown_file (^*\?
+=com.simplecity.amp_library.ui.settings.SettingsParentFragment"
+ARG_PREFERENCE_RESOURCE™
+–
+F F(
+%1java.lang.String"__id*l
+
+__unknown_file (P*N?
+=com.simplecity.amp_library.ui.settings.SettingsParentFragment"
+	ARG_TITLE‘Ž
+G. G(DC
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"=com.simplecity.amp_library.ui.settings.SettingsParentFragment¿
+¼
+G* G(F
+%3"Gcom.simplecity.amp_library.ui.settings.SettingsParentFragment#<init>()V*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragmentÁ
+¾
+G G(GI
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment"__id*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"W
+I I(K
+I
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment:%
+C5 C(T
+preferenceResourceint:
+CU C(n
+
+titleResIdintBA"?
+=com.simplecity.amp_library.ui.settings.SettingsParentFragmentH

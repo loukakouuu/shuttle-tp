@@ -1,0 +1,83 @@
+ 
+5com.simplecity.amp_library.di.app.AppModule#<init>()Vq
+iC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt '("0*<
+0 (+"/
+
+__unknown_file (
+implicit returnB/-
++com.simplecity.amp_library.di.app.AppModuleH`í
+Ycom.simplecity.amp_library.di.app.AppModule#provideContext(LShuttleApplication;)LContext;s
+iC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt   ("0*·
+0 (
+
+   (6
+%0"
+__annotate*0
+
+__unknown_file (
+java.lang.Object*=
+
+__unknown_file (!
+
+applicationjava.lang.Object_
+]
+   (6
+applicationjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0"4
+ C  (a(
+&
+applicationContextjava.lang.Object:+
+   (6
+applicationjava.lang.ObjectB/-
++com.simplecity.amp_library.di.app.AppModuleH‚
+bcom.simplecity.amp_library.di.app.AppModule#provideSharedPreferences(LContext;)LSharedPreferences;s
+iC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt$ $( "0*Ç
+0" #(Œ
+‰
+$! $(1
+%0"
+__annotate*0
+
+__unknown_file (
+java.lang.Object*9
+
+__unknown_file (
+
+contextjava.lang.ObjectŒ
+‰
+$! $(1
+%1"
+__annotate*0
+
+__unknown_file (
+java.lang.Object*9
+
+__unknown_file (
+
+contextjava.lang.Object
+}
+$! $(1
+contextjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0*"
+
+__unknown_file (
+
+%1"
+% %(E
+	<unknown>:'
+$! $(1
+contextjava.lang.ObjectB/-
++com.simplecity.amp_library.di.app.AppModuleHª
+:com.simplecity.amp_library.di.app.AppModuleBinds#<init>()Vq
+iC:/Users/dark7/Desktop/Cours/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt) L("0*<
+0) *("/
+
+__unknown_file (
+implicit returnB42
+0com.simplecity.amp_library.di.app.AppModuleBindsH`

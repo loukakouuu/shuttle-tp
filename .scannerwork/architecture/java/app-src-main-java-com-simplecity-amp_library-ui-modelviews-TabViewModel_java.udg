@@ -1,0 +1,1076 @@
+
+1.0loukakouJavaFrontend"1779719415761*java2.B‡!
+Q
+Lapp/src/main/java/com/simplecity/amp_library/ui/modelviews/TabViewModel.java2
+	
+type3
+	
+MAIN4
+
+package6
+-
+(com.simplecity.amp_library.ui.modelviews7
+:
+5com.simplecity.amp_library.ui.modelviews.TabViewModel9
+
+class10
+
+access11
+
+public12
+
+
+full-range13
+
+(18:1)-(114:2)14
+
+simple-name15
+
+TabViewModel16
++
+%Recovered#typeBindingLBaseViewModel;018
+
+unknown19
+
+extends20
+
+
+uses21
+F
+@com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder23
+
+
+references24
+D
+>com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener26
+
+	interface27
+
+(20:5)-(24:6)28
+
+Listener29
+ñ
+ècom.simplecity.amp_library.ui.modelviews.TabViewModel$Listener#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V31
+
+method32
+
+(21:9)-(21:45)33
+
+onStartDrag34
+
+	has param35
+
+is type36
+—
+ com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener#onFolderChecked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel;Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V38
+
+(23:9)-(23:80)39
+
+onFolderChecked40
+H
+Bcom.simplecity.amp_library.ui.modelviews.TabViewModel.categoryItem42
+
+field43
+
+(26:5)-(26:38)44
+
+categoryItem45
+3
+-com.simplecity.amp_library.model.CategoryItem47
+D
+>com.simplecity.amp_library.ui.modelviews.TabViewModel.listener49
+
+private50
+
+(28:5)-(29:31)51
+
+listener52
+
+Nullable54
+
+annotated by55
+&
+ Recovered#typeBindingLNullable;057
+K
+Ecom.simplecity.amp_library.ui.modelviews.TabViewModel.settingsManager59
+
+(31:5)-(31:45)60
+
+settingsManager61
+
+SettingsManager63
+Ö
+com.simplecity.amp_library.ui.modelviews.TabViewModel#<init>(Lcom/simplecity/amp_library/model/CategoryItem;LSettingsManager;)V65
+
+(33:5)-(36:6)66
+-
+'Recovered#typeBindingLSettingsManager;068
+
+calls69
+ã
+Ñcom.simplecity.amp_library.ui.modelviews.TabViewModel#setListener(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$Listener;)V71
+
+(38:5)-(40:6)72
+
+setListener73
+J
+Dcom.simplecity.amp_library.ui.modelviews.TabViewModel#getViewType()I75
+
+(42:5)-(45:6)76
+
+getViewType77
+M
+Gcom.simplecity.amp_library.ui.modelviews.TabViewModel#getLayoutResId()I79
+
+(47:5)-(50:6)80
+
+getLayoutResId81
+î
+çcom.simplecity.amp_library.ui.modelviews.TabViewModel#onCheckboxClicked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;Z)V83
+
+	protected84
+
+(52:5)-(59:6)85
+
+onCheckboxClicked86
+=
+7com.simplecity.amp_library.model.CategoryItem.isChecked88
+8
+2com.simplecity.amp_library.model.CategoryItem.type90
+8
+2com.simplecity.amp_library.model.CategoryItem$Type92
+@
+:com.simplecity.amp_library.model.CategoryItem$Type.FOLDERS94
+ç
+Ücom.simplecity.amp_library.ui.modelviews.TabViewModel#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V96
+
+(61:5)-(65:6)97
+ä
+Écom.simplecity.amp_library.ui.modelviews.TabViewModel#bindView(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V99
+
+(67:5)-(79:6)100
+
+bindView101
+
+BaseViewModel103
+
+TextView105
+P
+Icom.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder.textView107
+E
+>com.simplecity.amp_library.model.CategoryItem#getTitleResId()I109
+
+CheckBox111
+P
+Icom.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder.checkBox113
+1
+*Recovered#typeBindingLShuttleApplication;0115
+ù
+ïcom.simplecity.amp_library.ui.modelviews.TabViewModel#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;117
+
+(81:5)-(84:6)118
+
+createViewHolder119
+
+returns120
+(
+!Recovered#typeBindingLViewGroup;0122
+
+(86:5)-(113:6)123
+
+
+ViewHolder124
+-
+&Recovered#typeBindingLBaseViewHolder;0126
+
+(88:9)-(88:40)127
+
+textView128
+
+(89:9)-(89:40)129
+
+checkBox130
+R
+Kcom.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder.dragHandle132
+
+(90:9)-(90:38)133
+
+
+dragHandle134
+
+View136
+W
+Pcom.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder#<init>(LView;)V138
+
+(92:9)-(107:10)139
+#
+Recovered#typeBindingLView;0141
+d
+]com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder#toString()Ljava/lang/String;143
+
+(109:9)-(112:10)144
+
+toString145J
+
+1
+12
+
+
+3
+4 Z
+
+5
+5768jµ
+
+89
+899019
+O
+22I
+222310 *
+1V V(#28:5B&
+
+
+11
+12
+
+13
+123
+
+15
+124
+S
+142L
+14214332 *
+1n n(222:5B&
+
+
+11
+12
+
+13
+144
+
+15
+145
+M
+58G
+585943 *
+1 (,28:5B$
+
+
+11
+50
+
+
+13
+60
+
+
+15
+61
+
+46
+464719
+N
+30H
+303132 *
+1 (225:5B$
+
+
+11
+12
+
+
+13
+33
+
+
+15
+34
+M
+41G
+414243 *
+1 (%28:5B$
+
+
+11
+12
+
+
+13
+44
+
+
+15
+45
+
+108
+10810919
+
+121
+12112219
+N
+37H
+373832 *
+1 (225:5B$
+
+
+11
+12
+
+
+13
+39
+
+
+15
+40
+S
+112L
+11211343 *
+1Y Y('222:5B&
+
+
+11
+12
+
+13
+129
+
+15
+130
+M
+70G
+707132 *
+1& &(28:5B$
+
+
+11
+12
+
+
+13
+72
+
+
+15
+73
+
+56
+565719
+
+140
+14014119
+
+104
+10410519
+
+67
+676819
+M
+82G
+828332 *
+14
+ 4(28:5B$
+
+
+11
+84
+
+
+13
+85
+
+
+15
+86
+M
+95G
+959632 *
+1=
+ =(28:5B$
+
+
+11
+84
+
+
+13
+97
+
+
+15
+34
+
+62
+626319
+M
+25G
+252627 *
+1 (28:5B$
+
+
+11
+12
+
+
+13
+28
+
+
+15
+29
+
+125
+12512619
+S
+131L
+13113243 *
+1Z Z(%222:5B&
+
+
+11
+12
+
+13
+133
+
+15
+134
+R
+116K
+11611732 *
+1R R('28:5B&
+
+
+11
+12
+
+13
+118
+
+15
+119
+M
+64G
+646532 *
+1! !(28:5B$
+
+
+11
+12
+
+
+13
+66
+
+
+15
+16
+S
+106L
+10610743 *
+1X X('222:5B&
+
+
+11
+12
+
+13
+127
+
+15
+128
+
+135
+13513619
+G
+8B
+8910 *
+1 (:5B$
+
+
+11
+12
+
+
+13
+14
+
+
+15
+16
+
+102
+10210319
+
+87
+878819
+O
+98I
+989932 *
+1D D(28:5B&
+
+
+11
+12
+
+13
+100
+
+15
+101
+M
+48G
+484943 *
+1 (28:5B$
+
+
+11
+50
+
+
+13
+51
+
+
+15
+52
+S
+137L
+13713832 *
+1\	 \(222:5B&
+
+
+11
+84
+
+13
+139
+
+15
+124
+M
+78G
+787932 *
+10 0(28:5B$
+
+
+11
+12
+
+
+13
+80
+
+
+15
+81
+
+93
+939419
+
+110
+11011119
+M
+74G
+747532 *
+1+ +(28:5B$
+
+
+11
+12
+
+
+13
+76
+
+
+15
+77
+
+17
+171819
+
+114
+11411519
+
+53
+535419
+
+91
+919219rË!
+
+81720*
+1# (I
+
+81721*
+1# (0
+
+82221*
+1> (H
+
+82224*
+1> (H
+
+302235*
+1 ($
+
+302236*
+1% (+
+
+302221*
+1 ($
+
+302224*
+1 ($
+
+37835*
+1 (*
+
+372235*
+19 (C
+
+37836*
+1+ (7
+
+37821*
+1 (*
+
+372236*
+1D (N
+
+372221*
+19 (C
+
+372224*
+19 (C
+
+414636*
+1 (
+
+414621*
+1 (
+
+414621*
+1 (%
+
+482536*
+1 (
+
+485355*
+1 (
+
+485621*
+1 (
+
+482521*
+1 (
+
+482524*
+1 (
+
+482521*
+1 (
+
+586236*
+1 (
+
+586221*
+1 (
+
+586221*
+1 (,
+
+644635*
+1! !(%
+
+646735*
+1!4 !(C
+
+64869*
+1! !(
+
+644636*
+1!& !(2
+
+644621*
+1! !(%
+
+646736*
+1!D !(S
+
+646721*
+1!4 !(C
+
+64821*
+1"	 "(
+
+64824*
+1"	 "(
+
+644621*
+1" "(
+
+644124*
+1" "(
+
+64821*
+1#	 #(
+
+64824*
+1#	 #(
+
+646221*
+1# #(
+
+645824*
+1# #(
+
+702535*
+1&' &(/
+
+702536*
+1&0 &(8
+
+705355*
+1& &(&
+
+705621*
+1& &(&
+
+702521*
+1&' &(/
+
+702524*
+1&' &(/
+
+70821*
+1'	 '(
+
+70824*
+1'	 '(
+
+702521*
+1' '(
+
+704824*
+1' '(
+
+822235*
+14 4(&
+
+822236*
+14' 4(1
+
+822221*
+14 4(&
+
+822224*
+14 4(&
+
+824621*
+15	 5(
+
+824124*
+15	 5(
+
+828724*
+15 5(
+
+824621*
+16 6(
+
+824124*
+16 6(
+
+828924*
+16 6(
+
+824621*
+16" 6(.
+
+829121*
+16/ 6(3
+
+829124*
+16/ 6(3
+
+829324*
+164 6(;
+
+822521*
+17 7(
+
+824824*
+17 7(
+
+822524*
+18 8()
+
+823769*
+18 8()
+
+824824*
+18 8(
+
+822521*
+18 8(
+
+824824*
+18 8(
+
+82821*
+18* 8(.
+
+82824*
+18* 8(.
+
+952235*
+1= =( 
+
+952236*
+1=! =(+
+
+952221*
+1= =( 
+
+952224*
+1= =( 
+
+952521*
+1> >(
+
+954824*
+1> >(
+
+952524*
+1? ?(!
+
+953069*
+1? ?(!
+
+954824*
+1? ?(
+
+952521*
+1? ?(
+
+954824*
+1? ?(
+
+982235*
+1D D($
+
+982236*
+1D% D(+
+
+982221*
+1D D($
+
+982224*
+1D D($
+
+98824*
+1E	 E(
+
+9810221*
+1E	 E(
+
+98824*
+1E	 E(
+
+9810421*
+1G G(
+
+9810624*
+1G G(
+
+984624*
+1GH G(b
+
+9810869*
+1GU G(b
+
+984124*
+1GH G(T
+
+984621*
+1GH G(T
+
+984124*
+1GH G(T
+
+9811021*
+1H H(
+
+9811224*
+1H H(
+
+984621*
+1H$ H(0
+
+984124*
+1H$ H(0
+
+988724*
+1H1 H(:
+
+984621*
+1J J(
+
+984124*
+1J J(
+
+988924*
+1J J(
+
+984621*
+1J" J(.
+
+989121*
+1J/ J(3
+
+989124*
+1J/ J(3
+
+989324*
+1J4 J(;
+
+9811421*
+1JY J(k
+
+986221*
+1J£ J(≤
+
+985824*
+1J£ J(≤
+
+9811021*
+1K K(
+
+9811224*
+1K K(
+
+9811021*
+1M M(
+
+9811224*
+1M M(
+
+11622120*
+1R R(
+
+11612135*
+1R( R(1
+
+1162221*
+1R R(
+
+1162224*
+1R R(
+
+11612136*
+1R2 R(8
+
+11612121*
+1R( R(1
+
+1162269*
+1S S(
+
+2212520*
+1V, V(H
+
+2212521*
+1V, V(:
+
+22821*
+1V; V(G
+
+10610436*
+1X X(
+
+10610421*
+1X X(
+
+10610421*
+1X X('
+
+11211036*
+1Y Y(
+
+11211021*
+1Y Y(
+
+11211021*
+1Y Y('
+
+13113536*
+1Z Z(
+
+13113521*
+1Z Z(
+
+13113521*
+1Z Z(%
+
+13714035*
+1\ \(
+
+1372269*
+1\	 \(
+
+13714036*
+1\ \(!
+
+13714021*
+1\ \(
+
+13710421*
+1_ _(
+
+13710624*
+1_ _(
+
+13711021*
+1` `(
+
+13711224*
+1` `(
+
+13713521*
+1a a(
+
+13713124*
+1a a(
+
+13711224*
+1c c(
+
+13711021*
+1c c(
+
+13711224*
+1c c(
+
+1372221*
+1cM c(Q
+
+1372224*
+1cM c(Q
+
+13713124*
+1e e(
+
+13713521*
+1e e(
+
+13713124*
+1e e(
+
+1372221*
+1g+ g(/
+
+1372224*
+1g+ g(/
