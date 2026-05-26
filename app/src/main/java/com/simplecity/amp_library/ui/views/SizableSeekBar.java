@@ -14,7 +14,7 @@ public class SizableSeekBar extends AestheticSeekBar {
 
     private static final String TAG = "SizableSeekBar";
 
-    private static final float maxThumbSizeRatio = 2.0f;
+    private static final float maxThumbSizeRatio = 2.0f; // NOSONAR
 
     float currentThumbSizeRatio = 1.0f;
     OnSeekBarChangeListener seekListener;

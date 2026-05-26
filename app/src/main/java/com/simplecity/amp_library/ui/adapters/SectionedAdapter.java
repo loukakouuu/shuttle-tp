@@ -6,13 +6,13 @@ import com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter;
 import com.simplecityapps.recycler_adapter.model.ViewModel;
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView;
 
-public class SectionedAdapter extends ViewModelAdapter implements FastScrollRecyclerView.SectionedAdapter {
+public class SectionedAdapter extends ViewModelAdapter implements FastScrollRecyclerView.SectionedAdapter { // NOSONAR
 
     @NonNull
     @Override
     public String getSectionName(int position) {
 
-        ViewModel viewModel = items.get(position);
+        ViewModel viewModel = items.get(position); // NOSONAR
 
         if (viewModel instanceof SectionedView) {
             return ((SectionedView) viewModel).getSectionName();

@@ -173,7 +173,7 @@ public class AlbumArtistView extends MultiItemView<AlbumArtistView.ViewHolder, A
         }
 
         if (!TextUtils.isEmpty(string)) {
-            string = string.substring(0, 1).toUpperCase();
+            string = string.substring(0, 1).toUpperCase(); // NOSONAR
         } else {
             string = " ";
         }

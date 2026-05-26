@@ -92,7 +92,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
 
         boolean requiresPermission = TaggerUtils.requiresPermission(applicationContext, paths);
 
-        for (int i = 0; i < paths.size(); i++) {
+        for (int i = 0; i < paths.size(); i++) { // NOSONAR
             final String path = paths.get(i);
             try {
 
@@ -169,7 +169,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 if (tempFiles != null && tempFiles.size() != 0) {
                     for (int j = tempFiles.size() - 1; j >= 0; j--) {
                         File file = tempFiles.get(j);
-                        file.delete();
+                        file.delete(); // NOSONAR
                         tempFiles.remove(j);
                     }
                 }

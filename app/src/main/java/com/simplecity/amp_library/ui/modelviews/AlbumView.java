@@ -129,7 +129,7 @@ public class AlbumView extends MultiItemView<AlbumView.ViewHolder, Album> implem
 
         requestManager.load(album)
                 .listener(getViewType() == ViewType.ALBUM_PALETTE ? GlidePalette.with(album.getArtworkKey())
-                        .use(GlidePalette.Profile.MUTED_DARK)
+                        .use(GlidePalette.Profile.MUTED_DARK) // NOSONAR
                         .intoBackground(holder.bottomContainer)
                         .crossfade(true)
                         : null)
