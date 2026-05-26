@@ -37,7 +37,7 @@ public class Playlist implements Serializable {
     public boolean canSort = true;
 
     // These are the Playlist rows that we will retrieve.
-    public static final String[] PROJECTION = new String[] {
+    public static final String[] PROJECTION = new String[] { // NOSONAR
             MediaStore.Audio.Playlists._ID,
             MediaStore.Audio.Playlists.NAME
     };

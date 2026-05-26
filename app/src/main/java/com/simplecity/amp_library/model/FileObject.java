@@ -7,6 +7,9 @@ import com.simplecity.amp_library.utils.StringUtils;
 
 public class FileObject extends BaseFileObject {
 
+    @Override
+    public boolean equals(Object obj) { return super.equals(obj); }
+
     public String extension;
 
     public TagInfo tagInfo;

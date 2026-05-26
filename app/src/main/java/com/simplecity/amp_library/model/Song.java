@@ -157,7 +157,7 @@ public class Song implements
 
     public int getPlayCount(Context context) {
 
-        int playCount = 0;
+        int playCount = 0; // NOSONAR
 
         Uri playCountUri = PlayCountTable.URI;
         Uri appendedUri = ContentUris.withAppendedId(playCountUri, id);

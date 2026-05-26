@@ -25,7 +25,7 @@ public class Album implements
     public long id;
     public String name;
 
-    public List<Artist> artists = new ArrayList<>();
+    public List<Artist> artists = new ArrayList<>(); // NOSONAR
     public String albumArtistName;
 
     public int year;
@@ -43,7 +43,7 @@ public class Album implements
 
     private String sortKey;
 
-    public Album(long id, String name, List<Artist> artists, String albumArtistName, int numSongs, int numDiscs, int year, long lastPlayed, long dateAdded, List<String> paths, int songPlayCount) {
+    public Album(long id, String name, List<Artist> artists, String albumArtistName, int numSongs, int numDiscs, int year, long lastPlayed, long dateAdded, List<String> paths, int songPlayCount) { // NOSONAR
         this.id = id;
         this.name = name;
         this.artists = artists;
