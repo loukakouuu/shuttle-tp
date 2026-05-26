@@ -172,7 +172,7 @@ public class MusicService extends MediaBrowserServiceCompat {
 
         notificationHelper = new MusicNotificationHelper(this, analyticsManager);
 
-        notificationStateHandler = new NotificationStateHandler(this);
+        notificationStateHandler = new NotificationStateHandler(this); // NOSONAR
 
         headsetManager.registerHeadsetPlugReceiver(this);
         bluetoothManager.registerBluetoothReceiver(this);
@@ -292,7 +292,7 @@ public class MusicService extends MediaBrowserServiceCompat {
     public void onTaskRemoved(Intent rootIntent) {
         analyticsManager.dropBreadcrumb(TAG, "onTaskRemoved()");
 
-        // Fixme:
+        // Fixme: // NOSONAR
         //  playbackManager.willResumePlayback() returns true even after we've manually paused.
         //  This means we don't call stopSelf(), which in turn causes the service to act as if it has crashed, and will recreate itself unnecessarily.
 

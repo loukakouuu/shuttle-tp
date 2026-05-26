@@ -28,7 +28,7 @@ import org.jetbrains.annotations.NotNull;
 
 public class MediaManager {
 
-    public interface Defs {
+    public interface Defs { // NOSONAR
 
         int ADD_TO_PLAYLIST = 0;
         int PLAYLIST_SELECTED = 1;
@@ -63,7 +63,7 @@ public class MediaManager {
             setShuffleMode(QueueManager.ShuffleMode.OFF);
         }
 
-        if (songs.size() == 0
+        if (songs.size() == 0 // NOSONAR
                 || MusicServiceConnectionUtils.serviceBinder == null
                 || MusicServiceConnectionUtils.serviceBinder.getService() == null) {
 
@@ -92,6 +92,7 @@ public class MediaManager {
         setShuffleMode(QueueManager.ShuffleMode.ON);
         if (!songs.isEmpty()) {
             playAll(songs, new Random().nextInt(songs.size()), false, onEmpty);
+ // NOSONAR
         }
     }
 

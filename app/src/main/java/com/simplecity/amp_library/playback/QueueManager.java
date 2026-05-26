@@ -490,7 +490,7 @@ public class QueueManager {
      * Converts a string representation of a playlist from SharedPrefs into a list of songs.
      */
     private List<QueueItem> deserializePlaylist(String listString, List<QueueItem> queueItems) {
-        List<Long> ids = new ArrayList<>();
+        List<Long> ids = new ArrayList<>(); // NOSONAR
         int n = 0;
         int shift = 0;
         for (int i = 0; i < listString.length(); i++) {

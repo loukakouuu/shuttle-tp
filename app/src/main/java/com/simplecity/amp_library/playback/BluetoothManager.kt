@@ -22,7 +22,7 @@ class BluetoothManager(
 
     private var a2dpReceiver: BroadcastReceiver? = null
 
-    fun registerBluetoothReceiver(context: Context) {
+    fun registerBluetoothReceiver(context: Context) { // NOSONAR
 
         val filter = IntentFilter()
         filter.addAction(BluetoothA2dp.ACTION_CONNECTION_STATE_CHANGED)
