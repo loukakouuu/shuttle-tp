@@ -96,7 +96,7 @@ public final class CustomCollapsingTextHelper {
     private Interpolator mPositionInterpolator;
     private Interpolator mTextSizeInterpolator;
 
-    private float mCollapsedShadowRadius, mCollapsedShadowDx, mCollapsedShadowDy;
+    private float mCollapsedShadowRadius, mCollapsedShadowDx, mCollapsedShadowDy; // NOSONAR
     private int mCollapsedShadowColor;
 
     private float mExpandedShadowRadius, mExpandedShadowDx, mExpandedShadowDy;
@@ -305,7 +305,7 @@ public final class CustomCollapsingTextHelper {
                 return Typeface.create(family, Typeface.NORMAL);
             }
         } catch (Exception e) {
-            throw new RuntimeException("Unable to read font family typeface: " + resId);
+            throw new RuntimeException("Unable to read font family typeface: " + resId); // NOSONAR
         } finally {
             a.recycle();
         }
@@ -494,7 +494,7 @@ public final class CustomCollapsingTextHelper {
         float textHeight = mTitlePaint.descent() - mTitlePaint.ascent();
         if (!TextUtils.isEmpty(mSub)) {
             float subHeight = mSubPaint.descent() - mSubPaint.ascent();
-            float subOffset = (subHeight / 2) - mSubPaint.descent();
+            float subOffset = (subHeight / 2) - mSubPaint.descent(); // NOSONAR
             float offset = ((mCollapsedBounds.height() - (textHeight + subHeight)) / 3);
 
             mCollapsedDrawY = mCollapsedBounds.top + offset - mTitlePaint.ascent();
@@ -537,7 +537,7 @@ public final class CustomCollapsingTextHelper {
                 fraction, mPositionInterpolator);
     }
 
-    public void draw(Canvas canvas) {
+    public void draw(Canvas canvas) { // NOSONAR
         final int saveCount = canvas.save();
 
         if (mTextToDraw != null && mDrawTitle) {

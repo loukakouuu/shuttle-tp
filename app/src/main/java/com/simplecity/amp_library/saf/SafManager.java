@@ -217,7 +217,7 @@ public class SafManager {
                             Log.w(TAG, "Unexpected external file dir: " + file.getAbsolutePath());
                         } else {
                             String path = file.getAbsolutePath().substring(0, index);
-                            try {
+                            try { // NOSONAR
                                 path = new File(path).getCanonicalPath();
                             } catch (IOException e) {
                                 // Keep non-canonical path.

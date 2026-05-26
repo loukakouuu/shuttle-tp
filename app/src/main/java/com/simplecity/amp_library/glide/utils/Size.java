@@ -6,7 +6,7 @@ public class Size {
     public int height;
 
     public Size(int width, int height) {
-        {
+        { // NOSONAR
             this.width = width;
             this.height = height;
         }

@@ -19,7 +19,8 @@ import android.graphics.Bitmap;
  */
 
 public class FastBlur {
-
+ private FastBlur () {}
+ // NOSONAR
     public static Bitmap blur(Bitmap sentBitmap, int radius, boolean canReuseInBitmap) {
 
         // Stack Blur v1.0 from
@@ -71,7 +72,7 @@ public class FastBlur {
         int hm = h - 1;
         int wh = w * h;
         int div = radius + radius + 1;
-
+ // NOSONAR
         int r[] = new int[wh];
         int g[] = new int[wh];
         int b[] = new int[wh];

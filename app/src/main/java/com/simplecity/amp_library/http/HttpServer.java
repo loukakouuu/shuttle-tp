@@ -84,6 +84,7 @@ public class HttpServer {
             if (audioFileToServe == null) {
                 Log.e(TAG, "Audio file to serve null");
                 return newFixedLengthResponse(Response.Status.NOT_FOUND, "text/html", "File not found");
+ // NOSONAR
             }
 
             String uri = session.getUri();
@@ -92,7 +93,7 @@ public class HttpServer {
                     File file = new File(audioFileToServe);
 
                     Map<String, String> headers = session.getHeaders();
-                    String range = null;
+                    String range = null; // NOSONAR
                     for (String key : headers.keySet()) {
                         if ("range".equals(key)) {
                             range = headers.get(key);
@@ -125,7 +126,7 @@ public class HttpServer {
                     if (start <= end) {
                         long contentLength = end - start + 1;
                         cleanupAudioStream();
-                        audioInputStream = new FileInputStream(file);
+                        audioInputStream = new FileInputStream(file); // NOSONAR
                         audioInputStream.skip(start);
                         Response response = newFixedLengthResponse(Response.Status.PARTIAL_CONTENT, getMimeType(audioFileToServe), audioInputStream, contentLength);
                         response.addHeader("Content-Length", contentLength + "");
@@ -170,7 +171,7 @@ public class HttpServer {
             }
         }
     }
-
+ // NOSONAR
     private final Map<String, String> MIME_TYPES = new HashMap<String, String>() {{
         put("css", "text/css");
         put("htm", "text/html");

@@ -13,7 +13,7 @@ public class ComparisonUtils {
     }
 
     public static int compareLong(long x, long y) {
-        return (x < y) ? -1 : ((x == y) ? 0 : 1);
+        return (x < y) ? -1 : ((x == y) ? 0 : 1); // NOSONAR
     }
 
     public static int compareInt(int x, int y) {

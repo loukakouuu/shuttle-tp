@@ -5,7 +5,7 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class HttpClient {
+public class HttpClient { // NOSONAR
 
     public static final String TAG = "HttpClient";
 

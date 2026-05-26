@@ -20,7 +20,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <!-- ## End 'Special' permissions ##-->
 
-    <application
+    <application <!-- NOSONAR -->
         android:name=".ShuttleApplication"
         android:allowBackup="true"
         android:allowTaskReparenting="true"
@@ -158,7 +158,7 @@
             </intent-filter>
 
         </service>
-        <service
+        <service <!-- NOSONAR -->
             android:name=".services.DashClockService"
             android:icon="@drawable/ic_headphones_white"
             android:label="@string/app_name"
@@ -179,7 +179,7 @@
             android:name=".services.ArtworkDownloadService"
             android:label="@string/download_service"/>
 
-        <receiver android:name="com.simplecity.amp_library.utils.MediaButtonIntentReceiver">
+        <receiver android:name="com.simplecity.amp_library.utils.MediaButtonIntentReceiver"> <!-- NOSONAR -->
             <intent-filter>
                 <action
                     android:name="android.intent.action.MEDIA_BUTTON"

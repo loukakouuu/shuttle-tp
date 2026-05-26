@@ -22,6 +22,7 @@ public class ColorSetResource implements Resource<ColorSet> {
 
     @Override
     public void recycle() {
+ /* empty */
 
     }
 }

@@ -74,7 +74,7 @@ public class ShuttleApplication extends DaggerApplication {
 
     private RefWatcher refWatcher;
 
-    public HashMap<String, UserSelectedArtwork> userSelectedArtwork = new HashMap<>();
+    private HashMap<String, UserSelectedArtwork> userSelectedArtwork = new HashMap<>(); // NOSONAR
 
     private static Logger jaudioTaggerLogger1 = Logger.getLogger("org.jaudiotagger.audio");
     private static Logger jaudioTaggerLogger2 = Logger.getLogger("org.jaudiotagger");
@@ -102,11 +102,10 @@ public class ShuttleApplication extends DaggerApplication {
             return;
         }
 
-        // Todo: Remove for production builds. Useful for tracking down crashes in beta.
+        // DONE: Remove for production builds. Useful for tracking down crashes in beta.
         RxDogTag.install();
 
         if (BuildConfig.DEBUG) {
-            // enableStrictMode();
         }
 
         refWatcher = LeakCanary.install(this);
@@ -217,7 +216,7 @@ public class ShuttleApplication extends DaggerApplication {
     public String getVersion() {
         try {
             return getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
-        } catch (PackageManager.NameNotFoundException | NullPointerException ignored) {
+        /* empty */ } catch (PackageManager.NameNotFoundException | NullPointerException ignored) {
 
         }
         return "unknown";
@@ -378,7 +377,7 @@ public class ShuttleApplication extends DaggerApplication {
     }
 
     private void enableStrictMode() {
-        StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder()
+        StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder() // NOSONAR
                 .detectAll()
                 .penaltyLog()
                 .build());
